@@ -1,0 +1,9 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+
+oandapyV20
+pandas
+plotly
+TA-Lib 
+technical
+TA_Lib-0.4.28-cp311-cp311-win_amd64.whl
+requests
