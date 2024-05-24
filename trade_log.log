@@ -1,24 +1,74 @@
-2024-05-22 17:26:54,760:INFO:setting up API-client for environment practice
-2024-05-22 17:26:54,760:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-22 17:27:55,506:INFO:setting up API-client for environment practice
-2024-05-22 17:27:55,506:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-22 17:28:55,972:INFO:setting up API-client for environment practice
-2024-05-22 17:28:55,972:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-22 17:29:56,516:INFO:setting up API-client for environment practice
-2024-05-22 17:29:56,516:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-22 17:30:57,031:INFO:setting up API-client for environment practice
-2024-05-22 17:30:57,031:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-22 17:31:57,525:INFO:setting up API-client for environment practice
-2024-05-22 17:31:57,525:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-22 17:32:58,073:INFO:setting up API-client for environment practice
-2024-05-22 17:32:58,073:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-23 08:39:42,162:INFO:setting up API-client for environment practice
-2024-05-23 08:39:42,162:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-23 08:40:44,732:INFO:setting up API-client for environment practice
-2024-05-23 08:40:44,732:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-23 08:41:45,267:INFO:setting up API-client for environment practice
-2024-05-23 08:41:45,267:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-23 08:42:45,798:INFO:setting up API-client for environment practice
-2024-05-23 08:42:45,798:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
-2024-05-23 08:43:46,335:INFO:setting up API-client for environment practice
-2024-05-23 08:43:46,335:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
+2024-05-24 09:54:24,382:INFO:setting up API-client for environment practice
+2024-05-24 09:54:24,383:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
+2024-05-24 09:55:25,038:INFO:setting up API-client for environment practice
+2024-05-24 09:55:25,038:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
+2024-05-24 09:56:11,542:INFO:setting up API-client for environment practice
+2024-05-24 09:56:11,542:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
+2024-05-24 09:56:12,744:INFO:Script interrupted. Candle data saved to candle_data.csv.
+2024-05-24 09:56:15,571:INFO:setting up API-client for environment practice
+2024-05-24 09:56:15,571:INFO:performing request https://api-fxpractice.oanda.com/v3/instruments/EUR_USD/candles
+2024-05-24 09:57:05,552:INFO:Script interrupted. Candle data saved to candle_data.csv.
+2024-05-24 09:57:07,732:INFO:Fetching data for instrument: EUR_USD
+2024-05-24 09:57:08,238:INFO:Data fetched and processed for instrument: EUR_USD
+2024-05-24 09:57:08,240:INFO:Last candle data: Time        2024-05-24 09:57:00+10:00
+Open                          1.08133
+High                          1.08133
+Low                           1.08132
+Close                         1.08133
+smaHigh                      1.081434
+smaLow                       1.081396
+sslDown                      1.081434
+sslUp                        1.081396
+Position                         sell
+SIGNAL                          False
+baseline                       1.0814
+Name: 399, dtype: object
+2024-05-24 09:57:29,562:INFO:Script interrupted. Saving collected candle data.
+2024-05-24 09:57:29,580:INFO:Candle data saved to candle_data.csv.
+2024-05-24 09:57:32,573:INFO:Fetching data for instrument: EUR_USD
+2024-05-24 09:57:33,150:INFO:Data fetched and processed for instrument: EUR_USD
+2024-05-24 09:57:33,151:INFO:Last candle data: Time        2024-05-24 09:57:00+10:00
+Open                          1.08133
+High                          1.08133
+Low                           1.08126
+Close                         1.08127
+smaHigh                      1.081434
+smaLow                        1.08139
+sslDown                      1.081434
+sslUp                         1.08139
+Position                         sell
+SIGNAL                          False
+baseline                     1.081392
+Name: 399, dtype: object
+2024-05-24 09:58:33,152:INFO:Fetching data for instrument: EUR_USD
+2024-05-24 09:58:33,634:INFO:Data fetched and processed for instrument: EUR_USD
+2024-05-24 09:58:33,635:INFO:Last candle data: Time        2024-05-24 09:58:00+10:00
+Open                          1.08124
+High                          1.08125
+Low                           1.08123
+Close                         1.08123
+smaHigh                      1.081411
+smaLow                       1.081364
+sslDown                      1.081411
+sslUp                        1.081364
+Position                         sell
+SIGNAL                          False
+baseline                      1.08136
+Name: 399, dtype: object
+2024-05-24 09:59:24,202:INFO:Script interrupted. Saving collected candle data.
+2024-05-24 09:59:24,207:INFO:Candle data saved to candle_data.csv.
+2024-05-24 10:06:12,626:INFO:Fetching data for instrument: EUR_USD
+2024-05-24 10:06:13,190:INFO:Data fetched and processed for instrument: EUR_USD
+2024-05-24 10:06:13,191:INFO:Last candle data: Time        2024-05-24 10:06:00+10:00
+Open                          1.08102
+High                          1.08102
+Low                           1.08102
+Close                         1.08102
+smaHigh                      1.081146
+smaLow                       1.081079
+sslDown                      1.081146
+sslUp                        1.081079
+Position                         sell
+SIGNAL                          False
+baseline                     1.081076
+Name: 399, dtype: object

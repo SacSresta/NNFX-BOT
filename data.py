@@ -3,6 +3,7 @@ from oandapyV20 import API    # the client
 import oandapyV20.endpoints.instruments as instruments
 import oandapyV20.endpoints.accounts as accounts
 import oandapyV20.endpoints.orders as orders
+from oandapyV20.exceptions import V20Error
 import pandas as pd
 import time
 
@@ -59,12 +60,12 @@ class ForexData:
         # Create the order request
         r = orders.OrderCreate(accountID=self.accountID, data=data)
         try:
-            response = self.api.request(r)
-            print("Order created successfully:")
-            print(json.dumps(response, indent=2))
+            logging.info(f"Creating order: Instrument={instrument}, Units={units}, Side={side}")
+            response = ForexData().api.request(r)
+            logging.info(f"Order created: {response}")
             return response
-        except oandapyV20.exceptions.V20Error as err:
-            print(f"Error creating order: {err}")
+        except V20Error as err:
+            logging.error(f"Error creating order for instrument {instrument}: {err}")
             return None
     
     
