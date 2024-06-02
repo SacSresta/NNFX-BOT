@@ -34,6 +34,10 @@ class ForexData:
         df['Time'] = df['Time'].dt.tz_convert('Australia/Sydney')
         for col in ['Open', 'High', 'Low', 'Close']:
             df[col] = df[col].astype(float)
+        df=pd.merge(df,pd.DataFrame(response),left_index=True, right_index=True,how = 'inner')
+        if 'candles' in df.columns:
+            df = df.drop(columns='candles')
+        df=df[['instrument', 'Time', 'granularity', 'Open', 'High', 'Low', 'Close']]
         return df
 
     def fetch_tradable_instruments(self):
