@@ -4,7 +4,7 @@ import time
 import pandas as pd
 import logging
 import os
-
+from Trademanager import Trademanager
 # Configure logging for your script
 logging.basicConfig(filename='trade_log.log', level=logging.INFO, 
                     format='%(asctime)s:%(levelname)s:%(message)s')
@@ -57,7 +57,10 @@ def main():
     try:
         while True:
             for pair in instrument:
-                last_candle = fetch_and_process_data(pair)
+                last_candle = Trademanager().fetch_and_process_data(pair)
+                check_result = ForexData().run_check(pair=pair)
+                if isinstance(check_result,tuple):
+                    
                 if last_candle is not None:
                     logging.info(f"Last candle data: {last_candle}")
                     # Append the last_candle to the candle_data list

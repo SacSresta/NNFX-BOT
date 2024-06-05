@@ -82,7 +82,7 @@ class ForexData:
             for current_trade_pair in current_trade_pairs:
                 current_trade_currency = current_trade_pair.split("_")
                 # Check if any part of the trade pair matches the signal currency
-                if (current_trade_currency[0] in signal_currency) or (current_trade_currency[1] in signal_currency):
+                if signal_currency[0] in current_trade_currency or current_trade_currency[1] in signal_currency:
                     matching_pairs.append(current_trade_pair)
             if matching_pairs:
                 return True, matching_pairs  # Return True with a list of all matching pairs
