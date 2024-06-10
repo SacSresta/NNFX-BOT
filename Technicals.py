@@ -27,10 +27,11 @@ class Indicator:
         return data
 
 
-    def ATR(self, data, timeperiod):
+    def ATR(self, data, timeperiod = 14):
         data['ATR'] = talib.ATR(data['High'].values, data['Low'].values, data['Close'].values, timeperiod=timeperiod)
-        df['atrup'] = df['Close'] + df['ATR']
-        df['atrdown'] = df['Close'] - df['ATR']
+        data['atrup'] = data['Close'] + data['ATR']
+        data['atrdown'] = data['Close'] - data['ATR']
+        data['SL'] = data['Close'] - (data['ATR'] * 1.5)
         return data
 
 if __name__ == "__main__":

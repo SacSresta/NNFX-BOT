@@ -6,14 +6,15 @@ import pandas as pd
 
 class Trademanager():
     def __init__(self):
-        pass
+        self.account_bal = ForexData().get_account_balance()
 
     def fetch_and_process(self,instrument):
         df = ForexData().fetch_data(instrument=instrument, count=400, granularity="M1")
         if df is not None:
             indicator = Indicator()
             ssl_df = indicator.SSL(data=df, period=10)
-            baseline_df = indicator.Baseline(ssl_df, period=8)
+            Atr_df = indicator.ATR(data=ssl_df, timeperiod= 14)
+            baseline_df = indicator.Baseline(Atr_df, period=8)
             #logging.info(f"Data fetched and processed for instrument: {instrument}")
             return baseline_df.iloc[-1]
         return None
@@ -39,19 +40,47 @@ class Trademanager():
                 ForexData().create_order(instrument=signal_currency, units=1000, str ="MARKET" ,side=side)
                 print("ORDER CREATED")
 
+    def trades_to_close_df(self, matching_pairs):
+        current_trades = ForexData().running_trades()
+        list_df = []
+        for matching_pair in matching_pairs:
+            trades_to_close = current_trades[current_trades['instrument'] == matching_pair]
+    
+        return trades_to_close
 
-    def create_order(self,df,pair):
-        df = value
-        if df is None:
-            side = df['Position']
-            ForexData().create_order(instrument=pair, units=1000, order_type="MARKET", side=side)
-        pass
+
+    def _close_relevant_trades(self, pair, running_pairs, current_trades):
+        """
+        Close the relevant trades based on the running pairs.
+        
+        Args:
+        - pair (str): The currency pair for which the signal was generated.
+        - running_pairs (list): List of currency pairs currently running.
+        - current_trades (DataFrame): DataFrame of current running trades.
+        """
+        for run_pair in running_pairs:
+            if pair == run_pair:
+                print(f"{run_pair} is running and we have generated a signal for {pair}")
+                trades_to_close = current_trades[current_trades['instrument'] == run_pair]
+                for index, trade in trades_to_close.iterrows():
+                    #logging.info(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {run_pair} is getting closed as it was opened before.")
+                    print(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {run_pair} is getting closed as it was opened before.")
+                    ForexData().close_trade(trade_id=trade['id'], units=abs(int(trade['currentUnits'])))
+
+    def position_size_calculator(self,risk_pct = 0.02,stop_loss = None):
+        if stop_loss is None:
+            raise ValueError("Stop loss must be specified")
+        account_bal = self.account_bal
+        risk_amount = account_bal * risk_pct
+        position_size = risk_amount * stop_loss
+        return position_size
+
+
 
         
     
-
-
-    
+if __name__ == "__main__":
+    print(Trademanager().position_size_calculator(stop_loss=0.4873))
 
     
     

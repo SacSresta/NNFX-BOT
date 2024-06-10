@@ -9,8 +9,8 @@ import oandapyV20.endpoints.positions as position
 import pandas as pd
 import time
 
-accountID = "101-011-24509333-001"
-access_token = "2092774d87027059265e897f7452eaa9-d4a0390dbef600c8119e62ab83b0b5a2"
+accountID = "101-011-24509333-004"
+access_token = "5c2da6fbe43ec464a3816fc74229f496-e6769428284068cfcf8dca4a32febf83"
 
 class ForexData:
     def __init__(self, accountID=accountID, access_token=access_token):
@@ -73,7 +73,7 @@ class ForexData:
         try:
             current_trades_df = self.running_trades()
             if current_trades_df.empty:
-                return False
+                return False,[]
             
             current_trade_pairs = current_trades_df['instrument'].tolist()
             signal_currency = pair.split("_")
@@ -82,7 +82,7 @@ class ForexData:
             for current_trade_pair in current_trade_pairs:
                 current_trade_currency = current_trade_pair.split("_")
                 # Check if any part of the trade pair matches the signal currency
-                if signal_currency[0] in current_trade_currency or current_trade_currency[1] in signal_currency:
+                if (signal_currency[0] in current_trade_currency or signal_currency[1] in current_trade_currency):
                     matching_pairs.append(current_trade_pair)
             if matching_pairs:
                 return True, matching_pairs  # Return True with a list of all matching pairs
@@ -102,8 +102,28 @@ class ForexData:
         except V20Error as err:
             print(f"Error closing trade {trade_id}: {err}")
             return None
+        
+    def get_account_balance(self):
+
+        """
+        Retrieves the current account balance from an OANDA v20 account.
+        
+        Args:
+        - account_id (str): Your OANDA account ID.
+        - access_token (str): Your OANDA API access token.
+        
+        Returns:
+        - float: The account balance.
+        """
+        account = accounts.AccountDetails(ForexData().accountID)
+        response = ForexData().api.request(account)
+
+    # Extract the balance from the response
+        balance = float(response['account']['balance'])
+        return balance
 
 if __name__ == "__main__":
     forex_data = ForexData()
-    instruments = forex_data.fetch_tradable_instruments()
-    print(instruments)
+    r = trades.TradesList(accountID=ForexData().accountID)
+    response = ForexData().api.request(r)
+    print(response)

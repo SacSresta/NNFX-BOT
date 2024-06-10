@@ -5,6 +5,7 @@ import pandas as pd
 import logging
 import os
 from Trademanager import Trademanager
+
 # Configure logging for your script
 logging.basicConfig(filename='trade_log.log', level=logging.INFO, 
                     format='%(asctime)s:%(levelname)s:%(message)s')
@@ -57,32 +58,32 @@ def main():
     try:
         while True:
             for pair in instrument:
-                last_candle = Trademanager().fetch_and_process_data(pair)
-                check_result = ForexData().run_check(pair=pair)
-                if isinstance(check_result,tuple):
-                    
+                last_candle = Trademanager().fetch_and_process(pair)
                 if last_candle is not None:
                     logging.info(f"Last candle data: {last_candle}")
                     # Append the last_candle to the candle_data list
                     candle_data.append(last_candle.to_dict())
                     if 'SIGNAL' in last_candle and last_candle['SIGNAL']:
+                        print(f"Signal for {pair} generated running check.")
                         result = ForexData().run_check(pair)
-                        if isinstance(result, tuple):  # Check if result is a tuple
-                            check, running_pair = result
-                            if check == True:
-                                current_trades = ForexData().running_trades()
-                                for run_pair in running_pair:
-                                    print(f"{run_pair} is running and we have generated signal for {pair}")
-                                    trades_to_close = current_trades[current_trades['instrument'] == run_pair]
-                                    for index, trade in trades_to_close.iterrows():
-                                        logging.info(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {run_pair} is getting closed as it was opened before.")
-                                        print(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {run_pair} is getting closed as it was opened before.")
-                                        ForexData().close_trade(trade_id= trade['id'], units=abs(int(trade['currentUnits'])))
+                        if isinstance(result,tuple):
+                            check,matching_pair = result
+                            print(f"matching pairs found here :{matching_pair}")
+                            current_trades = ForexData().running_trades()
+                            for running_pair in matching_pair:
+                                trades_to_close = current_trades[current_trades['instrument'] == running_pair]
+                                for index, trade in trades_to_close.iterrows():
+                                    logging.info(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {running_pair} is getting closed as it was opened before.")
+                                    print(f"Closing trade for id:{trade['id']},pair:{trade['instrument']}")
+                                    ForexData().close_trade(trade_id= trade['id'], units=abs(int(trade['currentUnits'])))
                         side = last_candle['Position']
-                        order_response = ForexData().create_order(instrument=pair, units=1000, order_type="MARKET", side=side)
-                        print(f"Order created for pair{pair}")
+                        unit = Trademanager().position_size_calculator(stop_loss= (last_candle['ATR'] * 150))
+                        print(unit)
+                        order_response = ForexData().create_order(instrument=pair, units=round(unit), order_type="MARKET", side=side)
                         if order_response is not None:
-                            logging.info(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}, Details: {order_response}")
+                            logging.info(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}, Details: {order_response}, Units: {unit}")
+                            print(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}")
+            time.sleep(60)
     except KeyboardInterrupt:
         logging.info("Script interrupted. Saving collected candle data.")
         save_candle_data(candle_data)

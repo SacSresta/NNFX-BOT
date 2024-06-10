@@ -11,6 +11,13 @@ def main():
                 ForexData().create_order(pair)
             else:
                 ForexData().create_order(pair)
+
+
+                if 'SIGNAL' in last_candle and last_candle['SIGNAL']:
+                        result = ForexData().run_check(pair)
+                        if isinstance(result,tuple):
+                            check,running_pairs = result
+                            if check == True:
                 
 
 
