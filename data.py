@@ -17,7 +17,7 @@ class ForexData:
         self.api = API(access_token=access_token)
         self.accountID = accountID
 
-    def fetch_data(self, instrument, count=5000, granularity="H1", price="M"):
+    def fetch_data(self, instrument, count=5000, granularity="H1", price="MAB",price_type = "mid"):
         params = {
             "count": count,
             "granularity": granularity,
@@ -25,10 +25,20 @@ class ForexData:
         }
         r = instruments.InstrumentsCandles(instrument=instrument, params=params)
         response = self.api.request(r)
-        return self.process_data(response)
+        return self.process_data(response,price_type=price_type)
 
-    def process_data(self, response):
-        prices = [(candle['time'], candle['mid']['o'], candle['mid']['h'], candle['mid']['l'], candle['mid']['c']) for candle in response['candles']]
+    def process_data(self, response, price_type='mid'):
+
+    # Validate price type input
+        if price_type not in ['mid', 'ask', 'bid']:
+            raise ValueError("Invalid price type specified: must be 'mid', 'ask', or 'bid'")
+
+        # Extracting candle data according to the specified price type
+        prices = [
+            (candle['time'], candle[price_type]['o'], candle[price_type]['h'], candle[price_type]['l'], candle[price_type]['c'])
+            for candle in response['candles']
+        ]
+        
         df = pd.DataFrame(prices, columns=['Time', 'Open', 'High', 'Low', 'Close'])
         df['Time'] = pd.to_datetime(df['Time'])
         df['Time'] = df['Time'].dt.tz_convert('Australia/Sydney')
@@ -39,6 +49,15 @@ class ForexData:
             df = df.drop(columns='candles')
         df=df[['instrument', 'Time', 'granularity', 'Open', 'High', 'Low', 'Close']]
         return df
+    
+    def pipLocation(self,pair):
+        r = accounts.AccountInstruments(accountID=self.accountID)
+        response = self.api.request(r)
+        df = pd.DataFrame(response)
+        loc = [instrument for instrument in df['instruments']]
+        fd = pd.DataFrame(loc)
+        x = fd[fd['name'] == pair]['pipLocation']
+        return x.iloc[0]
 
     def fetch_tradable_instruments(self):
         r = accounts.AccountInstruments(accountID=self.accountID)
@@ -48,20 +67,41 @@ class ForexData:
     def fetch_last_candle(self, instrument, granularity="M1"):
         return self.fetch_data(instrument=instrument, count=1, granularity=granularity, price="M")
     
-    def create_order(self, instrument, units, order_type="MARKET", side="buy"):
+    def create_order(self, instrument, units, order_type="MARKET", side="buy", stop_loss=None, take_profit=None):
         data = {
             "order": {
                 "instrument": instrument,
                 "units": str(units) if side.lower() == "buy" else str(-units),
                 "type": order_type,
-                "positionFill": "DEFAULT"
+                "positionFill": "DEFAULT",
+                # Optionally retry on rejection
+                "retryOnReject": "TRUE"
             }
         }
+
+        # Determine the number of decimal places needed for JPY pairs
+        precision = 3 if "JPY" in instrument else 5  # Adjust based on more specific requirements or data
+
+        # Adding stop loss if specified
+        if stop_loss is not None:
+            data["order"]["stopLossOnFill"] = {
+                "timeInForce": "GTC",  # 'GTC' = Good Till Cancelled
+                "price": f"{stop_loss:.{precision}f}"  # Format price with correct precision
+            }
+        
+        # Adding take profit if specified
+        if take_profit is not None:
+            data["order"]["takeProfitOnFill"] = {
+                "timeInForce": "GTC",
+                "price": f"{take_profit:.{precision}f}"  # Format price with correct precision
+            }
+
         r = orders.OrderCreate(accountID=self.accountID, data=data)
         try:
             response = self.api.request(r)
             return response
         except V20Error as err:
+            print(f"Error creating order: {err}")
             return None
 
     def running_trades(self):

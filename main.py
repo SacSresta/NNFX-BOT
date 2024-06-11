@@ -78,8 +78,9 @@ def main():
                                     ForexData().close_trade(trade_id= trade['id'], units=abs(int(trade['currentUnits'])))
                         side = last_candle['Position']
                         unit = Trademanager().position_size_calculator(stop_loss= (last_candle['ATR'] * 150))
-                        print(unit)
-                        order_response = ForexData().create_order(instrument=pair, units=round(unit), order_type="MARKET", side=side)
+                        SL = last_candle['SL']
+                        TP = last_candle['TP']
+                        order_response = ForexData().create_order(instrument=pair, units=round(unit), order_type="MARKET", side=side, stop_loss=SL, take_profit= TP)
                         if order_response is not None:
                             logging.info(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}, Details: {order_response}, Units: {unit}")
                             print(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}")

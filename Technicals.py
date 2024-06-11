@@ -32,6 +32,7 @@ class Indicator:
         data['atrup'] = data['Close'] + data['ATR']
         data['atrdown'] = data['Close'] - data['ATR']
         data['SL'] = data['Close'] - (data['ATR'] * 1.5)
+        data['TP'] = data['Close'] + data['ATR']
         return data
 
 if __name__ == "__main__":
