@@ -27,12 +27,15 @@ class Indicator:
         return data
 
 
-    def ATR(self, data, timeperiod = 14):
+    def ATR(self, data, timeperiod=14):
         data['ATR'] = talib.ATR(data['High'].values, data['Low'].values, data['Close'].values, timeperiod=timeperiod)
         data['atrup'] = data['Close'] + data['ATR']
         data['atrdown'] = data['Close'] - data['ATR']
-        data['SL'] = data['Close'] - (data['ATR'] * 1.5)
-        data['TP'] = data['Close'] + data['ATR']
+
+        # Calculate SL and TP based on the Position
+        data['SL'] = data.apply(lambda row: row['Close'] - (row['ATR'] * 1.5) if row['Position'] == 'buy' else row['Close'] + (row['ATR'] * 1.5), axis=1)
+        data['TP'] = data.apply(lambda row: row['Close'] + row['ATR'] if row['Position'] == 'buy' else row['Close'] - row['ATR'], axis=1)
+
         return data
 
 if __name__ == "__main__":

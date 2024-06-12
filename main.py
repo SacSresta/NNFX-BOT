@@ -58,7 +58,7 @@ def main():
     try:
         while True:
             for pair in instrument:
-                last_candle = Trademanager().fetch_and_process(pair)
+                last_candle = Trademanager().fetch_and_process(pair,granularity="D")
                 if last_candle is not None:
                     logging.info(f"Last candle data: {last_candle}")
                     # Append the last_candle to the candle_data list
@@ -75,15 +75,20 @@ def main():
                                 for index, trade in trades_to_close.iterrows():
                                     logging.info(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {running_pair} is getting closed as it was opened before.")
                                     print(f"Closing trade for id:{trade['id']},pair:{trade['instrument']}")
-                                    ForexData().close_trade(trade_id= trade['id'], units=abs(int(trade['currentUnits'])))
+                                    #ForexData().close_trade(trade_id= trade['id'], units=abs(int(trade['currentUnits'])))
                         side = last_candle['Position']
-                        unit = Trademanager().position_size_calculator(stop_loss= (last_candle['ATR'] * 150))
+                        price_type = 'bid' if side == "buy" else 'ask'
+                        last_candle = Trademanager().fetch_and_process(instrument=pair, price_type=price_type, granularity="D")
+                        pipvalue = Trademanager().pip_size(last_candle)
+                        print(pipvalue)
+                        unit = round(Trademanager().position_size_calculator(stop_loss=pipvalue*1.5))
+                        print(unit)
                         SL = last_candle['SL']
                         TP = last_candle['TP']
                         order_response = ForexData().create_order(instrument=pair, units=round(unit), order_type="MARKET", side=side, stop_loss=SL, take_profit= TP)
                         if order_response is not None:
                             logging.info(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}, Details: {order_response}, Units: {unit}")
-                            print(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}")
+                            print(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']},Details:{order_response}")
             time.sleep(60)
     except KeyboardInterrupt:
         logging.info("Script interrupted. Saving collected candle data.")

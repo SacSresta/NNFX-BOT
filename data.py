@@ -27,7 +27,7 @@ class ForexData:
         response = self.api.request(r)
         return self.process_data(response,price_type=price_type)
 
-    def process_data(self, response, price_type='mid'):
+    def process_data(self, response, price_type='ask'):
 
     # Validate price type input
         if price_type not in ['mid', 'ask', 'bid']:
