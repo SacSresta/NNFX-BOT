@@ -81,6 +81,7 @@ def main():
                         SL = last_candle['SL']
                         TP = last_candle['TP']
                         order_response = ForexData().create_order(instrument=pair, units=round(unit), order_type="MARKET", side=side, stop_loss=SL, take_profit= TP)
+                        print(unit)
                         if order_response is not None:
                             logging.info(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}, Details: {order_response}, Units: {unit}")
                             print(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}")

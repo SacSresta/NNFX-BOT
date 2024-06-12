@@ -37,7 +37,7 @@ class Indicator:
 
 if __name__ == "__main__":
     forex_data = ForexData()
-    df = forex_data.fetch_data("GBP_USD")
+    df = forex_data.fetch_data("EUR_AUD")
     indicator = Indicator()
     print(indicator.SMA_CROSS(df, 8, 10))
     print(indicator.SSL(df, 10))
