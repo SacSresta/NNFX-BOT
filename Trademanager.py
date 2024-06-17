@@ -67,13 +67,13 @@ class Trademanager():
                     print(f"Order for id: {trade['id']} for {trade['currentUnits']} units of pair {run_pair} is getting closed as it was opened before.")
                     ForexData().close_trade(trade_id=trade['id'], units=abs(int(trade['currentUnits'])))
 
-    def position_size_calculator(self,risk_pct = 0.02,stop_loss = None):
+    def position_size_calculator(self,risk_pct = 0.02,stop_loss = None,ask = None):
         if stop_loss is None:
             raise ValueError("Stop loss must be specified")
         account_bal = self.account_bal
         risk_amount = account_bal * risk_pct
         position_size = risk_amount / stop_loss
-        return position_size
+        return position_size * 10000
 
     def pip_size(self, last_candle):
         pipLocation = ForexData().pipLocation(pair=last_candle['instrument'])
@@ -82,21 +82,20 @@ class Trademanager():
         pip_value = pow(10, float(abs(pipLocation)))
         
         return round(last_candle['ATR'] * pip_value)
+    
 
 
 
         
     
 if __name__ == "__main__":
-    last_candle = Trademanager().fetch_and_process(instrument="USD_JPY",granularity="D",price_type='ask')
-    pipLocation = ForexData().pipLocation(pair="USD_JPY")
-    print(pipLocation)
-    pip_size = pow(10, float(pipLocation))
-    print(pip_size)
-    pip_value_based_on_atr = last_candle['ATR'] * 100
-    print(pip_value_based_on_atr)
-    pipsize = Trademanager().pip_size(last_candle)
-    print(pipsize)
+    last_candle = Trademanager().fetch_and_process(instrument="AUD_JPY",granularity="M1",price_type="ask")
+    pipvalue = Trademanager().pip_size(last_candle)
+    unit = Trademanager().position_size_calculator(stop_loss=pipvalue*1.5,risk_pct=0.02)
+    print(Trademanager().account_bal)
+    print(pipvalue *1.5)
+    print(last_candle['Close'])
+    print(unit * last_candle['Close'])
 
 
     

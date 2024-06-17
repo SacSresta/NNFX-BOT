@@ -103,6 +103,13 @@ class ForexData:
         except V20Error as err:
             print(f"Error creating order: {err}")
             return None
+        
+    def fetch_closed_trades(self):
+        # Fetching closed trades
+        r = trades.TradesList(accountID=self.accountID, params={"state": "CLOSED"})
+        resp = self.api.request(r)
+        return pd.DataFrame(resp['trades'])
+
 
     def running_trades(self):
         r = trades.TradesList(accountID=self.accountID)
