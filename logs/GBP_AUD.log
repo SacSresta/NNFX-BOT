@@ -14152,3 +14152,277 @@ SL                              1.905896
 TP                              1.930536
 baseline                         1.92355
 Name: 399, dtype: object
+2024-06-17 16:00:15 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 16:00:16 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92195
+Low                              1.91592
+Close                            1.92067
+smaHigh                         1.928303
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928303
+Position                             buy
+SIGNAL                             False
+ATR                             0.009856
+atrup                           1.930526
+atrdown                         1.910814
+SL                              1.905886
+TP                              1.930526
+baseline                        1.923549
+Name: 399, dtype: object
+2024-06-17 16:13:59 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 16:14:00 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.92153
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.931388
+atrdown                         1.911672
+SL                              1.906742
+TP                              1.931388
+baseline                        1.923656
+Name: 399, dtype: object
+2024-06-17 17:44:09 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 17:44:10 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91799
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.927848
+atrdown                         1.908132
+SL                              1.903202
+TP                              1.927848
+baseline                        1.923214
+Name: 399, dtype: object
+2024-06-17 18:32:34 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:32:36 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91895
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928808
+atrdown                         1.909092
+SL                              1.904162
+TP                              1.928808
+baseline                        1.923334
+Name: 399, dtype: object
+2024-06-17 18:49:38 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:49:39 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91794
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.927798
+atrdown                         1.908082
+SL                              1.903152
+TP                              1.927798
+baseline                        1.923207
+Name: 399, dtype: object
+2024-06-17 18:51:43 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:51:43 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:51:45 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91776
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.928306
+sslUp                           1.917859
+Position                            sell
+SIGNAL                              True
+ATR                             0.009858
+atrup                           1.927618
+atrdown                         1.907902
+SL                              1.932548
+TP                              1.907902
+baseline                        1.923185
+Name: 399, dtype: object
+2024-06-17 18:51:45 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91776
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.928306
+sslUp                           1.917859
+Position                            sell
+SIGNAL                              True
+ATR                             0.009858
+atrup                           1.927618
+atrdown                         1.907902
+SL                              1.932548
+TP                              1.907902
+baseline                        1.923185
+Name: 399, dtype: object
+2024-06-17 18:53:53 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:54:49 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:54:51 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91826
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928118
+atrdown                         1.908402
+SL                              1.903472
+TP                              1.928118
+baseline                        1.923247
+Name: 399, dtype: object
+2024-06-17 18:57:30 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:57:30 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:57:32 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91822
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928078
+atrdown                         1.908362
+SL                              1.903432
+TP                              1.928078
+baseline                        1.923242
+Name: 399, dtype: object
+2024-06-17 18:57:32 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                            1.91822
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928078
+atrdown                         1.908362
+SL                              1.903432
+TP                              1.928078
+baseline                        1.923242
+Name: 399, dtype: object
+2024-06-17 18:59:47 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:59:47 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:59:47 LogWrapper init()./logs/GBP_AUD.log
+2024-06-17 18:59:48 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                             1.9187
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928558
+atrdown                         1.908842
+SL                              1.903912
+TP                              1.928558
+baseline                        1.923303
+Name: 399, dtype: object
+2024-06-17 18:59:48 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                             1.9187
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928558
+atrdown                         1.908842
+SL                              1.903912
+TP                              1.928558
+baseline                        1.923303
+Name: 399, dtype: object
+2024-06-17 18:59:48 Last candle data: instrument                       GBP_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.91838
+High                             1.92198
+Low                              1.91592
+Close                             1.9187
+smaHigh                         1.928306
+smaLow                          1.917859
+sslDown                         1.917859
+sslUp                           1.928306
+Position                             buy
+SIGNAL                             False
+ATR                             0.009858
+atrup                           1.928558
+atrdown                         1.908842
+SL                              1.903912
+TP                              1.928558
+baseline                        1.923303
+Name: 399, dtype: object

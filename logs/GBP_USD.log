@@ -14818,3 +14818,634 @@ SL                              1.278686
 TP                              1.261576
 baseline                        1.273911
 Name: 399, dtype: object
+2024-06-17 15:59:36 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 15:59:38 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26761
+Close                            1.26772
+smaHigh                         1.278538
+smaLow                          1.271747
+sslDown                         1.278538
+sslUp                           1.271747
+Position                            sell
+SIGNAL                             False
+ATR                             0.006849
+atrup                           1.274569
+atrdown                         1.260871
+SL                              1.277994
+TP                              1.260871
+baseline                        1.273824
+Name: 399, dtype: object
+2024-06-17 16:08:09 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 16:08:10 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26662
+Close                            1.26664
+smaHigh                         1.278538
+smaLow                          1.271648
+sslDown                         1.278538
+sslUp                           1.271648
+Position                            sell
+SIGNAL                             False
+ATR                              0.00692
+atrup                            1.27356
+atrdown                          1.25972
+SL                               1.27702
+TP                               1.25972
+baseline                        1.273689
+Name: 399, dtype: object
+2024-06-17 16:08:35 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 16:08:36 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26662
+Close                            1.26664
+smaHigh                         1.278538
+smaLow                          1.271648
+sslDown                         1.278538
+sslUp                           1.271648
+Position                            sell
+SIGNAL                             False
+ATR                              0.00692
+atrup                            1.27356
+atrdown                          1.25972
+SL                               1.27702
+TP                               1.25972
+baseline                        1.273689
+Name: 399, dtype: object
+2024-06-17 16:10:52 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 16:10:54 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26642
+Close                            1.26672
+smaHigh                         1.278538
+smaLow                          1.271628
+sslDown                         1.278538
+sslUp                           1.271628
+Position                            sell
+SIGNAL                             False
+ATR                             0.006934
+atrup                           1.273654
+atrdown                         1.259786
+SL                              1.277121
+TP                              1.259786
+baseline                        1.273699
+Name: 399, dtype: object
+2024-06-17 16:12:04 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 16:12:06 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26642
+Close                              1.267
+smaHigh                         1.278538
+smaLow                          1.271628
+sslDown                         1.278538
+sslUp                           1.271628
+Position                            sell
+SIGNAL                             False
+ATR                             0.006934
+atrup                           1.273934
+atrdown                         1.260066
+SL                              1.277401
+TP                              1.260066
+baseline                        1.273734
+Name: 399, dtype: object
+2024-06-17 16:13:32 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 16:13:33 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26642
+Close                            1.26718
+smaHigh                         1.278538
+smaLow                          1.271628
+sslDown                         1.278538
+sslUp                           1.271628
+Position                            sell
+SIGNAL                             False
+ATR                             0.006934
+atrup                           1.274114
+atrdown                         1.260246
+SL                              1.277581
+TP                              1.260246
+baseline                        1.273756
+Name: 399, dtype: object
+2024-06-17 17:24:09 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 17:24:10 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26642
+Close                             1.2675
+smaHigh                         1.278538
+smaLow                          1.271628
+sslDown                         1.278538
+sslUp                           1.271628
+Position                            sell
+SIGNAL                             False
+ATR                             0.006934
+atrup                           1.274434
+atrdown                         1.260566
+SL                              1.277901
+TP                              1.260566
+baseline                        1.273796
+Name: 399, dtype: object
+2024-06-17 17:25:07 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 17:25:09 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26642
+Close                            1.26752
+smaHigh                         1.278538
+smaLow                          1.271628
+sslDown                         1.278538
+sslUp                           1.271628
+Position                            sell
+SIGNAL                             False
+ATR                             0.006934
+atrup                           1.274454
+atrdown                         1.260586
+SL                              1.277921
+TP                              1.260586
+baseline                        1.273799
+Name: 399, dtype: object
+2024-06-17 17:43:25 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 17:43:26 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26616
+Close                             1.2662
+smaHigh                         1.278538
+smaLow                          1.271602
+sslDown                         1.278538
+sslUp                           1.271602
+Position                            sell
+SIGNAL                             False
+ATR                             0.006953
+atrup                           1.273153
+atrdown                         1.259247
+SL                              1.276629
+TP                              1.259247
+baseline                        1.273634
+Name: 399, dtype: object
+2024-06-17 17:45:16 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 17:45:17 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                             1.2663
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.273255
+atrdown                         1.259345
+SL                              1.276733
+TP                              1.259345
+baseline                        1.273646
+Name: 399, dtype: object
+2024-06-17 17:53:44 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 17:53:45 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26676
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.273715
+atrdown                         1.259805
+SL                              1.277193
+TP                              1.259805
+baseline                        1.273704
+Name: 399, dtype: object
+2024-06-17 17:54:19 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 17:54:20 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26694
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.273895
+atrdown                         1.259985
+SL                              1.277373
+TP                              1.259985
+baseline                        1.273726
+Name: 399, dtype: object
+2024-06-17 18:31:56 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:31:58 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26767
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274625
+atrdown                         1.260715
+SL                              1.278103
+TP                              1.260715
+baseline                        1.273818
+Name: 399, dtype: object
+2024-06-17 18:49:12 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:49:13 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26734
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274295
+atrdown                         1.260385
+SL                              1.277773
+TP                              1.260385
+baseline                        1.273776
+Name: 399, dtype: object
+2024-06-17 18:51:13 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:51:13 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:51:15 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                             1.2674
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274355
+atrdown                         1.260445
+SL                              1.277833
+TP                              1.260445
+baseline                        1.273784
+Name: 399, dtype: object
+2024-06-17 18:51:15 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                             1.2674
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274355
+atrdown                         1.260445
+SL                              1.277833
+TP                              1.260445
+baseline                        1.273784
+Name: 399, dtype: object
+2024-06-17 18:52:26 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:52:27 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26724
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274195
+atrdown                         1.260285
+SL                              1.277673
+TP                              1.260285
+baseline                        1.273764
+Name: 399, dtype: object
+2024-06-17 18:52:53 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:53:10 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:53:11 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26723
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274185
+atrdown                         1.260275
+SL                              1.277663
+TP                              1.260275
+baseline                        1.273762
+Name: 399, dtype: object
+2024-06-17 18:53:59 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:54:00 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26716
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274115
+atrdown                         1.260205
+SL                              1.277593
+TP                              1.260205
+baseline                        1.273754
+Name: 399, dtype: object
+2024-06-17 18:56:48 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:56:48 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:56:50 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26714
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274095
+atrdown                         1.260185
+SL                              1.277573
+TP                              1.260185
+baseline                        1.273751
+Name: 399, dtype: object
+2024-06-17 18:56:50 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26714
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274095
+atrdown                         1.260185
+SL                              1.277573
+TP                              1.260185
+baseline                        1.273751
+Name: 399, dtype: object
+2024-06-17 18:59:07 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:59:07 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:59:07 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 18:59:09 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26745
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274405
+atrdown                         1.260495
+SL                              1.277883
+TP                              1.260495
+baseline                         1.27379
+Name: 399, dtype: object
+2024-06-17 18:59:09 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26745
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274405
+atrdown                         1.260495
+SL                              1.277883
+TP                              1.260495
+baseline                         1.27379
+Name: 399, dtype: object
+2024-06-17 18:59:09 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26745
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274405
+atrdown                         1.260495
+SL                              1.277883
+TP                              1.260495
+baseline                         1.27379
+Name: 399, dtype: object
+2024-06-17 19:01:23 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 19:01:23 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 19:01:23 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 19:01:23 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 19:01:24 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26768
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274635
+atrdown                         1.260725
+SL                              1.278113
+TP                              1.260725
+baseline                        1.273819
+Name: 399, dtype: object
+2024-06-17 19:01:24 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26768
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274635
+atrdown                         1.260725
+SL                              1.278113
+TP                              1.260725
+baseline                        1.273819
+Name: 399, dtype: object
+2024-06-17 19:01:24 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26768
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274635
+atrdown                         1.260725
+SL                              1.278113
+TP                              1.260725
+baseline                        1.273819
+Name: 399, dtype: object
+2024-06-17 19:01:24 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26768
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274635
+atrdown                         1.260725
+SL                              1.278113
+TP                              1.260725
+baseline                        1.273819
+Name: 399, dtype: object
+2024-06-17 19:03:19 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 19:03:21 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26748
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274435
+atrdown                         1.260525
+SL                              1.277913
+TP                              1.260525
+baseline                        1.273794
+Name: 399, dtype: object
+2024-06-17 19:04:54 LogWrapper init()./logs/GBP_USD.log
+2024-06-17 19:04:55 Last candle data: instrument                       GBP_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.26884
+High                             1.26886
+Low                              1.26612
+Close                            1.26742
+smaHigh                         1.278538
+smaLow                          1.271598
+sslDown                         1.278538
+sslUp                           1.271598
+Position                            sell
+SIGNAL                             False
+ATR                             0.006955
+atrup                           1.274375
+atrdown                         1.260465
+SL                              1.277853
+TP                              1.260465
+baseline                        1.273786
+Name: 399, dtype: object

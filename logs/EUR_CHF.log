@@ -14152,3 +14152,297 @@ SL                              0.961029
 TP                              0.948014
 baseline                        0.962346
 Name: 399, dtype: object
+2024-06-17 16:00:12 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 16:00:13 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95376
+Low                              0.95226
+Close                            0.95323
+smaHigh                         0.967762
+smaLow                          0.961977
+sslDown                         0.967762
+sslUp                           0.961977
+Position                            sell
+SIGNAL                             False
+ATR                             0.005208
+atrup                           0.958438
+atrdown                         0.948022
+SL                              0.961041
+TP                              0.948022
+baseline                        0.962348
+Name: 399, dtype: object
+2024-06-17 16:13:56 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 16:13:57 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95376
+Low                              0.95156
+Close                            0.95256
+smaHigh                         0.967762
+smaLow                          0.961907
+sslDown                         0.967762
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005258
+atrup                           0.957818
+atrdown                         0.947302
+SL                              0.960446
+TP                              0.947302
+baseline                        0.962264
+Name: 399, dtype: object
+2024-06-17 17:44:06 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 17:44:07 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95412
+Low                              0.95156
+Close                            0.95352
+smaHigh                         0.967798
+smaLow                          0.961907
+sslDown                         0.967798
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005283
+atrup                           0.958803
+atrdown                         0.948237
+SL                              0.961445
+TP                              0.948237
+baseline                        0.962384
+Name: 399, dtype: object
+2024-06-17 18:32:31 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:32:32 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95488
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960236
+atrdown                         0.949524
+SL                              0.962914
+TP                              0.949524
+baseline                        0.962554
+Name: 399, dtype: object
+2024-06-17 18:49:34 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:49:36 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95461
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.959966
+atrdown                         0.949254
+SL                              0.962644
+TP                              0.949254
+baseline                         0.96252
+Name: 399, dtype: object
+2024-06-17 18:51:39 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:51:39 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:51:41 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95474
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960096
+atrdown                         0.949384
+SL                              0.962774
+TP                              0.949384
+baseline                        0.962536
+Name: 399, dtype: object
+2024-06-17 18:51:41 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95474
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960096
+atrdown                         0.949384
+SL                              0.962774
+TP                              0.949384
+baseline                        0.962536
+Name: 399, dtype: object
+2024-06-17 18:53:50 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:53:51 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95464
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.959996
+atrdown                         0.949284
+SL                              0.962674
+TP                              0.949284
+baseline                        0.962524
+Name: 399, dtype: object
+2024-06-17 18:54:45 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:54:47 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                             0.9545
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.959856
+atrdown                         0.949144
+SL                              0.962534
+TP                              0.949144
+baseline                        0.962506
+Name: 399, dtype: object
+2024-06-17 18:57:27 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:57:27 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:57:29 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95472
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960076
+atrdown                         0.949364
+SL                              0.962754
+TP                              0.949364
+baseline                        0.962534
+Name: 399, dtype: object
+2024-06-17 18:57:29 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95472
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960076
+atrdown                         0.949364
+SL                              0.962754
+TP                              0.949364
+baseline                        0.962534
+Name: 399, dtype: object
+2024-06-17 18:59:44 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:59:44 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:59:44 LogWrapper init()./logs/EUR_CHF.log
+2024-06-17 18:59:46 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95493
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960286
+atrdown                         0.949574
+SL                              0.962964
+TP                              0.949574
+baseline                         0.96256
+Name: 399, dtype: object
+2024-06-17 18:59:46 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95493
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960286
+atrdown                         0.949574
+SL                              0.962964
+TP                              0.949574
+baseline                         0.96256
+Name: 399, dtype: object
+2024-06-17 18:59:46 Last candle data: instrument                       EUR_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.95368
+High                             0.95514
+Low                              0.95156
+Close                            0.95493
+smaHigh                           0.9679
+smaLow                          0.961907
+sslDown                           0.9679
+sslUp                           0.961907
+Position                            sell
+SIGNAL                             False
+ATR                             0.005356
+atrup                           0.960286
+atrdown                         0.949574
+SL                              0.962964
+TP                              0.949574
+baseline                         0.96256
+Name: 399, dtype: object

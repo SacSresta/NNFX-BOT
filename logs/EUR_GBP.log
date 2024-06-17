@@ -14152,3 +14152,361 @@ SL                              0.848506
 TP                              0.840913
 baseline                        0.845356
 Name: 399, dtype: object
+2024-06-17 16:00:01 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 16:00:03 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84446
+Low                              0.84312
+Close                            0.84409
+smaHigh                         0.848261
+smaLow                          0.845096
+sslDown                         0.848261
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003037
+atrup                           0.847127
+atrdown                         0.841053
+SL                              0.848646
+TP                              0.841053
+baseline                        0.845374
+Name: 399, dtype: object
+2024-06-17 16:13:51 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 16:13:52 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84446
+Low                              0.84312
+Close                            0.84395
+smaHigh                         0.848261
+smaLow                          0.845096
+sslDown                         0.848261
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003037
+atrup                           0.846987
+atrdown                         0.840913
+SL                              0.848506
+TP                              0.840913
+baseline                        0.845356
+Name: 399, dtype: object
+2024-06-17 17:24:19 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 17:43:49 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 17:43:50 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84488
+Low                              0.84312
+Close                            0.84473
+smaHigh                         0.848303
+smaLow                          0.845096
+sslDown                         0.848303
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003067
+atrup                           0.847797
+atrdown                         0.841663
+SL                              0.849331
+TP                              0.841663
+baseline                        0.845454
+Name: 399, dtype: object
+2024-06-17 17:45:39 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 17:45:41 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84488
+Low                              0.84312
+Close                            0.84463
+smaHigh                         0.848303
+smaLow                          0.845096
+sslDown                         0.848303
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003067
+atrup                           0.847697
+atrdown                         0.841563
+SL                              0.849231
+TP                              0.841563
+baseline                        0.845441
+Name: 399, dtype: object
+2024-06-17 18:32:11 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:32:13 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84497
+Low                              0.84312
+Close                            0.84497
+smaHigh                         0.848312
+smaLow                          0.845096
+sslDown                         0.848312
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003074
+atrup                           0.848044
+atrdown                         0.841896
+SL                              0.849581
+TP                              0.841896
+baseline                        0.845484
+Name: 399, dtype: object
+2024-06-17 18:49:23 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:49:24 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84494
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848024
+atrdown                         0.841856
+SL                              0.849566
+TP                              0.841856
+baseline                         0.84548
+Name: 399, dtype: object
+2024-06-17 18:51:27 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:51:27 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:51:29 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84494
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848024
+atrdown                         0.841856
+SL                              0.849566
+TP                              0.841856
+baseline                         0.84548
+Name: 399, dtype: object
+2024-06-17 18:51:29 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84494
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848024
+atrdown                         0.841856
+SL                              0.849566
+TP                              0.841856
+baseline                         0.84548
+Name: 399, dtype: object
+2024-06-17 18:52:45 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:52:47 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84501
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848094
+atrdown                         0.841926
+SL                              0.849636
+TP                              0.841926
+baseline                        0.845489
+Name: 399, dtype: object
+2024-06-17 18:53:30 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:53:32 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84496
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848044
+atrdown                         0.841876
+SL                              0.849586
+TP                              0.841876
+baseline                        0.845483
+Name: 399, dtype: object
+2024-06-17 18:54:21 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:54:24 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84501
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848094
+atrdown                         0.841926
+SL                              0.849636
+TP                              0.841926
+baseline                        0.845489
+Name: 399, dtype: object
+2024-06-17 18:57:08 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:57:08 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:57:10 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84495
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848034
+atrdown                         0.841866
+SL                              0.849576
+TP                              0.841866
+baseline                        0.845481
+Name: 399, dtype: object
+2024-06-17 18:57:10 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84495
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848034
+atrdown                         0.841866
+SL                              0.849576
+TP                              0.841866
+baseline                        0.845481
+Name: 399, dtype: object
+2024-06-17 18:59:27 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:59:27 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:59:27 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 18:59:28 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84484
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.847924
+atrdown                         0.841756
+SL                              0.849466
+TP                              0.841756
+baseline                        0.845468
+Name: 399, dtype: object
+2024-06-17 18:59:28 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84484
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.847924
+atrdown                         0.841756
+SL                              0.849466
+TP                              0.841756
+baseline                        0.845468
+Name: 399, dtype: object
+2024-06-17 18:59:28 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84484
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.847924
+atrdown                         0.841756
+SL                              0.849466
+TP                              0.841756
+baseline                        0.845468
+Name: 399, dtype: object
+2024-06-17 19:03:40 LogWrapper init()./logs/EUR_GBP.log
+2024-06-17 19:03:42 Last candle data: instrument                       EUR_GBP
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.84344
+High                             0.84511
+Low                              0.84312
+Close                            0.84507
+smaHigh                         0.848326
+smaLow                          0.845096
+sslDown                         0.848326
+sslUp                           0.845096
+Position                            sell
+SIGNAL                             False
+ATR                             0.003084
+atrup                           0.848154
+atrdown                         0.841986
+SL                              0.849696
+TP                              0.841986
+baseline                        0.845496
+Name: 399, dtype: object

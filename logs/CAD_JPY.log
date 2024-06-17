@@ -13333,3 +13333,255 @@ SL                            113.345735
 TP                            115.366177
 baseline                        114.2215
 Name: 399, dtype: object
+2024-06-17 16:00:48 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 16:00:49 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.476
+Close                             114.52
+smaHigh                         114.5241
+smaLow                          113.6966
+sslDown                         113.6966
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.808177
+atrup                         115.328177
+atrdown                       113.711823
+SL                            113.307735
+TP                            115.328177
+baseline                       114.21675
+Name: 399, dtype: object
+2024-06-17 17:44:42 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 17:44:43 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.605
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.427034
+atrdown                       113.782966
+SL                            113.371949
+TP                            115.427034
+baseline                      114.227375
+Name: 399, dtype: object
+2024-06-17 18:32:57 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:32:59 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.746
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.568034
+atrdown                       113.923966
+SL                            113.512949
+TP                            115.568034
+baseline                         114.245
+Name: 399, dtype: object
+2024-06-17 18:50:01 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:50:03 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.699
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.521034
+atrdown                       113.876966
+SL                            113.465949
+TP                            115.521034
+baseline                      114.239125
+Name: 399, dtype: object
+2024-06-17 18:52:13 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:52:13 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:52:15 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.706
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.528034
+atrdown                       113.883966
+SL                            113.472949
+TP                            115.528034
+baseline                          114.24
+Name: 399, dtype: object
+2024-06-17 18:52:15 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.706
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.528034
+atrdown                       113.883966
+SL                            113.472949
+TP                            115.528034
+baseline                          114.24
+Name: 399, dtype: object
+2024-06-17 18:55:36 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:55:39 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                              114.7
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.522034
+atrdown                       113.877966
+SL                            113.466949
+TP                            115.522034
+baseline                       114.23925
+Name: 399, dtype: object
+2024-06-17 18:58:00 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:58:00 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 18:58:01 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.696
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.518034
+atrdown                       113.873966
+SL                            113.462949
+TP                            115.518034
+baseline                       114.23875
+Name: 399, dtype: object
+2024-06-17 18:58:01 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.696
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.518034
+atrdown                       113.873966
+SL                            113.462949
+TP                            115.518034
+baseline                       114.23875
+Name: 399, dtype: object
+2024-06-17 19:00:15 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 19:00:15 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 19:00:15 LogWrapper init()./logs/CAD_JPY.log
+2024-06-17 19:00:17 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.727
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.549034
+atrdown                       113.904966
+SL                            113.493949
+TP                            115.549034
+baseline                      114.242625
+Name: 399, dtype: object
+2024-06-17 19:00:17 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.727
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.549034
+atrdown                       113.904966
+SL                            113.493949
+TP                            115.549034
+baseline                      114.242625
+Name: 399, dtype: object
+2024-06-17 19:00:17 Last candle data: instrument                       CAD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             114.577
+High                             114.784
+Low                              114.282
+Close                            114.727
+smaHigh                         114.5241
+smaLow                          113.6772
+sslDown                         113.6772
+sslUp                           114.5241
+Position                             buy
+SIGNAL                             False
+ATR                             0.822034
+atrup                         115.549034
+atrdown                       113.904966
+SL                            113.493949
+TP                            115.549034
+baseline                      114.242625
+Name: 399, dtype: object

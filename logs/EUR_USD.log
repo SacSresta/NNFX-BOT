@@ -14152,3 +14152,910 @@ SL                              1.079342
 TP                              1.064522
 baseline                         1.07691
 Name: 399, dtype: object
+2024-06-17 15:59:33 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 15:59:35 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                               1.0699
+Close                               1.07
+smaHigh                         1.082906
+smaLow                          1.076613
+sslDown                         1.082906
+sslUp                           1.076613
+Position                            sell
+SIGNAL                             False
+ATR                             0.005928
+atrup                           1.075928
+atrdown                         1.064072
+SL                              1.078892
+TP                              1.064072
+baseline                        1.076854
+Name: 399, dtype: object
+2024-06-17 16:08:06 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 16:08:08 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06884
+Close                            1.06886
+smaHigh                         1.082906
+smaLow                          1.076507
+sslDown                         1.082906
+sslUp                           1.076507
+Position                            sell
+SIGNAL                             False
+ATR                             0.006004
+atrup                           1.074864
+atrdown                         1.062856
+SL                              1.077865
+TP                              1.062856
+baseline                        1.076711
+Name: 399, dtype: object
+2024-06-17 16:08:32 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 16:08:34 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06884
+Close                            1.06886
+smaHigh                         1.082906
+smaLow                          1.076507
+sslDown                         1.082906
+sslUp                           1.076507
+Position                            sell
+SIGNAL                             False
+ATR                             0.006004
+atrup                           1.074864
+atrdown                         1.062856
+SL                              1.077865
+TP                              1.062856
+baseline                        1.076711
+Name: 399, dtype: object
+2024-06-17 16:10:50 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 16:10:51 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.06872
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.074738
+atrdown                         1.062702
+SL                              1.077747
+TP                              1.062702
+baseline                        1.076694
+Name: 399, dtype: object
+2024-06-17 16:12:02 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 16:12:03 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.06913
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.075148
+atrdown                         1.063112
+SL                              1.078157
+TP                              1.063112
+baseline                        1.076745
+Name: 399, dtype: object
+2024-06-17 16:13:29 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 16:13:31 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.06939
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.075408
+atrdown                         1.063372
+SL                              1.078417
+TP                              1.063372
+baseline                        1.076777
+Name: 399, dtype: object
+2024-06-17 17:24:06 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 17:24:08 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07015
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076168
+atrdown                         1.064132
+SL                              1.079177
+TP                              1.064132
+baseline                        1.076872
+Name: 399, dtype: object
+2024-06-17 17:25:05 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 17:25:06 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07036
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076378
+atrdown                         1.064342
+SL                              1.079387
+TP                              1.064342
+baseline                        1.076899
+Name: 399, dtype: object
+2024-06-17 17:43:22 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 17:43:23 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                             1.0696
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.075618
+atrdown                         1.063582
+SL                              1.078627
+TP                              1.063582
+baseline                        1.076804
+Name: 399, dtype: object
+2024-06-17 17:45:13 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 17:45:14 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.06952
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.075538
+atrdown                         1.063502
+SL                              1.078547
+TP                              1.063502
+baseline                        1.076794
+Name: 399, dtype: object
+2024-06-17 17:53:41 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 17:53:42 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.06972
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.075738
+atrdown                         1.063702
+SL                              1.078747
+TP                              1.063702
+baseline                        1.076819
+Name: 399, dtype: object
+2024-06-17 17:54:16 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 17:54:17 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.06972
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.075738
+atrdown                         1.063702
+SL                              1.078747
+TP                              1.063702
+baseline                        1.076819
+Name: 399, dtype: object
+2024-06-17 18:05:33 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:05:34 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07032
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076338
+atrdown                         1.064302
+SL                              1.079347
+TP                              1.064302
+baseline                        1.076894
+Name: 399, dtype: object
+2024-06-17 18:06:01 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:06:03 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07034
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076358
+atrdown                         1.064322
+SL                              1.079367
+TP                              1.064322
+baseline                        1.076896
+Name: 399, dtype: object
+2024-06-17 18:06:44 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:06:46 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07028
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076298
+atrdown                         1.064262
+SL                              1.079307
+TP                              1.064262
+baseline                        1.076889
+Name: 399, dtype: object
+2024-06-17 18:06:59 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:07:00 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                             1.0704
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076418
+atrdown                         1.064382
+SL                              1.079427
+TP                              1.064382
+baseline                        1.076904
+Name: 399, dtype: object
+2024-06-17 18:07:23 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:07:24 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07038
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076398
+atrdown                         1.064362
+SL                              1.079407
+TP                              1.064362
+baseline                        1.076901
+Name: 399, dtype: object
+2024-06-17 18:09:32 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:09:33 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07068
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076698
+atrdown                         1.064662
+SL                              1.079707
+TP                              1.064662
+baseline                        1.076939
+Name: 399, dtype: object
+2024-06-17 18:09:58 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:09:59 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07094
+Low                              1.06864
+Close                            1.07075
+smaHigh                         1.082906
+smaLow                          1.076487
+sslDown                         1.082906
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006018
+atrup                           1.076768
+atrdown                         1.064732
+SL                              1.079777
+TP                              1.064732
+baseline                        1.076947
+Name: 399, dtype: object
+2024-06-17 18:12:53 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:12:54 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07082
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076859
+atrdown                         1.064781
+SL                              1.079878
+TP                              1.064781
+baseline                        1.076956
+Name: 399, dtype: object
+2024-06-17 18:17:54 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:17:56 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07101
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077049
+atrdown                         1.064971
+SL                              1.080068
+TP                              1.064971
+baseline                         1.07698
+Name: 399, dtype: object
+2024-06-17 18:17:56 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:17:56 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:19:05 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:19:07 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07072
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076759
+atrdown                         1.064681
+SL                              1.079778
+TP                              1.064681
+baseline                        1.076944
+Name: 399, dtype: object
+2024-06-17 18:19:07 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:19:07 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:19:16 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:19:17 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07064
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076679
+atrdown                         1.064601
+SL                              1.079698
+TP                              1.064601
+baseline                        1.076934
+Name: 399, dtype: object
+2024-06-17 18:24:25 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:24:27 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07067
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076709
+atrdown                         1.064631
+SL                              1.079728
+TP                              1.064631
+baseline                        1.076938
+Name: 399, dtype: object
+2024-06-17 18:31:53 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:31:54 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07115
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077189
+atrdown                         1.065111
+SL                              1.080208
+TP                              1.065111
+baseline                        1.076998
+Name: 399, dtype: object
+2024-06-17 18:49:09 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:49:10 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07079
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076829
+atrdown                         1.064751
+SL                              1.079848
+TP                              1.064751
+baseline                        1.076952
+Name: 399, dtype: object
+2024-06-17 18:51:07 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:51:07 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:51:10 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07086
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076899
+atrdown                         1.064821
+SL                              1.079918
+TP                              1.064821
+baseline                        1.076961
+Name: 399, dtype: object
+2024-06-17 18:51:10 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07086
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076899
+atrdown                         1.064821
+SL                              1.079918
+TP                              1.064821
+baseline                        1.076961
+Name: 399, dtype: object
+2024-06-17 18:52:22 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:52:24 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07081
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076849
+atrdown                         1.064771
+SL                              1.079868
+TP                              1.064771
+baseline                        1.076955
+Name: 399, dtype: object
+2024-06-17 18:52:50 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:52:52 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07084
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076879
+atrdown                         1.064801
+SL                              1.079898
+TP                              1.064801
+baseline                        1.076959
+Name: 399, dtype: object
+2024-06-17 18:53:06 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:53:08 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07078
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076819
+atrdown                         1.064741
+SL                              1.079838
+TP                              1.064741
+baseline                        1.076951
+Name: 399, dtype: object
+2024-06-17 18:53:56 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:53:57 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07077
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076809
+atrdown                         1.064731
+SL                              1.079828
+TP                              1.064731
+baseline                         1.07695
+Name: 399, dtype: object
+2024-06-17 18:56:45 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:56:45 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:56:46 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07067
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076709
+atrdown                         1.064631
+SL                              1.079728
+TP                              1.064631
+baseline                        1.076938
+Name: 399, dtype: object
+2024-06-17 18:56:46 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07067
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076709
+atrdown                         1.064631
+SL                              1.079728
+TP                              1.064631
+baseline                        1.076938
+Name: 399, dtype: object
+2024-06-17 18:59:04 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:59:04 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:59:04 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 18:59:06 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07074
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076779
+atrdown                         1.064701
+SL                              1.079798
+TP                              1.064701
+baseline                        1.076946
+Name: 399, dtype: object
+2024-06-17 18:59:06 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07074
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076779
+atrdown                         1.064701
+SL                              1.079798
+TP                              1.064701
+baseline                        1.076946
+Name: 399, dtype: object
+2024-06-17 18:59:06 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07074
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.076779
+atrdown                         1.064701
+SL                              1.079798
+TP                              1.064701
+baseline                        1.076946
+Name: 399, dtype: object
+2024-06-17 19:01:20 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 19:01:20 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 19:01:20 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 19:01:20 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 19:01:21 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07097
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077009
+atrdown                         1.064931
+SL                              1.080028
+TP                              1.064931
+baseline                        1.076975
+Name: 399, dtype: object
+2024-06-17 19:01:21 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07097
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077009
+atrdown                         1.064931
+SL                              1.080028
+TP                              1.064931
+baseline                        1.076975
+Name: 399, dtype: object
+2024-06-17 19:01:21 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07097
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077009
+atrdown                         1.064931
+SL                              1.080028
+TP                              1.064931
+baseline                        1.076975
+Name: 399, dtype: object
+2024-06-17 19:01:21 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07097
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077009
+atrdown                         1.064931
+SL                              1.080028
+TP                              1.064931
+baseline                        1.076975
+Name: 399, dtype: object
+2024-06-17 19:03:16 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 19:03:18 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07111
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077149
+atrdown                         1.065071
+SL                              1.080168
+TP                              1.065071
+baseline                        1.076993
+Name: 399, dtype: object
+2024-06-17 19:04:51 LogWrapper init()./logs/EUR_USD.log
+2024-06-17 19:04:52 Last candle data: instrument                       EUR_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.07068
+High                             1.07123
+Low                              1.06864
+Close                            1.07099
+smaHigh                         1.082935
+smaLow                          1.076487
+sslDown                         1.082935
+sslUp                           1.076487
+Position                            sell
+SIGNAL                             False
+ATR                             0.006039
+atrup                           1.077029
+atrdown                         1.064951
+SL                              1.080048
+TP                              1.064951
+baseline                        1.076977
+Name: 399, dtype: object

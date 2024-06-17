@@ -14168,3 +14168,648 @@ baseline                        0.662273
 Name: 399, dtype: object
 2024-06-17 15:01:25 Order for id: 5754 for 1000 units of pair EUR_USD is getting closed as it was opened before.
 2024-06-17 15:01:29 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5757', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5757', 'requestID': '97280325459223417', 'time': '2024-06-17T05:01:30.818230931Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-138001', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65513', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66838', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5758', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5757', 'requestID': '97280325459223417', 'time': '2024-06-17T05:01:30.818230931Z', 'type': 'ORDER_FILL', 'orderID': '5757', 'instrument': 'AUD_USD', 'units': '-138001', 'requestedUnits': '-138001', 'price': '0.66034', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '83060.1735', 'gainQuoteHomeConversionFactor': '1.506731087442', 'lossQuoteHomeConversionFactor': '1.521874113446', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.3141', 'fullVWAP': '0.66034', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.66034', 'tradeID': '5758', 'units': '-138001', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.3141', 'initialMarginRequired': '4600.0333'}, 'fullPrice': {'closeoutBid': '0.66027', 'closeoutAsk': '0.66047', 'timestamp': '2024-06-17T05:01:29.755646022Z', 'bids': [{'price': '0.66034', 'liquidity': '1000000.0'}, {'price': '0.66031', 'liquidity': '4000000.0'}, {'price': '0.66027', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.66041', 'liquidity': '1000000.0'}, {'price': '0.66044', 'liquidity': '4000000.0'}, {'price': '0.66047', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50673108744178'}, 'lossQuoteHome': {'factor': '1.52187411344622'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5757', '5758', '5759', '5760'], 'lastTransactionID': '5760'}, Units: 138000.81107999998
+2024-06-17 15:59:38 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 15:59:39 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                              0.65991
+Close                            0.66004
+smaHigh                         0.665924
+smaLow                           0.66048
+sslDown                         0.665924
+sslUp                            0.66048
+Position                            sell
+SIGNAL                              True
+ATR                             0.005278
+atrup                           0.665318
+atrdown                         0.654762
+SL                              0.667957
+TP                              0.654762
+baseline                        0.662229
+Name: 399, dtype: object
+2024-06-17 15:59:45 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5797', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5797', 'requestID': '61251543101501223', 'time': '2024-06-17T05:59:46.420408757Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-137672', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65482', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66807', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5798', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5797', 'requestID': '61251543101501223', 'time': '2024-06-17T05:59:46.420408757Z', 'type': 'ORDER_FILL', 'orderID': '5797', 'instrument': 'AUD_USD', 'units': '-137672', 'requestedUnits': '-137672', 'price': '0.65999', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82901.0619', 'gainQuoteHomeConversionFactor': '1.507541505738', 'lossQuoteHomeConversionFactor': '1.52269267665', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '6.2577', 'fullVWAP': '0.65999', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.65999', 'tradeID': '5798', 'units': '-137672', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '6.2577', 'initialMarginRequired': '4589.0667'}, 'fullPrice': {'closeoutBid': '0.65992', 'closeoutAsk': '0.66011', 'timestamp': '2024-06-17T05:59:44.516518826Z', 'bids': [{'price': '0.65999', 'liquidity': '1000000.0'}, {'price': '0.65996', 'liquidity': '4000000.0'}, {'price': '0.65992', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.66005', 'liquidity': '1000000.0'}, {'price': '0.66008', 'liquidity': '4000000.0'}, {'price': '0.66011', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50754150573761'}, 'lossQuoteHome': {'factor': '1.52269267664955'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5797', '5798', '5799', '5800'], 'lastTransactionID': '5800'}, Units: 137671.98672000002
+2024-06-17 16:08:10 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 16:08:11 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                              0.65946
+Close                            0.65946
+smaHigh                         0.665924
+smaLow                          0.660435
+sslDown                         0.665924
+sslUp                           0.660435
+Position                            sell
+SIGNAL                              True
+ATR                              0.00531
+atrup                            0.66477
+atrdown                          0.65415
+SL                              0.667425
+TP                               0.65415
+baseline                        0.662156
+Name: 399, dtype: object
+2024-06-17 16:08:16 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5847', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5847', 'requestID': '61251545245216646', 'time': '2024-06-17T06:08:17.827391637Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-137352', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65420', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66753', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5848', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5847', 'requestID': '61251545245216646', 'time': '2024-06-17T06:08:17.827391637Z', 'type': 'ORDER_FILL', 'orderID': '5847', 'instrument': 'AUD_USD', 'units': '-137352', 'requestedUnits': '-137352', 'price': '0.65939', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82782.7283', 'gainQuoteHomeConversionFactor': '1.508901774647', 'lossQuoteHomeConversionFactor': '1.524066616603', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.2902', 'fullVWAP': '0.65939', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.65939', 'tradeID': '5848', 'units': '-137352', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.2902', 'initialMarginRequired': '4578.4000'}, 'fullPrice': {'closeoutBid': '0.65932', 'closeoutAsk': '0.65952', 'timestamp': '2024-06-17T06:08:15.439975079Z', 'bids': [{'price': '0.65939', 'liquidity': '1000000.0'}, {'price': '0.65936', 'liquidity': '4000000.0'}, {'price': '0.65932', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.65946', 'liquidity': '1000000.0'}, {'price': '0.65949', 'liquidity': '4000000.0'}, {'price': '0.65952', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50890177464684'}, 'lossQuoteHome': {'factor': '1.52406661660308'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5847', '5848', '5849', '5850'], 'lastTransactionID': '5850'}, Units: 137352.39873999998
+2024-06-17 16:08:36 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 16:08:38 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                              0.65934
+Close                            0.65936
+smaHigh                         0.665924
+smaLow                          0.660423
+sslDown                         0.665924
+sslUp                           0.660423
+Position                            sell
+SIGNAL                              True
+ATR                             0.005319
+atrup                           0.664679
+atrdown                         0.654041
+SL                              0.667338
+TP                              0.654041
+baseline                        0.662144
+Name: 399, dtype: object
+2024-06-17 16:08:39 Order for id: 5848 for -137352 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 16:08:44 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5855', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5855', 'requestID': '115294740891963171', 'time': '2024-06-17T06:08:45.078104825Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-137327', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65410', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66745', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5856', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5855', 'requestID': '115294740891963171', 'time': '2024-06-17T06:08:45.078104825Z', 'type': 'ORDER_FILL', 'orderID': '5855', 'instrument': 'AUD_USD', 'units': '-137327', 'requestedUnits': '-137327', 'price': '0.65934', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82778.5413', 'gainQuoteHomeConversionFactor': '1.509016194608', 'lossQuoteHomeConversionFactor': '1.524182186514', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.2895', 'fullVWAP': '0.65934', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.65934', 'tradeID': '5856', 'units': '-137327', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.2895', 'initialMarginRequired': '4577.5667'}, 'fullPrice': {'closeoutBid': '0.65927', 'closeoutAsk': '0.65947', 'timestamp': '2024-06-17T06:08:44.734409589Z', 'bids': [{'price': '0.65934', 'liquidity': '1000000.0'}, {'price': '0.65931', 'liquidity': '4000000.0'}, {'price': '0.65927', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.65941', 'liquidity': '862648.0'}, {'price': '0.65944', 'liquidity': '4000000.0'}, {'price': '0.65947', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50901619460827'}, 'lossQuoteHome': {'factor': '1.52418218651389'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5855', '5856', '5857', '5858'], 'lastTransactionID': '5858'}, Units: 137327.06112
+2024-06-17 16:10:54 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 16:10:55 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                              0.65915
+Close                            0.65921
+smaHigh                         0.665924
+smaLow                          0.660404
+sslDown                         0.665924
+sslUp                           0.660404
+Position                            sell
+SIGNAL                              True
+ATR                             0.005332
+atrup                           0.664542
+atrdown                         0.653878
+SL                              0.667209
+TP                              0.653878
+baseline                        0.662125
+Name: 399, dtype: object
+2024-06-17 16:10:56 Order for id: 5856 for -137327 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 16:11:01 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5863', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5863', 'requestID': '61251545937418057', 'time': '2024-06-17T06:11:02.133575486Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-134780', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65392', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66730', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5864', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5863', 'requestID': '61251545937418057', 'time': '2024-06-17T06:11:02.133575486Z', 'type': 'ORDER_FILL', 'orderID': '5863', 'instrument': 'AUD_USD', 'units': '-134780', 'requestedUnits': '-134780', 'price': '0.65913', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82797.1964', 'gainQuoteHomeConversionFactor': '1.509496948001', 'lossQuoteHomeConversionFactor': '1.524667771599', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.1565', 'fullVWAP': '0.65913', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.65913', 'tradeID': '5864', 'units': '-134780', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.1565', 'initialMarginRequired': '4492.6667'}, 'fullPrice': {'closeoutBid': '0.65906', 'closeoutAsk': '0.65926', 'timestamp': '2024-06-17T06:11:01.778114393Z', 'bids': [{'price': '0.65913', 'liquidity': '1000000.0'}, {'price': '0.65910', 'liquidity': '4000000.0'}, {'price': '0.65906', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.65920', 'liquidity': '862673.0'}, {'price': '0.65923', 'liquidity': '4000000.0'}, {'price': '0.65926', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50949694800065'}, 'lossQuoteHome': {'factor': '1.52466777159865'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5863', '5864', '5865', '5866'], 'lastTransactionID': '5866'}, Units: 134779.84026
+2024-06-17 16:12:06 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 16:12:07 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.65922
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.665924
+sslUp                           0.660399
+Position                            sell
+SIGNAL                              True
+ATR                             0.005336
+atrup                           0.664556
+atrdown                         0.653884
+SL                              0.667224
+TP                              0.653884
+baseline                        0.662126
+Name: 399, dtype: object
+2024-06-17 16:12:08 Order for id: 5864 for -134780 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 16:12:13 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5871', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5871', 'requestID': '61251546239467315', 'time': '2024-06-17T06:12:14.149596030Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-134738', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65392', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66732', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5872', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5871', 'requestID': '61251546239467315', 'time': '2024-06-17T06:12:14.149596030Z', 'type': 'ORDER_FILL', 'orderID': '5871', 'instrument': 'AUD_USD', 'units': '-134738', 'requestedUnits': '-134738', 'price': '0.65918', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82770.4847', 'gainQuoteHomeConversionFactor': '1.509382455125', 'lossQuoteHomeConversionFactor': '1.524552128041', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.1538', 'fullVWAP': '0.65918', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.65918', 'tradeID': '5872', 'units': '-134738', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.1538', 'initialMarginRequired': '4491.2667'}, 'fullPrice': {'closeoutBid': '0.65911', 'closeoutAsk': '0.65931', 'timestamp': '2024-06-17T06:12:12.601258328Z', 'bids': [{'price': '0.65918', 'liquidity': '1000000.0'}, {'price': '0.65915', 'liquidity': '4000000.0'}, {'price': '0.65911', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.65925', 'liquidity': '865220.0'}, {'price': '0.65928', 'liquidity': '4000000.0'}, {'price': '0.65931', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50938245512487'}, 'lossQuoteHome': {'factor': '1.52455212804069'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5871', '5872', '5873', '5874'], 'lastTransactionID': '5874'}, Units: 134738.37216
+2024-06-17 16:13:33 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 16:13:35 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.65947
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.665924
+sslUp                           0.660399
+Position                            sell
+SIGNAL                              True
+ATR                             0.005336
+atrup                           0.664806
+atrdown                         0.654134
+SL                              0.667474
+TP                              0.654134
+baseline                        0.662157
+Name: 399, dtype: object
+2024-06-17 16:13:36 Order for id: 5872 for -134738 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 16:13:41 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5879', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5879', 'requestID': '115294742137873612', 'time': '2024-06-17T06:13:42.034993252Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-134679', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65417', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66757', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5880', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5879', 'requestID': '115294742137873612', 'time': '2024-06-17T06:13:42.034993252Z', 'type': 'ORDER_FILL', 'orderID': '5879', 'instrument': 'AUD_USD', 'units': '-134679', 'requestedUnits': '-134679', 'price': '0.65944', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82702.7244', 'gainQuoteHomeConversionFactor': '1.508787372036', 'lossQuoteHomeConversionFactor': '1.523951064217', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.1478', 'fullVWAP': '0.65944', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.65944', 'tradeID': '5880', 'units': '-134679', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '7.1478', 'initialMarginRequired': '4489.3000'}, 'fullPrice': {'closeoutBid': '0.65937', 'closeoutAsk': '0.65957', 'timestamp': '2024-06-17T06:13:30.718445319Z', 'bids': [{'price': '0.65944', 'liquidity': '1000000.0'}, {'price': '0.65941', 'liquidity': '4000000.0'}, {'price': '0.65937', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.65951', 'liquidity': '865262.0'}, {'price': '0.65954', 'liquidity': '4000000.0'}, {'price': '0.65957', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50878737203567'}, 'lossQuoteHome': {'factor': '1.52395106421693'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5879', '5880', '5881', '5882'], 'lastTransactionID': '5882'}, Units: 134678.66412
+2024-06-17 17:24:10 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 17:24:11 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66064
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665976
+atrdown                         0.655304
+SL                              0.652636
+TP                              0.665976
+baseline                        0.662304
+Name: 399, dtype: object
+2024-06-17 17:25:09 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 17:25:10 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66066
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665996
+atrdown                         0.655324
+SL                              0.652656
+TP                              0.665996
+baseline                        0.662306
+Name: 399, dtype: object
+2024-06-17 17:43:26 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 17:43:27 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                             0.6602
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.665924
+sslUp                           0.660399
+Position                            sell
+SIGNAL                              True
+ATR                             0.005336
+atrup                           0.665536
+atrdown                         0.654864
+SL                              0.668204
+TP                              0.654864
+baseline                        0.662249
+Name: 399, dtype: object
+2024-06-17 17:43:29 Order for id: 5904 for -199881 units of pair AUD_CAD is getting closed as it was opened before.
+2024-06-17 17:43:33 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5923', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5923', 'requestID': '61251569224692415', 'time': '2024-06-17T07:43:34.959135819Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-134005', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65493', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66833', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5924', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5923', 'requestID': '61251569224692415', 'time': '2024-06-17T07:43:34.959135819Z', 'type': 'ORDER_FILL', 'orderID': '5923', 'instrument': 'AUD_USD', 'units': '-134005', 'requestedUnits': '-134005', 'price': '0.66021', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82194.4531', 'gainQuoteHomeConversionFactor': '1.507039170757', 'lossQuoteHomeConversionFactor': '1.522185293076', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '6.0890', 'fullVWAP': '0.66021', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.66021', 'tradeID': '5924', 'units': '-134005', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '6.0890', 'initialMarginRequired': '4466.8333'}, 'fullPrice': {'closeoutBid': '0.66014', 'closeoutAsk': '0.66033', 'timestamp': '2024-06-17T07:43:30.145912069Z', 'bids': [{'price': '0.66021', 'liquidity': '1000000.0'}, {'price': '0.66018', 'liquidity': '4000000.0'}, {'price': '0.66014', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.66027', 'liquidity': '1000000.0'}, {'price': '0.66030', 'liquidity': '4000000.0'}, {'price': '0.66033', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50703917075708'}, 'lossQuoteHome': {'factor': '1.52218529307624'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5923', '5924', '5925', '5926'], 'lastTransactionID': '5926'}, Units: 134005.19521
+2024-06-17 17:45:17 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 17:45:18 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66008
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.665924
+sslUp                           0.660399
+Position                            sell
+SIGNAL                              True
+ATR                             0.005336
+atrup                           0.665416
+atrdown                         0.654744
+SL                              0.668084
+TP                              0.654744
+baseline                        0.662234
+Name: 399, dtype: object
+2024-06-17 17:45:23 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5977', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5977', 'requestID': '61251569686165212', 'time': '2024-06-17T07:45:24.872560030Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-133477', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65481', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66821', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5978', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5977', 'requestID': '61251569686165212', 'time': '2024-06-17T07:45:24.872560030Z', 'type': 'ORDER_FILL', 'orderID': '5977', 'instrument': 'AUD_USD', 'units': '-133477', 'requestedUnits': '-133477', 'price': '0.66009', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81885.3593', 'gainQuoteHomeConversionFactor': '1.507313130148', 'lossQuoteHomeConversionFactor': '1.522462005827', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '6.0661', 'fullVWAP': '0.66009', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.66009', 'tradeID': '5978', 'units': '-133477', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '6.0661', 'initialMarginRequired': '4449.2333'}, 'fullPrice': {'closeoutBid': '0.66002', 'closeoutAsk': '0.66021', 'timestamp': '2024-06-17T07:45:22.198775382Z', 'bids': [{'price': '0.66009', 'liquidity': '1000000.0'}, {'price': '0.66006', 'liquidity': '4000000.0'}, {'price': '0.66002', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.66015', 'liquidity': '1000000.0'}, {'price': '0.66018', 'liquidity': '4000000.0'}, {'price': '0.66021', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50731313014750'}, 'lossQuoteHome': {'factor': '1.52246200582738'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5977', '5978', '5979', '5980'], 'lastTransactionID': '5980'}, Units: 133477.13162
+2024-06-17 17:53:45 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 17:53:47 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                             0.6603
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.665924
+sslUp                           0.660399
+Position                            sell
+SIGNAL                              True
+ATR                             0.005336
+atrup                           0.665636
+atrdown                         0.654964
+SL                              0.668304
+TP                              0.654964
+baseline                        0.662261
+Name: 399, dtype: object
+2024-06-17 17:53:52 Order placed for AUD_USD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6009', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6009', 'requestID': '61251571821521654', 'time': '2024-06-17T07:53:53.890202050Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_USD', 'units': '-133362', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.65500', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.66840', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6010', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6009', 'requestID': '61251571821521654', 'time': '2024-06-17T07:53:53.890202050Z', 'type': 'ORDER_FILL', 'orderID': '6009', 'instrument': 'AUD_USD', 'units': '-133362', 'requestedUnits': '-133362', 'price': '0.66026', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81791.3346', 'gainQuoteHomeConversionFactor': '1.506902232551', 'lossQuoteHomeConversionFactor': '1.522046978607', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '8.0789', 'fullVWAP': '0.66026', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.66026', 'tradeID': '6010', 'units': '-133362', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '8.0789', 'initialMarginRequired': '4445.4000'}, 'fullPrice': {'closeoutBid': '0.66019', 'closeoutAsk': '0.66040', 'timestamp': '2024-06-17T07:53:51.429800771Z', 'bids': [{'price': '0.66026', 'liquidity': '1000000.0'}, {'price': '0.66023', 'liquidity': '4000000.0'}, {'price': '0.66019', 'liquidity': '5000000.0'}], 'asks': [{'price': '0.66034', 'liquidity': '1000000.0'}, {'price': '0.66037', 'liquidity': '4000000.0'}, {'price': '0.66040', 'liquidity': '5000000.0'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.50690223255083'}, 'lossQuoteHome': {'factor': '1.52204697860661'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['6009', '6010', '6011', '6012'], 'lastTransactionID': '6012'}, Units: 133362.34344
+2024-06-17 17:54:20 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 17:54:21 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                             0.6603
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.665924
+sslUp                           0.660399
+Position                            sell
+SIGNAL                              True
+ATR                             0.005336
+atrup                           0.665636
+atrdown                         0.654964
+SL                              0.668304
+TP                              0.654964
+baseline                        0.662261
+Name: 399, dtype: object
+2024-06-17 17:54:23 Order for id: 6018 for 179934 units of pair USD_CHF is getting closed as it was opened before.
+2024-06-17 18:31:58 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:31:59 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66062
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665956
+atrdown                         0.655284
+SL                              0.652616
+TP                              0.665956
+baseline                        0.662301
+Name: 399, dtype: object
+2024-06-17 18:49:13 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:49:15 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66079
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.666126
+atrdown                         0.655454
+SL                              0.652786
+TP                              0.666126
+baseline                        0.662322
+Name: 399, dtype: object
+2024-06-17 18:51:15 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:51:15 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:51:17 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66083
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.666166
+atrdown                         0.655494
+SL                              0.652826
+TP                              0.666166
+baseline                        0.662327
+Name: 399, dtype: object
+2024-06-17 18:51:17 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66083
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.666166
+atrdown                         0.655494
+SL                              0.652826
+TP                              0.666166
+baseline                        0.662327
+Name: 399, dtype: object
+2024-06-17 18:52:27 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:52:29 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66079
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.666126
+atrdown                         0.655454
+SL                              0.652786
+TP                              0.666126
+baseline                        0.662322
+Name: 399, dtype: object
+2024-06-17 18:53:11 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:53:13 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66078
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.666116
+atrdown                         0.655444
+SL                              0.652776
+TP                              0.666116
+baseline                        0.662321
+Name: 399, dtype: object
+2024-06-17 18:54:00 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:54:02 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66068
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.666016
+atrdown                         0.655344
+SL                              0.652676
+TP                              0.666016
+baseline                        0.662309
+Name: 399, dtype: object
+2024-06-17 18:56:50 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:56:50 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:56:51 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66064
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665976
+atrdown                         0.655304
+SL                              0.652636
+TP                              0.665976
+baseline                        0.662304
+Name: 399, dtype: object
+2024-06-17 18:56:51 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66064
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665976
+atrdown                         0.655304
+SL                              0.652636
+TP                              0.665976
+baseline                        0.662304
+Name: 399, dtype: object
+2024-06-17 18:59:09 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:59:09 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:59:09 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 18:59:10 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66057
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665906
+atrdown                         0.655234
+SL                              0.652566
+TP                              0.665906
+baseline                        0.662295
+Name: 399, dtype: object
+2024-06-17 18:59:10 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66057
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665906
+atrdown                         0.655234
+SL                              0.652566
+TP                              0.665906
+baseline                        0.662295
+Name: 399, dtype: object
+2024-06-17 18:59:10 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66057
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665906
+atrdown                         0.655234
+SL                              0.652566
+TP                              0.665906
+baseline                        0.662295
+Name: 399, dtype: object
+2024-06-17 19:01:24 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 19:01:24 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 19:01:24 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 19:01:24 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 19:01:25 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66061
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665946
+atrdown                         0.655274
+SL                              0.652606
+TP                              0.665946
+baseline                          0.6623
+Name: 399, dtype: object
+2024-06-17 19:01:25 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66061
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665946
+atrdown                         0.655274
+SL                              0.652606
+TP                              0.665946
+baseline                          0.6623
+Name: 399, dtype: object
+2024-06-17 19:01:25 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66061
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665946
+atrdown                         0.655274
+SL                              0.652606
+TP                              0.665946
+baseline                          0.6623
+Name: 399, dtype: object
+2024-06-17 19:01:25 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66061
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665946
+atrdown                         0.655274
+SL                              0.652606
+TP                              0.665946
+baseline                          0.6623
+Name: 399, dtype: object
+2024-06-17 19:03:21 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 19:03:22 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66056
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665896
+atrdown                         0.655224
+SL                              0.652556
+TP                              0.665896
+baseline                        0.662294
+Name: 399, dtype: object
+2024-06-17 19:04:55 LogWrapper init()./logs/AUD_USD.log
+2024-06-17 19:04:57 Last candle data: instrument                       AUD_USD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.66078
+High                             0.66182
+Low                               0.6591
+Close                            0.66064
+smaHigh                         0.665924
+smaLow                          0.660399
+sslDown                         0.660399
+sslUp                           0.665924
+Position                             buy
+SIGNAL                             False
+ATR                             0.005336
+atrup                           0.665976
+atrdown                         0.655304
+SL                              0.652636
+TP                              0.665976
+baseline                        0.662304
+Name: 399, dtype: object

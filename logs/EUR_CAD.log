@@ -14152,3 +14152,297 @@ SL                              1.480238
 TP                              1.464775
 baseline                        1.479201
 Name: 399, dtype: object
+2024-06-17 16:00:13 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 16:00:15 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47126
+Low                              1.46972
+Close                            1.47042
+smaHigh                         1.485272
+smaLow                          1.478775
+sslDown                         1.485272
+sslUp                           1.478775
+Position                            sell
+SIGNAL                             False
+ATR                             0.006185
+atrup                           1.476605
+atrdown                         1.464235
+SL                              1.479698
+TP                              1.464235
+baseline                        1.479134
+Name: 399, dtype: object
+2024-06-17 16:13:57 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 16:13:59 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47126
+Low                              1.46952
+Close                            1.47018
+smaHigh                         1.485272
+smaLow                          1.478755
+sslDown                         1.485272
+sslUp                           1.478755
+Position                            sell
+SIGNAL                             False
+ATR                             0.006199
+atrup                           1.476379
+atrdown                         1.463981
+SL                              1.479479
+TP                              1.463981
+baseline                        1.479104
+Name: 399, dtype: object
+2024-06-17 17:44:07 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 17:44:09 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47126
+Low                              1.46934
+Close                            1.47002
+smaHigh                         1.485272
+smaLow                          1.478737
+sslDown                         1.485272
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                             0.006212
+atrup                           1.476232
+atrdown                         1.463808
+SL                              1.479338
+TP                              1.463808
+baseline                        1.479084
+Name: 399, dtype: object
+2024-06-17 18:32:32 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:32:34 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47168
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47793
+atrdown                          1.46543
+SL                              1.481055
+TP                               1.46543
+baseline                        1.479291
+Name: 399, dtype: object
+2024-06-17 18:49:36 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:49:38 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                             1.4713
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47755
+atrdown                          1.46505
+SL                              1.480675
+TP                               1.46505
+baseline                        1.479244
+Name: 399, dtype: object
+2024-06-17 18:51:41 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:51:41 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:51:43 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47126
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47751
+atrdown                          1.46501
+SL                              1.480635
+TP                               1.46501
+baseline                        1.479239
+Name: 399, dtype: object
+2024-06-17 18:51:43 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47126
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47751
+atrdown                          1.46501
+SL                              1.480635
+TP                               1.46501
+baseline                        1.479239
+Name: 399, dtype: object
+2024-06-17 18:53:51 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:53:53 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47125
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                             1.4775
+atrdown                            1.465
+SL                              1.480625
+TP                                 1.465
+baseline                        1.479237
+Name: 399, dtype: object
+2024-06-17 18:54:47 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:54:49 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47108
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47733
+atrdown                          1.46483
+SL                              1.480455
+TP                               1.46483
+baseline                        1.479216
+Name: 399, dtype: object
+2024-06-17 18:57:29 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:57:29 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:57:30 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47138
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47763
+atrdown                          1.46513
+SL                              1.480755
+TP                               1.46513
+baseline                        1.479254
+Name: 399, dtype: object
+2024-06-17 18:57:30 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47138
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47763
+atrdown                          1.46513
+SL                              1.480755
+TP                               1.46513
+baseline                        1.479254
+Name: 399, dtype: object
+2024-06-17 18:59:46 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:59:46 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:59:46 LogWrapper init()./logs/EUR_CAD.log
+2024-06-17 18:59:47 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47136
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47761
+atrdown                          1.46511
+SL                              1.480735
+TP                               1.46511
+baseline                        1.479251
+Name: 399, dtype: object
+2024-06-17 18:59:47 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47136
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47761
+atrdown                          1.46511
+SL                              1.480735
+TP                               1.46511
+baseline                        1.479251
+Name: 399, dtype: object
+2024-06-17 18:59:47 Last candle data: instrument                       EUR_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.47045
+High                             1.47179
+Low                              1.46934
+Close                            1.47136
+smaHigh                         1.485325
+smaLow                          1.478737
+sslDown                         1.485325
+sslUp                           1.478737
+Position                            sell
+SIGNAL                             False
+ATR                              0.00625
+atrup                            1.47761
+atrdown                          1.46511
+SL                              1.480735
+TP                               1.46511
+baseline                        1.479251
+Name: 399, dtype: object

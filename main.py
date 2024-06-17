@@ -7,17 +7,17 @@ import os
 from logger import LogWrapper
 from Trademanager import Trademanager
 
-def save_all_candle_data(candle_data):
-    new_data_df = pd.DataFrame(candle_data)
+def save_all_candle_data(candle_data_all):
+    new_data_df = pd.DataFrame(candle_data_all)
     try:
-        if os.path.exists('candle_data.csv'):
-            existing_data_df = pd.read_csv('candle_data.csv')
+        if os.path.exists('candle_data_all.csv'):
+            existing_data_df = pd.read_csv('candle_data_all.csv')
             combined_data_df = pd.concat([existing_data_df, new_data_df], ignore_index=True)
         else:
             combined_data_df = new_data_df
 
-        combined_data_df.to_csv('candle_data.csv', index=False)
-        logging.info("Candle data saved to candle_data.csv.")
+        combined_data_df.to_csv('candle_data_all.csv', index=False)
+        logging.info("Candle data saved to candle_data_all.csv.")
     except PermissionError as e:
         logging.error(f"Permission error saving candle data to CSV: {e}")
         alternative_filename = 'candle_data_backup.csv'
@@ -46,7 +46,7 @@ def save_candle_data(candle_data, pair, directory='data'):
     except PermissionError as e:
         logging.error(f"Permission error saving candle data to CSV: {e}")
         combined_data_df.to_csv(backup_file_path, index=False)
-        logging.info(f"Backup candle data saved to {backupjsa_file_path}.")
+        logging.info(f"Backup candle data saved to {backup_file_path}.")
 
 def main():
     instrument = [
@@ -56,7 +56,8 @@ def main():
         "AUD_NZD", "AUD_JPY", "AUD_CHF", "AUD_CAD",
         "NZD_JPY", "NZD_CHF", "NZD_CAD",
         "CAD_JPY", "CAD_CHF", "CHF_JPY"
-    ]  # Initialize an empty list to store the last candle data
+    ]  
+    candle_data_all = []# Initialize an empty list to store the last candle data
     try:
         while True:
             for pair in instrument:
@@ -65,6 +66,7 @@ def main():
                 last_candle = Trademanager().fetch_and_process(pair,granularity="D")
                 if last_candle is not None:
                     log.logger.info(f"Last candle data: {last_candle}")
+                    candle_data_all.append(last_candle.to_dict())
                     if 'SIGNAL' in last_candle and last_candle['SIGNAL']:
                         print(f"Signal for {pair} generated running check.")
                         result = ForexData().run_check(pair)
@@ -95,10 +97,10 @@ def main():
                             log.logger.info(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']}, Details: {order_response}, Units: {unit}")
                             print(f"Order placed for {pair}. Side: {side}, Time: {last_candle['Time']},Details:{order_response}")
                             save_candle_data(candle_data,pair)
-            time.sleep(86400)
+            time.sleep(60)
     except KeyboardInterrupt:
         logging.info("Script interrupted. Saving collected candle data.")
-        save_all_candle_data(candle_data)
+        save_all_candle_data(candle_data_all)
 if __name__ == "__main__":
     print("Bot started.")
     main()

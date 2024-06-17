@@ -14152,3 +14152,573 @@ SL                              0.898263
 TP                              0.885275
 baseline                        0.893614
 Name: 399, dtype: object
+2024-06-17 15:59:46 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 15:59:48 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89133
+Low                              0.88946
+Close                            0.89126
+smaHigh                         0.896199
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896199
+Position                             buy
+SIGNAL                              True
+ATR                              0.00522
+atrup                            0.89648
+atrdown                          0.88604
+SL                               0.88343
+TP                               0.89648
+baseline                        0.893713
+Name: 399, dtype: object
+2024-06-17 15:59:49 Order for id: 5798 for -137672 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 15:59:54 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5805', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5805', 'requestID': '79265941649327930', 'time': '2024-06-17T05:59:55.108078476Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '185835', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89652', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88320', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5806', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5805', 'requestID': '79265941649327930', 'time': '2024-06-17T05:59:55.108078476Z', 'type': 'ORDER_FILL', 'orderID': '5805', 'instrument': 'USD_CHF', 'units': '185835', 'requestedUnits': '185835', 'price': '0.89132', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82888.4840', 'gainQuoteHomeConversionFactor': '1.691457725777', 'lossQuoteHomeConversionFactor': '1.708457300911', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.9547', 'fullVWAP': '0.89132', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89132', 'tradeID': '5806', 'units': '185835', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.9547', 'initialMarginRequired': '9385.3928'}, 'fullPrice': {'closeoutBid': '0.89119', 'closeoutAsk': '0.89133', 'timestamp': '2024-06-17T05:59:35.460388661Z', 'bids': [{'price': '0.89120', 'liquidity': '3000000'}, {'price': '0.89119', 'liquidity': '7000000'}], 'asks': [{'price': '0.89132', 'liquidity': '3000000'}, {'price': '0.89133', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.69145772577734'}, 'lossQuoteHome': {'factor': '1.70845730091078'}, 'gainBaseHome': {'factor': '1.50754150573761'}, 'lossBaseHome': {'factor': '1.52269267664955'}}}, 'relatedTransactionIDs': ['5805', '5806', '5807', '5808'], 'lastTransactionID': '5808'}, Units: 185834.50356
+2024-06-17 16:12:15 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 16:12:16 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89133
+Low                              0.88946
+Close                             0.8904
+smaHigh                         0.896199
+smaLow                          0.890829
+sslDown                         0.896199
+sslUp                           0.890829
+Position                            sell
+SIGNAL                             False
+ATR                              0.00522
+atrup                            0.89562
+atrdown                          0.88518
+SL                               0.89823
+TP                               0.88518
+baseline                        0.893605
+Name: 399, dtype: object
+2024-06-17 16:13:42 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 16:13:43 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89133
+Low                              0.88946
+Close                            0.89072
+smaHigh                         0.896199
+smaLow                          0.890829
+sslDown                         0.896199
+sslUp                           0.890829
+Position                            sell
+SIGNAL                             False
+ATR                              0.00522
+atrup                            0.89594
+atrdown                           0.8855
+SL                               0.89855
+TP                                0.8855
+baseline                        0.893645
+Name: 399, dtype: object
+2024-06-17 17:24:12 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 17:24:13 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89133
+Low                              0.88946
+Close                            0.89059
+smaHigh                         0.896199
+smaLow                          0.890829
+sslDown                         0.896199
+sslUp                           0.890829
+Position                            sell
+SIGNAL                             False
+ATR                              0.00522
+atrup                            0.89581
+atrdown                          0.88537
+SL                               0.89842
+TP                               0.88537
+baseline                        0.893629
+Name: 399, dtype: object
+2024-06-17 17:25:11 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 17:25:12 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89133
+Low                              0.88946
+Close                            0.89056
+smaHigh                         0.896199
+smaLow                          0.890829
+sslDown                         0.896199
+sslUp                           0.890829
+Position                            sell
+SIGNAL                             False
+ATR                              0.00522
+atrup                            0.89578
+atrdown                          0.88534
+SL                               0.89839
+TP                               0.88534
+baseline                        0.893625
+Name: 399, dtype: object
+2024-06-17 17:43:35 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 17:43:36 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                              0.8915
+Low                              0.88946
+Close                            0.89148
+smaHigh                         0.896216
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896216
+Position                             buy
+SIGNAL                              True
+ATR                             0.005232
+atrup                           0.896712
+atrdown                         0.886248
+SL                              0.883631
+TP                              0.896712
+baseline                         0.89374
+Name: 399, dtype: object
+2024-06-17 17:43:37 Order for id: 5924 for -134005 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 17:43:42 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5931', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5931', 'requestID': '79265967771719969', 'time': '2024-06-17T07:43:43.443003610Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '184309', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89674', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88339', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5932', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5931', 'requestID': '79265967771719969', 'time': '2024-06-17T07:43:43.443003610Z', 'type': 'ORDER_FILL', 'orderID': '5931', 'instrument': 'USD_CHF', 'units': '184309', 'requestedUnits': '184309', 'price': '0.89154', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82188.3334', 'gainQuoteHomeConversionFactor': '1.690595555306', 'lossQuoteHomeConversionFactor': '1.707586465409', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '20.3553', 'fullVWAP': '0.89154', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89154', 'tradeID': '5932', 'units': '184309', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '20.3553', 'initialMarginRequired': '9306.0679'}, 'fullPrice': {'closeoutBid': '0.89140', 'closeoutAsk': '0.89155', 'timestamp': '2024-06-17T07:43:43.033741649Z', 'bids': [{'price': '0.89141', 'liquidity': '3000000'}, {'price': '0.89140', 'liquidity': '7000000'}], 'asks': [{'price': '0.89154', 'liquidity': '3000000'}, {'price': '0.89155', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.69059555530563'}, 'lossQuoteHome': {'factor': '1.70758646540921'}, 'gainBaseHome': {'factor': '1.50717613800290'}, 'lossBaseHome': {'factor': '1.52232363687730'}}}, 'relatedTransactionIDs': ['5931', '5932', '5933', '5934'], 'lastTransactionID': '5934'}, Units: 184308.53819999998
+2024-06-17 17:45:25 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 17:45:26 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89163
+Low                              0.88946
+Close                            0.89162
+smaHigh                         0.896229
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896229
+Position                             buy
+SIGNAL                              True
+ATR                             0.005242
+atrup                           0.896862
+atrdown                         0.886378
+SL                              0.883757
+TP                              0.896862
+baseline                        0.893757
+Name: 399, dtype: object
+2024-06-17 17:45:27 Order for id: 5978 for -133477 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 17:45:32 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5985', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5985', 'requestID': '115294765252388606', 'time': '2024-06-17T07:45:33.110079839Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '183651', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89690', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88353', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5986', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5985', 'requestID': '115294765252388606', 'time': '2024-06-17T07:45:33.110079839Z', 'type': 'ORDER_FILL', 'orderID': '5985', 'instrument': 'USD_CHF', 'units': '183651', 'requestedUnits': '183651', 'price': '0.89172', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81881.2947', 'gainQuoteHomeConversionFactor': '1.690624280551', 'lossQuoteHomeConversionFactor': '1.707615479351', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '20.2829', 'fullVWAP': '0.89172', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89172', 'tradeID': '5986', 'units': '183651', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '20.2829', 'initialMarginRequired': '9274.5302'}, 'fullPrice': {'closeoutBid': '0.89158', 'closeoutAsk': '0.89173', 'timestamp': '2024-06-17T07:45:32.182684145Z', 'bids': [{'price': '0.89159', 'liquidity': '3000000'}, {'price': '0.89158', 'liquidity': '7000000'}], 'asks': [{'price': '0.89172', 'liquidity': '3000000'}, {'price': '0.89173', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.69062428055121'}, 'lossQuoteHome': {'factor': '1.70761547935071'}, 'gainBaseHome': {'factor': '1.50745014719769'}, 'lossBaseHome': {'factor': '1.52260039993335'}}}, 'relatedTransactionIDs': ['5985', '5986', '5987', '5988'], 'lastTransactionID': '5988'}, Units: 183651.27605
+2024-06-17 17:53:54 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 17:53:56 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89168
+Low                              0.88946
+Close                            0.89138
+smaHigh                         0.896234
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896234
+Position                             buy
+SIGNAL                              True
+ATR                             0.005245
+atrup                           0.896625
+atrdown                         0.886135
+SL                              0.883512
+TP                              0.896625
+baseline                        0.893728
+Name: 399, dtype: object
+2024-06-17 17:53:57 Order for id: 6010 for -133362 units of pair AUD_USD is getting closed as it was opened before.
+2024-06-17 17:54:02 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6017', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6017', 'requestID': '115294767391860249', 'time': '2024-06-17T07:54:03.586347832Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '179934', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89660', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88322', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6018', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6017', 'requestID': '115294767391860249', 'time': '2024-06-17T07:54:03.586347832Z', 'type': 'ORDER_FILL', 'orderID': '6017', 'instrument': 'USD_CHF', 'units': '179934', 'requestedUnits': '179934', 'price': '0.89139', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81764.9490', 'gainQuoteHomeConversionFactor': '1.690451943719', 'lossQuoteHomeConversionFactor': '1.70744141049', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.8704', 'fullVWAP': '0.89139', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89139', 'tradeID': '6018', 'units': '179934', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.8704', 'initialMarginRequired': '9082.7592'}, 'fullPrice': {'closeoutBid': '0.89125', 'closeoutAsk': '0.89140', 'timestamp': '2024-06-17T07:54:02.803856736Z', 'bids': [{'price': '0.89126', 'liquidity': '3000000'}, {'price': '0.89125', 'liquidity': '7000000'}], 'asks': [{'price': '0.89139', 'liquidity': '3000000'}, {'price': '0.89140', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.69045194371855'}, 'lossQuoteHome': {'factor': '1.70744141048959'}, 'gainBaseHome': {'factor': '1.50677672176032'}, 'lossBaseHome': {'factor': '1.52192020640112'}}}, 'relatedTransactionIDs': ['6017', '6018', '6019', '6020'], 'lastTransactionID': '6020'}, Units: 179933.57125
+2024-06-17 18:32:01 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:32:02 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                             0.8915
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896762
+atrdown                         0.886238
+SL                              0.883606
+TP                              0.896762
+baseline                        0.893742
+Name: 399, dtype: object
+2024-06-17 18:49:16 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:49:18 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89146
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896722
+atrdown                         0.886198
+SL                              0.883566
+TP                              0.896722
+baseline                        0.893738
+Name: 399, dtype: object
+2024-06-17 18:51:19 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:51:19 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:51:21 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89148
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896742
+atrdown                         0.886218
+SL                              0.883586
+TP                              0.896742
+baseline                         0.89374
+Name: 399, dtype: object
+2024-06-17 18:51:21 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89148
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896742
+atrdown                         0.886218
+SL                              0.883586
+TP                              0.896742
+baseline                         0.89374
+Name: 399, dtype: object
+2024-06-17 18:52:30 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:52:31 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89146
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896722
+atrdown                         0.886198
+SL                              0.883566
+TP                              0.896722
+baseline                        0.893738
+Name: 399, dtype: object
+2024-06-17 18:52:37 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6047', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6047', 'requestID': '79265985118245102', 'time': '2024-06-17T08:52:38.692854047Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '180164', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89676', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88334', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6048', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6047', 'requestID': '79265985118245102', 'time': '2024-06-17T08:52:38.692854047Z', 'type': 'ORDER_FILL', 'orderID': '6047', 'instrument': 'USD_CHF', 'units': '180164', 'requestedUnits': '180164', 'price': '0.89152', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81857.0802', 'gainQuoteHomeConversionFactor': '1.688988497986', 'lossQuoteHomeConversionFactor': '1.705963256759', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.3494', 'fullVWAP': '0.89152', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89152', 'tradeID': '6048', 'units': '180164', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.3494', 'initialMarginRequired': '9088.1760'}, 'fullPrice': {'closeoutBid': '0.89139', 'closeoutAsk': '0.89153', 'timestamp': '2024-06-17T08:52:34.763033007Z', 'bids': [{'price': '0.89140', 'liquidity': '3000000'}, {'price': '0.89139', 'liquidity': '7000000'}], 'asks': [{'price': '0.89152', 'liquidity': '3000000'}, {'price': '0.89153', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68898849798575'}, 'lossQuoteHome': {'factor': '1.70596325675947'}, 'gainBaseHome': {'factor': '1.50575061774098'}, 'lossBaseHome': {'factor': '1.52088378977858'}}}, 'relatedTransactionIDs': ['6047', '6048', '6049', '6050'], 'lastTransactionID': '6050'}, Units: 180164.18124
+2024-06-17 18:53:14 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:53:16 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89162
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896882
+atrdown                         0.886358
+SL                              0.883726
+TP                              0.896882
+baseline                        0.893757
+Name: 399, dtype: object
+2024-06-17 18:53:17 Order for id: 6056 for -139196 units of pair NZD_USD is getting closed as it was opened before.
+2024-06-17 18:53:22 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6063', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6063', 'requestID': '61251586794305719', 'time': '2024-06-17T08:53:23.844642161Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '180130', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89685', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88343', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6064', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6063', 'requestID': '61251586794305719', 'time': '2024-06-17T08:53:23.844642161Z', 'type': 'ORDER_FILL', 'orderID': '6063', 'instrument': 'USD_CHF', 'units': '180130', 'requestedUnits': '180130', 'price': '0.89161', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81833.0408', 'gainQuoteHomeConversionFactor': '1.6889598283', 'lossQuoteHomeConversionFactor': '1.705934298936', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.8745', 'fullVWAP': '0.89161', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89161', 'tradeID': '6064', 'units': '180130', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.8745', 'initialMarginRequired': '9086.7360'}, 'fullPrice': {'closeoutBid': '0.89147', 'closeoutAsk': '0.89162', 'timestamp': '2024-06-17T08:53:20.808580013Z', 'bids': [{'price': '0.89148', 'liquidity': '3000000'}, {'price': '0.89147', 'liquidity': '7000000'}], 'asks': [{'price': '0.89161', 'liquidity': '3000000'}, {'price': '0.89162', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68895982829967'}, 'lossQuoteHome': {'factor': '1.70593429893585'}, 'gainBaseHome': {'factor': '1.50579619268703'}, 'lossBaseHome': {'factor': '1.52092982276429'}}}, 'relatedTransactionIDs': ['6063', '6064', '6065', '6066'], 'lastTransactionID': '6066'}, Units: 180129.77436
+2024-06-17 18:54:03 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:54:05 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89162
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896882
+atrdown                         0.886358
+SL                              0.883726
+TP                              0.896882
+baseline                        0.893757
+Name: 399, dtype: object
+2024-06-17 18:54:10 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6089', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6089', 'requestID': '115294782523278071', 'time': '2024-06-17T08:54:11.809735164Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '179876', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89692', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88350', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6090', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6089', 'requestID': '115294782523278071', 'time': '2024-06-17T08:54:11.809735164Z', 'type': 'ORDER_FILL', 'orderID': '6089', 'instrument': 'USD_CHF', 'units': '179876', 'requestedUnits': '179876', 'price': '0.89169', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81711.2305', 'gainQuoteHomeConversionFactor': '1.689060179988', 'lossQuoteHomeConversionFactor': '1.706035659184', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.8476', 'fullVWAP': '0.89169', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89169', 'tradeID': '6090', 'units': '179876', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.8476', 'initialMarginRequired': '9075.4336'}, 'fullPrice': {'closeoutBid': '0.89155', 'closeoutAsk': '0.89170', 'timestamp': '2024-06-17T08:54:07.470220119Z', 'bids': [{'price': '0.89156', 'liquidity': '3000000'}, {'price': '0.89155', 'liquidity': '7000000'}], 'asks': [{'price': '0.89169', 'liquidity': '3000000'}, {'price': '0.89170', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68906017998819'}, 'lossQuoteHome': {'factor': '1.70603565918405'}, 'gainBaseHome': {'factor': '1.50604690421310'}, 'lossBaseHome': {'factor': '1.52118305400418'}}}, 'relatedTransactionIDs': ['6089', '6090', '6091', '6092'], 'lastTransactionID': '6092'}, Units: 179875.5618
+2024-06-17 18:56:53 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:56:53 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:56:54 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89158
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896842
+atrdown                         0.886318
+SL                              0.883686
+TP                              0.896842
+baseline                        0.893753
+Name: 399, dtype: object
+2024-06-17 18:56:54 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                            0.89158
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.896842
+atrdown                         0.886318
+SL                              0.883686
+TP                              0.896842
+baseline                        0.893753
+Name: 399, dtype: object
+2024-06-17 18:57:00 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6127', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6127', 'requestID': '79265986217349139', 'time': '2024-06-17T08:57:01.173844097Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '179282', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89690', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88348', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6128', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6127', 'requestID': '79265986217349139', 'time': '2024-06-17T08:57:01.173844097Z', 'type': 'ORDER_FILL', 'orderID': '6127', 'instrument': 'USD_CHF', 'units': '179282', 'requestedUnits': '179282', 'price': '0.89166', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81443.5404', 'gainQuoteHomeConversionFactor': '1.689404321369', 'lossQuoteHomeConversionFactor': '1.706383259272', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '16.7421', 'fullVWAP': '0.89166', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89166', 'tradeID': '6128', 'units': '179282', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '16.7421', 'initialMarginRequired': '9046.4225'}, 'fullPrice': {'closeoutBid': '0.89154', 'closeoutAsk': '0.89167', 'timestamp': '2024-06-17T08:56:59.862596106Z', 'bids': [{'price': '0.89155', 'liquidity': '3000000'}, {'price': '0.89154', 'liquidity': '7000000'}], 'asks': [{'price': '0.89166', 'liquidity': '3000000'}, {'price': '0.89167', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68940432136870'}, 'lossQuoteHome': {'factor': '1.70638325927190'}, 'gainBaseHome': {'factor': '1.50620649138390'}, 'lossBaseHome': {'factor': '1.52134424506616'}}}, 'relatedTransactionIDs': ['6127', '6128', '6129', '6130'], 'lastTransactionID': '6130'}, Units: 179282.22535000002
+2024-06-17 18:57:00 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6127', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6127', 'requestID': '79265986217349139', 'time': '2024-06-17T08:57:01.173844097Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '179282', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89690', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88348', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6128', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6127', 'requestID': '79265986217349139', 'time': '2024-06-17T08:57:01.173844097Z', 'type': 'ORDER_FILL', 'orderID': '6127', 'instrument': 'USD_CHF', 'units': '179282', 'requestedUnits': '179282', 'price': '0.89166', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81443.5404', 'gainQuoteHomeConversionFactor': '1.689404321369', 'lossQuoteHomeConversionFactor': '1.706383259272', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '16.7421', 'fullVWAP': '0.89166', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89166', 'tradeID': '6128', 'units': '179282', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '16.7421', 'initialMarginRequired': '9046.4225'}, 'fullPrice': {'closeoutBid': '0.89154', 'closeoutAsk': '0.89167', 'timestamp': '2024-06-17T08:56:59.862596106Z', 'bids': [{'price': '0.89155', 'liquidity': '3000000'}, {'price': '0.89154', 'liquidity': '7000000'}], 'asks': [{'price': '0.89166', 'liquidity': '3000000'}, {'price': '0.89167', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68940432136870'}, 'lossQuoteHome': {'factor': '1.70638325927190'}, 'gainBaseHome': {'factor': '1.50620649138390'}, 'lossBaseHome': {'factor': '1.52134424506616'}}}, 'relatedTransactionIDs': ['6127', '6128', '6129', '6130'], 'lastTransactionID': '6130'}, Units: 179282.22535000002
+2024-06-17 18:59:11 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:59:11 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:59:11 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 18:59:13 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                             0.8918
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.897062
+atrdown                         0.886538
+SL                              0.883906
+TP                              0.897062
+baseline                         0.89378
+Name: 399, dtype: object
+2024-06-17 18:59:13 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                             0.8918
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.897062
+atrdown                         0.886538
+SL                              0.883906
+TP                              0.897062
+baseline                         0.89378
+Name: 399, dtype: object
+2024-06-17 18:59:13 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89192
+Low                              0.88946
+Close                             0.8918
+smaHigh                         0.896258
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896258
+Position                             buy
+SIGNAL                              True
+ATR                             0.005262
+atrup                           0.897062
+atrdown                         0.886538
+SL                              0.883906
+TP                              0.897062
+baseline                         0.89378
+Name: 399, dtype: object
+2024-06-17 18:59:18 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6169', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6169', 'requestID': '115294783815338802', 'time': '2024-06-17T08:59:19.738057408Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178601', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89710', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88368', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6170', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6169', 'requestID': '115294783815338802', 'time': '2024-06-17T08:59:19.738057408Z', 'type': 'ORDER_FILL', 'orderID': '6169', 'instrument': 'USD_CHF', 'units': '178601', 'requestedUnits': '178601', 'price': '0.89191', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81115.7856', 'gainQuoteHomeConversionFactor': '1.688959835599', 'lossQuoteHomeConversionFactor': '1.705934306309', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.1899', 'fullVWAP': '0.89191', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89191', 'tradeID': '6170', 'units': '178601', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.1899', 'initialMarginRequired': '9012.5373'}, 'fullPrice': {'closeoutBid': '0.89178', 'closeoutAsk': '0.89192', 'timestamp': '2024-06-17T08:59:19.448108431Z', 'bids': [{'price': '0.89179', 'liquidity': '3000000'}, {'price': '0.89178', 'liquidity': '7000000'}], 'asks': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89192', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68895983559935'}, 'lossQuoteHome': {'factor': '1.70593430630889'}, 'gainBaseHome': {'factor': '1.50628629566796'}, 'lossBaseHome': {'factor': '1.52142485140332'}}}, 'relatedTransactionIDs': ['6169', '6170', '6171', '6172'], 'lastTransactionID': '6172'}, Units: 178601.03478000002
+2024-06-17 18:59:18 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6169', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6169', 'requestID': '115294783815338802', 'time': '2024-06-17T08:59:19.738057408Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178601', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89710', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88368', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6170', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6169', 'requestID': '115294783815338802', 'time': '2024-06-17T08:59:19.738057408Z', 'type': 'ORDER_FILL', 'orderID': '6169', 'instrument': 'USD_CHF', 'units': '178601', 'requestedUnits': '178601', 'price': '0.89191', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81115.7856', 'gainQuoteHomeConversionFactor': '1.688959835599', 'lossQuoteHomeConversionFactor': '1.705934306309', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.1899', 'fullVWAP': '0.89191', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89191', 'tradeID': '6170', 'units': '178601', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.1899', 'initialMarginRequired': '9012.5373'}, 'fullPrice': {'closeoutBid': '0.89178', 'closeoutAsk': '0.89192', 'timestamp': '2024-06-17T08:59:19.448108431Z', 'bids': [{'price': '0.89179', 'liquidity': '3000000'}, {'price': '0.89178', 'liquidity': '7000000'}], 'asks': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89192', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68895983559935'}, 'lossQuoteHome': {'factor': '1.70593430630889'}, 'gainBaseHome': {'factor': '1.50628629566796'}, 'lossBaseHome': {'factor': '1.52142485140332'}}}, 'relatedTransactionIDs': ['6169', '6170', '6171', '6172'], 'lastTransactionID': '6172'}, Units: 178601.03478000002
+2024-06-17 18:59:18 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6169', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6169', 'requestID': '115294783815338802', 'time': '2024-06-17T08:59:19.738057408Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178601', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89710', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88368', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6170', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6169', 'requestID': '115294783815338802', 'time': '2024-06-17T08:59:19.738057408Z', 'type': 'ORDER_FILL', 'orderID': '6169', 'instrument': 'USD_CHF', 'units': '178601', 'requestedUnits': '178601', 'price': '0.89191', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81115.7856', 'gainQuoteHomeConversionFactor': '1.688959835599', 'lossQuoteHomeConversionFactor': '1.705934306309', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.1899', 'fullVWAP': '0.89191', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89191', 'tradeID': '6170', 'units': '178601', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.1899', 'initialMarginRequired': '9012.5373'}, 'fullPrice': {'closeoutBid': '0.89178', 'closeoutAsk': '0.89192', 'timestamp': '2024-06-17T08:59:19.448108431Z', 'bids': [{'price': '0.89179', 'liquidity': '3000000'}, {'price': '0.89178', 'liquidity': '7000000'}], 'asks': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89192', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68895983559935'}, 'lossQuoteHome': {'factor': '1.70593430630889'}, 'gainBaseHome': {'factor': '1.50628629566796'}, 'lossBaseHome': {'factor': '1.52142485140332'}}}, 'relatedTransactionIDs': ['6169', '6170', '6171', '6172'], 'lastTransactionID': '6172'}, Units: 178601.03478000002
+2024-06-17 19:01:27 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 19:01:27 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 19:01:27 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 19:01:27 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 19:01:28 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89196
+Low                              0.88946
+Close                            0.89196
+smaHigh                         0.896262
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896262
+Position                             buy
+SIGNAL                              True
+ATR                             0.005265
+atrup                           0.897225
+atrdown                         0.886695
+SL                              0.884062
+TP                              0.897225
+baseline                          0.8938
+Name: 399, dtype: object
+2024-06-17 19:01:28 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89196
+Low                              0.88946
+Close                            0.89196
+smaHigh                         0.896262
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896262
+Position                             buy
+SIGNAL                              True
+ATR                             0.005265
+atrup                           0.897225
+atrdown                         0.886695
+SL                              0.884062
+TP                              0.897225
+baseline                          0.8938
+Name: 399, dtype: object
+2024-06-17 19:01:28 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89196
+Low                              0.88946
+Close                            0.89196
+smaHigh                         0.896262
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896262
+Position                             buy
+SIGNAL                              True
+ATR                             0.005265
+atrup                           0.897225
+atrdown                         0.886695
+SL                              0.884062
+TP                              0.897225
+baseline                          0.8938
+Name: 399, dtype: object
+2024-06-17 19:01:28 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                             0.89196
+Low                              0.88946
+Close                            0.89196
+smaHigh                         0.896262
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896262
+Position                             buy
+SIGNAL                              True
+ATR                             0.005265
+atrup                           0.897225
+atrdown                         0.886695
+SL                              0.884062
+TP                              0.897225
+baseline                          0.8938
+Name: 399, dtype: object
+2024-06-17 19:01:33 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6211', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178044', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89725', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88382', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6212', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'ORDER_FILL', 'orderID': '6211', 'instrument': 'USD_CHF', 'units': '178044', 'requestedUnits': '178044', 'price': '0.89204', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80849.4559', 'gainQuoteHomeConversionFactor': '1.688673192258', 'lossQuoteHomeConversionFactor': '1.70564478213', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'fullVWAP': '0.89204', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89204', 'tradeID': '6212', 'units': '178044', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'initialMarginRequired': '8984.7701'}, 'fullPrice': {'closeoutBid': '0.89190', 'closeoutAsk': '0.89205', 'timestamp': '2024-06-17T09:01:33.589850479Z', 'bids': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89190', 'liquidity': '7000000'}], 'asks': [{'price': '0.89204', 'liquidity': '3000000'}, {'price': '0.89205', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68867319225766'}, 'lossQuoteHome': {'factor': '1.70564478212960'}, 'gainBaseHome': {'factor': '1.50634330730872'}, 'lossBaseHome': {'factor': '1.52148243602540'}}}, 'relatedTransactionIDs': ['6211', '6212', '6213', '6214'], 'lastTransactionID': '6214'}, Units: 178044.22064
+2024-06-17 19:01:33 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6211', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178044', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89725', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88382', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6212', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'ORDER_FILL', 'orderID': '6211', 'instrument': 'USD_CHF', 'units': '178044', 'requestedUnits': '178044', 'price': '0.89204', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80849.4559', 'gainQuoteHomeConversionFactor': '1.688673192258', 'lossQuoteHomeConversionFactor': '1.70564478213', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'fullVWAP': '0.89204', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89204', 'tradeID': '6212', 'units': '178044', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'initialMarginRequired': '8984.7701'}, 'fullPrice': {'closeoutBid': '0.89190', 'closeoutAsk': '0.89205', 'timestamp': '2024-06-17T09:01:33.589850479Z', 'bids': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89190', 'liquidity': '7000000'}], 'asks': [{'price': '0.89204', 'liquidity': '3000000'}, {'price': '0.89205', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68867319225766'}, 'lossQuoteHome': {'factor': '1.70564478212960'}, 'gainBaseHome': {'factor': '1.50634330730872'}, 'lossBaseHome': {'factor': '1.52148243602540'}}}, 'relatedTransactionIDs': ['6211', '6212', '6213', '6214'], 'lastTransactionID': '6214'}, Units: 178044.22064
+2024-06-17 19:01:33 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6211', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178044', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89725', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88382', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6212', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'ORDER_FILL', 'orderID': '6211', 'instrument': 'USD_CHF', 'units': '178044', 'requestedUnits': '178044', 'price': '0.89204', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80849.4559', 'gainQuoteHomeConversionFactor': '1.688673192258', 'lossQuoteHomeConversionFactor': '1.70564478213', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'fullVWAP': '0.89204', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89204', 'tradeID': '6212', 'units': '178044', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'initialMarginRequired': '8984.7701'}, 'fullPrice': {'closeoutBid': '0.89190', 'closeoutAsk': '0.89205', 'timestamp': '2024-06-17T09:01:33.589850479Z', 'bids': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89190', 'liquidity': '7000000'}], 'asks': [{'price': '0.89204', 'liquidity': '3000000'}, {'price': '0.89205', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68867319225766'}, 'lossQuoteHome': {'factor': '1.70564478212960'}, 'gainBaseHome': {'factor': '1.50634330730872'}, 'lossBaseHome': {'factor': '1.52148243602540'}}}, 'relatedTransactionIDs': ['6211', '6212', '6213', '6214'], 'lastTransactionID': '6214'}, Units: 178044.22064
+2024-06-17 19:01:33 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6211', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '178044', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89725', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88382', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6212', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6211', 'requestID': '115294784381667384', 'time': '2024-06-17T09:01:34.861116350Z', 'type': 'ORDER_FILL', 'orderID': '6211', 'instrument': 'USD_CHF', 'units': '178044', 'requestedUnits': '178044', 'price': '0.89204', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80849.4559', 'gainQuoteHomeConversionFactor': '1.688673192258', 'lossQuoteHomeConversionFactor': '1.70564478213', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'fullVWAP': '0.89204', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89204', 'tradeID': '6212', 'units': '178044', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6410', 'initialMarginRequired': '8984.7701'}, 'fullPrice': {'closeoutBid': '0.89190', 'closeoutAsk': '0.89205', 'timestamp': '2024-06-17T09:01:33.589850479Z', 'bids': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89190', 'liquidity': '7000000'}], 'asks': [{'price': '0.89204', 'liquidity': '3000000'}, {'price': '0.89205', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68867319225766'}, 'lossQuoteHome': {'factor': '1.70564478212960'}, 'gainBaseHome': {'factor': '1.50634330730872'}, 'lossBaseHome': {'factor': '1.52148243602540'}}}, 'relatedTransactionIDs': ['6211', '6212', '6213', '6214'], 'lastTransactionID': '6214'}, Units: 178044.22064
+2024-06-17 19:03:23 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 19:03:25 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                               0.892
+Low                              0.88946
+Close                            0.89184
+smaHigh                         0.896266
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896266
+Position                             buy
+SIGNAL                              True
+ATR                             0.005268
+atrup                           0.897108
+atrdown                         0.886572
+SL                              0.883938
+TP                              0.897108
+baseline                        0.893785
+Name: 399, dtype: object
+2024-06-17 19:03:26 Order for id: 6212 for 178044 units of pair USD_CHF is getting closed as it was opened before.
+2024-06-17 19:03:31 Order placed for USD_CHF. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6219', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6219', 'requestID': '79265987857619383', 'time': '2024-06-17T09:03:32.632274340Z', 'type': 'MARKET_ORDER', 'instrument': 'USD_CHF', 'units': '177848', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.89714', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.88371', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6220', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6219', 'requestID': '79265987857619383', 'time': '2024-06-17T09:03:32.632274340Z', 'type': 'ORDER_FILL', 'orderID': '6219', 'instrument': 'USD_CHF', 'units': '177848', 'requestedUnits': '177848', 'price': '0.89191', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80770.4884', 'gainQuoteHomeConversionFactor': '1.688902499146', 'lossQuoteHomeConversionFactor': '1.70587639361', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6220', 'fullVWAP': '0.89191', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.89191', 'tradeID': '6220', 'units': '177848', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '19.6220', 'initialMarginRequired': '8974.5396'}, 'fullPrice': {'closeoutBid': '0.89177', 'closeoutAsk': '0.89192', 'timestamp': '2024-06-17T09:03:30.229104075Z', 'bids': [{'price': '0.89178', 'liquidity': '2821956'}, {'price': '0.89177', 'liquidity': '7000000'}], 'asks': [{'price': '0.89191', 'liquidity': '3000000'}, {'price': '0.89192', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.68890249914629'}, 'lossQuoteHome': {'factor': '1.70587639361007'}, 'gainBaseHome': {'factor': '1.50628629981042'}, 'lossBaseHome': {'factor': '1.52142485558740'}}}, 'relatedTransactionIDs': ['6219', '6220', '6221', '6222'], 'lastTransactionID': '6222'}, Units: 177848.36641
+2024-06-17 19:04:58 LogWrapper init()./logs/USD_CHF.log
+2024-06-17 19:04:59 Last candle data: instrument                       USD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.89038
+High                               0.892
+Low                              0.88946
+Close                            0.89188
+smaHigh                         0.896266
+smaLow                          0.890829
+sslDown                         0.890829
+sslUp                           0.896266
+Position                             buy
+SIGNAL                              True
+ATR                             0.005268
+atrup                           0.897148
+atrdown                         0.886612
+SL                              0.883978
+TP                              0.897148
+baseline                         0.89379
+Name: 399, dtype: object
+2024-06-17 19:05:01 Order for id: 6232 for -137193 units of pair NZD_USD is getting closed as it was opened before.

@@ -14165,3 +14165,287 @@ baseline                        2.071599
 Name: 399, dtype: object
 2024-06-17 15:01:53 Order for id: 5766 for -144325 units of pair NZD_USD is getting closed as it was opened before.
 2024-06-17 15:01:58 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5777', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5777', 'requestID': '61251528561507821', 'time': '2024-06-17T05:01:59.242735146Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '214233', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08124', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05448', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5778', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5777', 'requestID': '61251528561507821', 'time': '2024-06-17T05:01:59.242735146Z', 'type': 'ORDER_FILL', 'orderID': '5777', 'instrument': 'GBP_NZD', 'units': '214233', 'requestedUnits': '214233', 'price': '2.07120', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '83032.2927', 'gainQuoteHomeConversionFactor': '0.922881443011', 'lossQuoteHomeConversionFactor': '0.932156633393', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '64.5792', 'fullVWAP': '2.07120', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07120', 'tradeID': '5778', 'units': '214233', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '64.5792', 'initialMarginRequired': '20574.4017'}, 'fullPrice': {'closeoutBid': '2.07054', 'closeoutAsk': '2.07121', 'timestamp': '2024-06-17T05:01:55.731221916Z', 'bids': [{'price': '2.07055', 'liquidity': '3000000'}, {'price': '2.07054', 'liquidity': '7000000'}], 'asks': [{'price': '2.07120', 'liquidity': '3000000'}, {'price': '2.07121', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92288144301077'}, 'lossQuoteHome': {'factor': '0.93215663339279'}, 'gainBaseHome': {'factor': '1.91114625'}, 'lossBaseHome': {'factor': '1.93035375'}}}, 'relatedTransactionIDs': ['5777', '5778', '5779', '5780'], 'lastTransactionID': '5780'}, Units: 214232.56217999998
+2024-06-17 16:00:16 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 16:00:17 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07164
+Low                               2.0658
+Close                            2.07106
+smaHigh                         2.076233
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076233
+Position                             buy
+SIGNAL                              True
+ATR                             0.010282
+atrup                           2.081342
+atrdown                         2.060778
+SL                              2.055638
+TP                              2.081342
+baseline                        2.071639
+Name: 399, dtype: object
+2024-06-17 16:00:18 Order for id: 5818 for -143963 units of pair NZD_USD is getting closed as it was opened before.
+2024-06-17 16:00:22 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5827', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5827', 'requestID': '61251543256721882', 'time': '2024-06-17T06:00:23.870960667Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '213892', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08147', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05461', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5828', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5827', 'requestID': '61251543256721882', 'time': '2024-06-17T06:00:23.870960667Z', 'type': 'ORDER_FILL', 'orderID': '5827', 'instrument': 'GBP_NZD', 'units': '213892', 'requestedUnits': '213892', 'price': '2.07137', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82892.6648', 'gainQuoteHomeConversionFactor': '0.922753062354', 'lossQuoteHomeConversionFactor': '0.932026962478', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '60.5002', 'fullVWAP': '2.07137', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07137', 'tradeID': '5828', 'units': '213892', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '60.5002', 'initialMarginRequired': '20540.7974'}, 'fullPrice': {'closeoutBid': '2.07075', 'closeoutAsk': '2.07138', 'timestamp': '2024-06-17T06:00:23.164797033Z', 'bids': [{'price': '2.07076', 'liquidity': '3000000'}, {'price': '2.07075', 'liquidity': '7000000'}], 'asks': [{'price': '2.07137', 'liquidity': '3000000'}, {'price': '2.07138', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92275306235411'}, 'lossQuoteHome': {'factor': '0.93202696247827'}, 'gainBaseHome': {'factor': '1.91106665'}, 'lossBaseHome': {'factor': '1.93027335'}}}, 'relatedTransactionIDs': ['5827', '5828', '5829', '5830'], 'lastTransactionID': '5830'}, Units: 213891.91389000003
+2024-06-17 16:14:00 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 16:14:01 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07218
+Low                               2.0658
+Close                            2.07188
+smaHigh                         2.076287
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076287
+Position                             buy
+SIGNAL                              True
+ATR                              0.01032
+atrup                             2.0822
+atrdown                          2.06156
+SL                                2.0564
+TP                                2.0822
+baseline                        2.071741
+Name: 399, dtype: object
+2024-06-17 16:14:03 Order for id: 5892 for -140505 units of pair NZD_USD is getting closed as it was opened before.
+2024-06-17 16:14:07 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5899', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5899', 'requestID': '79265945227656541', 'time': '2024-06-17T06:14:08.618134795Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '211419', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08230', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05534', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5900', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5899', 'requestID': '79265945227656541', 'time': '2024-06-17T06:14:08.618134795Z', 'type': 'ORDER_FILL', 'orderID': '5899', 'instrument': 'GBP_NZD', 'units': '211419', 'requestedUnits': '211419', 'price': '2.07205', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82668.5367', 'gainQuoteHomeConversionFactor': '0.922783010181', 'lossQuoteHomeConversionFactor': '0.932057211289', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '50.9793', 'fullVWAP': '2.07205', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07205', 'tradeID': '5900', 'units': '211419', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '50.9793', 'initialMarginRequired': '20311.1290'}, 'fullPrice': {'closeoutBid': '2.07152', 'closeoutAsk': '2.07206', 'timestamp': '2024-06-17T06:14:07.207984063Z', 'bids': [{'price': '2.07153', 'liquidity': '3000000'}, {'price': '2.07152', 'liquidity': '7000000'}], 'asks': [{'price': '2.07205', 'liquidity': '3000000'}, {'price': '2.07206', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92278301018129'}, 'lossQuoteHome': {'factor': '0.93205721128863'}, 'gainBaseHome': {'factor': '1.91180295'}, 'lossBaseHome': {'factor': '1.93101705'}}}, 'relatedTransactionIDs': ['5899', '5900', '5901', '5902'], 'lastTransactionID': '5902'}, Units: 211419.33120000002
+2024-06-17 17:44:10 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 17:44:11 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07066
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.081072
+atrdown                         2.060248
+SL                              2.055043
+TP                              2.081072
+baseline                        2.071589
+Name: 399, dtype: object
+2024-06-17 17:44:17 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5957', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5957', 'requestID': '115294764937759085', 'time': '2024-06-17T07:44:18.606612679Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '207791', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08123', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05404', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5958', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5957', 'requestID': '115294764937759085', 'time': '2024-06-17T07:44:18.606612679Z', 'type': 'ORDER_FILL', 'orderID': '5957', 'instrument': 'GBP_NZD', 'units': '207791', 'requestedUnits': '207791', 'price': '2.07087', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82048.7518', 'gainQuoteHomeConversionFactor': '0.921710221177', 'lossQuoteHomeConversionFactor': '0.930973640485', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '57.7457', 'fullVWAP': '2.07087', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07087', 'tradeID': '5958', 'units': '207791', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '57.7457', 'initialMarginRequired': '19927.1569'}, 'fullPrice': {'closeoutBid': '2.07026', 'closeoutAsk': '2.07088', 'timestamp': '2024-06-17T07:44:16.951338805Z', 'bids': [{'price': '2.07027', 'liquidity': '3000000'}, {'price': '2.07026', 'liquidity': '7000000'}], 'asks': [{'price': '2.07087', 'liquidity': '3000000'}, {'price': '2.07088', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92171022117651'}, 'lossQuoteHome': {'factor': '0.93097364048481'}, 'gainBaseHome': {'factor': '1.90841000'}, 'lossBaseHome': {'factor': '1.92759000'}}}, 'relatedTransactionIDs': ['5957', '5958', '5959', '5960'], 'lastTransactionID': '5960'}, Units: 207790.67775
+2024-06-17 18:32:36 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:32:37 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07199
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.082402
+atrdown                         2.061578
+SL                              2.056373
+TP                              2.082402
+baseline                        2.071755
+Name: 399, dtype: object
+2024-06-17 18:49:39 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:49:41 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07054
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080952
+atrdown                         2.060128
+SL                              2.054923
+TP                              2.080952
+baseline                        2.071574
+Name: 399, dtype: object
+2024-06-17 18:51:47 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:51:47 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:51:49 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.06998
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080392
+atrdown                         2.059568
+SL                              2.054363
+TP                              2.080392
+baseline                        2.071504
+Name: 399, dtype: object
+2024-06-17 18:51:49 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.06998
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080392
+atrdown                         2.059568
+SL                              2.054363
+TP                              2.080392
+baseline                        2.071504
+Name: 399, dtype: object
+2024-06-17 18:54:51 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:54:53 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07069
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.081102
+atrdown                         2.060278
+SL                              2.055073
+TP                              2.081102
+baseline                        2.071592
+Name: 399, dtype: object
+2024-06-17 18:55:02 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6115', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6115', 'requestID': '79265985722333580', 'time': '2024-06-17T08:55:03.840419322Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '206623', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08131', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05412', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6116', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6115', 'requestID': '79265985722333580', 'time': '2024-06-17T08:55:03.840419322Z', 'type': 'ORDER_FILL', 'orderID': '6115', 'instrument': 'GBP_NZD', 'units': '206623', 'requestedUnits': '206623', 'price': '2.07102', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81583.9903', 'gainQuoteHomeConversionFactor': '0.921885288133', 'lossQuoteHomeConversionFactor': '0.931150466908', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '60.3036', 'fullVWAP': '2.07102', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07102', 'tradeID': '6116', 'units': '206623', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '60.3036', 'initialMarginRequired': '19819.7947'}, 'fullPrice': {'closeoutBid': '2.07038', 'closeoutAsk': '2.07103', 'timestamp': '2024-06-17T08:55:03.778324025Z', 'bids': [{'price': '2.07039', 'liquidity': '3000000'}, {'price': '2.07038', 'liquidity': '7000000'}], 'asks': [{'price': '2.07102', 'liquidity': '3000000'}, {'price': '2.07103', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92188528813329'}, 'lossQuoteHome': {'factor': '0.93115046690849'}, 'gainBaseHome': {'factor': '1.90885775'}, 'lossBaseHome': {'factor': '1.92804225'}}}, 'relatedTransactionIDs': ['6115', '6116', '6117', '6118'], 'lastTransactionID': '6118'}, Units: 206622.70271
+2024-06-17 18:57:32 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:57:32 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:57:33 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                             2.0702
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080612
+atrdown                         2.059788
+SL                              2.054583
+TP                              2.080612
+baseline                        2.071531
+Name: 399, dtype: object
+2024-06-17 18:57:33 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                             2.0702
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080612
+atrdown                         2.059788
+SL                              2.054583
+TP                              2.080612
+baseline                        2.071531
+Name: 399, dtype: object
+2024-06-17 18:57:39 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6157', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6157', 'requestID': '79265986380956200', 'time': '2024-06-17T08:57:40.021966433Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '205665', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08078', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05359', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6158', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6157', 'requestID': '79265986380956200', 'time': '2024-06-17T08:57:40.021966433Z', 'type': 'ORDER_FILL', 'orderID': '6157', 'instrument': 'GBP_NZD', 'units': '205665', 'requestedUnits': '205665', 'price': '2.07049', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81226.8709', 'gainQuoteHomeConversionFactor': '0.921957895173', 'lossQuoteHomeConversionFactor': '0.931223803668', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '55.2645', 'fullVWAP': '2.07049', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07049', 'tradeID': '6158', 'units': '205665', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '55.2645', 'initialMarginRequired': '19725.5358'}, 'fullPrice': {'closeoutBid': '2.06990', 'closeoutAsk': '2.07050', 'timestamp': '2024-06-17T08:57:39.839381679Z', 'bids': [{'price': '2.06991', 'liquidity': '3000000'}, {'price': '2.06990', 'liquidity': '7000000'}], 'asks': [{'price': '2.07049', 'liquidity': '3000000'}, {'price': '2.07050', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92195789517331'}, 'lossQuoteHome': {'factor': '0.93122380366751'}, 'gainBaseHome': {'factor': '1.90862890'}, 'lossBaseHome': {'factor': '1.92781110'}}}, 'relatedTransactionIDs': ['6157', '6158', '6159', '6160'], 'lastTransactionID': '6160'}, Units: 205665.264
+2024-06-17 18:57:39 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6157', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6157', 'requestID': '79265986380956200', 'time': '2024-06-17T08:57:40.021966433Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '205665', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08078', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05359', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6158', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6157', 'requestID': '79265986380956200', 'time': '2024-06-17T08:57:40.021966433Z', 'type': 'ORDER_FILL', 'orderID': '6157', 'instrument': 'GBP_NZD', 'units': '205665', 'requestedUnits': '205665', 'price': '2.07049', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '81226.8709', 'gainQuoteHomeConversionFactor': '0.921957895173', 'lossQuoteHomeConversionFactor': '0.931223803668', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '55.2645', 'fullVWAP': '2.07049', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07049', 'tradeID': '6158', 'units': '205665', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '55.2645', 'initialMarginRequired': '19725.5358'}, 'fullPrice': {'closeoutBid': '2.06990', 'closeoutAsk': '2.07050', 'timestamp': '2024-06-17T08:57:39.839381679Z', 'bids': [{'price': '2.06991', 'liquidity': '3000000'}, {'price': '2.06990', 'liquidity': '7000000'}], 'asks': [{'price': '2.07049', 'liquidity': '3000000'}, {'price': '2.07050', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92195789517331'}, 'lossQuoteHome': {'factor': '0.93122380366751'}, 'gainBaseHome': {'factor': '1.90862890'}, 'lossBaseHome': {'factor': '1.92781110'}}}, 'relatedTransactionIDs': ['6157', '6158', '6159', '6160'], 'lastTransactionID': '6160'}, Units: 205665.264
+2024-06-17 18:59:48 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:59:48 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:59:48 LogWrapper init()./logs/GBP_NZD.log
+2024-06-17 18:59:50 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07056
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080972
+atrdown                         2.060148
+SL                              2.054943
+TP                              2.080972
+baseline                        2.071576
+Name: 399, dtype: object
+2024-06-17 18:59:50 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07056
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080972
+atrdown                         2.060148
+SL                              2.054943
+TP                              2.080972
+baseline                        2.071576
+Name: 399, dtype: object
+2024-06-17 18:59:50 Last candle data: instrument                       GBP_NZD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              2.0658
+High                             2.07346
+Low                               2.0658
+Close                            2.07056
+smaHigh                         2.076415
+smaLow                          2.065967
+sslDown                         2.065967
+sslUp                           2.076415
+Position                             buy
+SIGNAL                              True
+ATR                             0.010412
+atrup                           2.080972
+atrdown                         2.060148
+SL                              2.054943
+TP                              2.080972
+baseline                        2.071576
+Name: 399, dtype: object
+2024-06-17 18:59:55 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6199', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6199', 'requestID': '61251588443040456', 'time': '2024-06-17T08:59:56.755637635Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '204929', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08114', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05395', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6200', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6199', 'requestID': '61251588443040456', 'time': '2024-06-17T08:59:56.755637635Z', 'type': 'ORDER_FILL', 'orderID': '6199', 'instrument': 'GBP_NZD', 'units': '204929', 'requestedUnits': '204929', 'price': '2.07073', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80921.9785', 'gainQuoteHomeConversionFactor': '0.922034788326', 'lossQuoteHomeConversionFactor': '0.931301469615', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '47.4753', 'fullVWAP': '2.07073', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07073', 'tradeID': '6200', 'units': '204929', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '47.4753', 'initialMarginRequired': '19659.5562'}, 'fullPrice': {'closeoutBid': '2.07022', 'closeoutAsk': '2.07074', 'timestamp': '2024-06-17T08:59:56.549424974Z', 'bids': [{'price': '2.07023', 'liquidity': '3000000'}, {'price': '2.07022', 'liquidity': '7000000'}], 'asks': [{'price': '2.07073', 'liquidity': '3000000'}, {'price': '2.07074', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92203478832557'}, 'lossQuoteHome': {'factor': '0.93130146961527'}, 'gainBaseHome': {'factor': '1.90907665'}, 'lossBaseHome': {'factor': '1.92826335'}}}, 'relatedTransactionIDs': ['6199', '6200', '6201', '6202'], 'lastTransactionID': '6202'}, Units: 204928.82662
+2024-06-17 18:59:55 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6199', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6199', 'requestID': '61251588443040456', 'time': '2024-06-17T08:59:56.755637635Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '204929', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08114', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05395', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6200', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6199', 'requestID': '61251588443040456', 'time': '2024-06-17T08:59:56.755637635Z', 'type': 'ORDER_FILL', 'orderID': '6199', 'instrument': 'GBP_NZD', 'units': '204929', 'requestedUnits': '204929', 'price': '2.07073', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80921.9785', 'gainQuoteHomeConversionFactor': '0.922034788326', 'lossQuoteHomeConversionFactor': '0.931301469615', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '47.4753', 'fullVWAP': '2.07073', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07073', 'tradeID': '6200', 'units': '204929', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '47.4753', 'initialMarginRequired': '19659.5562'}, 'fullPrice': {'closeoutBid': '2.07022', 'closeoutAsk': '2.07074', 'timestamp': '2024-06-17T08:59:56.549424974Z', 'bids': [{'price': '2.07023', 'liquidity': '3000000'}, {'price': '2.07022', 'liquidity': '7000000'}], 'asks': [{'price': '2.07073', 'liquidity': '3000000'}, {'price': '2.07074', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92203478832557'}, 'lossQuoteHome': {'factor': '0.93130146961527'}, 'gainBaseHome': {'factor': '1.90907665'}, 'lossBaseHome': {'factor': '1.92826335'}}}, 'relatedTransactionIDs': ['6199', '6200', '6201', '6202'], 'lastTransactionID': '6202'}, Units: 204928.82662
+2024-06-17 18:59:55 Order placed for GBP_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6199', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6199', 'requestID': '61251588443040456', 'time': '2024-06-17T08:59:56.755637635Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_NZD', 'units': '204929', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '2.08114', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '2.05395', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6200', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6199', 'requestID': '61251588443040456', 'time': '2024-06-17T08:59:56.755637635Z', 'type': 'ORDER_FILL', 'orderID': '6199', 'instrument': 'GBP_NZD', 'units': '204929', 'requestedUnits': '204929', 'price': '2.07073', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80921.9785', 'gainQuoteHomeConversionFactor': '0.922034788326', 'lossQuoteHomeConversionFactor': '0.931301469615', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '47.4753', 'fullVWAP': '2.07073', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '2.07073', 'tradeID': '6200', 'units': '204929', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '47.4753', 'initialMarginRequired': '19659.5562'}, 'fullPrice': {'closeoutBid': '2.07022', 'closeoutAsk': '2.07074', 'timestamp': '2024-06-17T08:59:56.549424974Z', 'bids': [{'price': '2.07023', 'liquidity': '3000000'}, {'price': '2.07022', 'liquidity': '7000000'}], 'asks': [{'price': '2.07073', 'liquidity': '3000000'}, {'price': '2.07074', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92203478832557'}, 'lossQuoteHome': {'factor': '0.93130146961527'}, 'gainBaseHome': {'factor': '1.90907665'}, 'lossBaseHome': {'factor': '1.92826335'}}}, 'relatedTransactionIDs': ['6199', '6200', '6201', '6202'], 'lastTransactionID': '6202'}, Units: 204928.82662

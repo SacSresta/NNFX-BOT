@@ -14593,3 +14593,256 @@ SL                               0.55103
 TP                              0.541663
 baseline                        0.549506
 Name: 399, dtype: object
+2024-06-17 16:00:38 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 16:00:40 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                               0.5451
+Close                             0.5451
+smaHigh                         0.552237
+smaLow                          0.548217
+sslDown                         0.552237
+sslUp                           0.548217
+Position                            sell
+SIGNAL                             False
+ATR                             0.003764
+atrup                           0.548864
+atrdown                         0.541336
+SL                              0.550746
+TP                              0.541336
+baseline                        0.549467
+Name: 399, dtype: object
+2024-06-17 16:14:23 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 17:44:33 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 17:44:34 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54524
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549058
+atrdown                         0.541422
+SL                              0.550967
+TP                              0.541422
+baseline                        0.549485
+Name: 399, dtype: object
+2024-06-17 18:32:53 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:32:55 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54537
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549188
+atrdown                         0.541552
+SL                              0.551097
+TP                              0.541552
+baseline                        0.549501
+Name: 399, dtype: object
+2024-06-17 18:49:55 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:49:57 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54572
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549538
+atrdown                         0.541902
+SL                              0.551447
+TP                              0.541902
+baseline                        0.549545
+Name: 399, dtype: object
+2024-06-17 18:52:07 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:52:07 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:52:10 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54574
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549558
+atrdown                         0.541922
+SL                              0.551467
+TP                              0.541922
+baseline                        0.549547
+Name: 399, dtype: object
+2024-06-17 18:52:10 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54574
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549558
+atrdown                         0.541922
+SL                              0.551467
+TP                              0.541922
+baseline                        0.549547
+Name: 399, dtype: object
+2024-06-17 18:55:19 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:55:21 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54564
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549458
+atrdown                         0.541822
+SL                              0.551367
+TP                              0.541822
+baseline                        0.549535
+Name: 399, dtype: object
+2024-06-17 18:57:51 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:57:51 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 18:57:52 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54584
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549658
+atrdown                         0.542022
+SL                              0.551567
+TP                              0.542022
+baseline                         0.54956
+Name: 399, dtype: object
+2024-06-17 18:57:52 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54584
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549658
+atrdown                         0.542022
+SL                              0.551567
+TP                              0.542022
+baseline                         0.54956
+Name: 399, dtype: object
+2024-06-17 19:00:06 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 19:00:06 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 19:00:06 LogWrapper init()./logs/NZD_CHF.log
+2024-06-17 19:00:08 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54592
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549738
+atrdown                         0.542102
+SL                              0.551647
+TP                              0.542102
+baseline                         0.54957
+Name: 399, dtype: object
+2024-06-17 19:00:08 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54592
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549738
+atrdown                         0.542102
+SL                              0.551647
+TP                              0.542102
+baseline                         0.54957
+Name: 399, dtype: object
+2024-06-17 19:00:08 Last candle data: instrument                       NZD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.54672
+High                             0.54695
+Low                              0.54434
+Close                            0.54592
+smaHigh                         0.552237
+smaLow                          0.548141
+sslDown                         0.552237
+sslUp                           0.548141
+Position                            sell
+SIGNAL                             False
+ATR                             0.003818
+atrup                           0.549738
+atrdown                         0.542102
+SL                              0.551647
+TP                              0.542102
+baseline                         0.54957
+Name: 399, dtype: object

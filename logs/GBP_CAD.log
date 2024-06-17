@@ -14371,3 +14371,276 @@ SL                              1.753251
 TP                              1.736133
 baseline                        1.749802
 Name: 399, dtype: object
+2024-06-17 16:00:24 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 16:00:25 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74134
+Close                            1.74212
+smaHigh                         1.753467
+smaLow                          1.746768
+sslDown                         1.753467
+sslUp                           1.746768
+Position                            sell
+SIGNAL                             False
+ATR                             0.006847
+atrup                           1.748967
+atrdown                         1.735273
+SL                              1.752391
+TP                              1.735273
+baseline                        1.749695
+Name: 399, dtype: object
+2024-06-17 16:14:09 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 16:14:10 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74134
+Close                            1.74201
+smaHigh                         1.753467
+smaLow                          1.746768
+sslDown                         1.753467
+sslUp                           1.746768
+Position                            sell
+SIGNAL                             False
+ATR                             0.006847
+atrup                           1.748857
+atrdown                         1.735163
+SL                              1.752281
+TP                              1.735163
+baseline                        1.749681
+Name: 399, dtype: object
+2024-06-17 17:44:19 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 17:44:20 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74035
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.747283
+atrdown                         1.733417
+SL                              1.750749
+TP                              1.733417
+baseline                        1.749474
+Name: 399, dtype: object
+2024-06-17 18:32:40 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:32:42 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74166
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748593
+atrdown                         1.734727
+SL                              1.752059
+TP                              1.734727
+baseline                        1.749637
+Name: 399, dtype: object
+2024-06-17 18:49:44 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:49:45 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                             1.7413
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748233
+atrdown                         1.734367
+SL                              1.751699
+TP                              1.734367
+baseline                        1.749592
+Name: 399, dtype: object
+2024-06-17 18:51:53 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:51:53 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:51:55 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74107
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748003
+atrdown                         1.734137
+SL                              1.751469
+TP                              1.734137
+baseline                        1.749564
+Name: 399, dtype: object
+2024-06-17 18:51:55 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74107
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748003
+atrdown                         1.734137
+SL                              1.751469
+TP                              1.734137
+baseline                        1.749564
+Name: 399, dtype: object
+2024-06-17 18:55:04 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:55:06 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74142
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748353
+atrdown                         1.734487
+SL                              1.751819
+TP                              1.734487
+baseline                        1.749607
+Name: 399, dtype: object
+2024-06-17 18:57:40 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:57:40 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:57:42 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74127
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748203
+atrdown                         1.734337
+SL                              1.751669
+TP                              1.734337
+baseline                        1.749589
+Name: 399, dtype: object
+2024-06-17 18:57:42 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74127
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748203
+atrdown                         1.734337
+SL                              1.751669
+TP                              1.734337
+baseline                        1.749589
+Name: 399, dtype: object
+2024-06-17 18:59:57 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:59:57 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:59:57 LogWrapper init()./logs/GBP_CAD.log
+2024-06-17 18:59:58 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74162
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748553
+atrdown                         1.734687
+SL                              1.752019
+TP                              1.734687
+baseline                        1.749632
+Name: 399, dtype: object
+2024-06-17 18:59:58 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74162
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748553
+atrdown                         1.734687
+SL                              1.752019
+TP                              1.734687
+baseline                        1.749632
+Name: 399, dtype: object
+2024-06-17 18:59:58 Last candle data: instrument                       GBP_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.74275
+High                             1.74325
+Low                              1.74014
+Close                            1.74162
+smaHigh                         1.753467
+smaLow                          1.746648
+sslDown                         1.753467
+sslUp                           1.746648
+Position                            sell
+SIGNAL                             False
+ATR                             0.006933
+atrup                           1.748553
+atrdown                         1.734687
+SL                              1.752019
+TP                              1.734687
+baseline                        1.749632
+Name: 399, dtype: object

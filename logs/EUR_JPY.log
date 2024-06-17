@@ -14161,3 +14161,338 @@ baseline                      168.957375
 Name: 399, dtype: object
 2024-06-17 15:01:44 Order for id: 5752 for 1 units of pair EUR_CHF is getting closed as it was opened before.
 2024-06-17 15:01:47 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5771', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5771', 'requestID': '97280325534733081', 'time': '2024-06-17T05:01:48.966275245Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14924207', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '169.733', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.598', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '5772', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5771', 'requestID': '97280325534733081', 'time': '2024-06-17T05:01:48.966275245Z', 'type': 'ORDER_CANCEL', 'orderID': '5771', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['5771', '5772'], 'lastTransactionID': '5772'}, Units: 14924206.778
+2024-06-17 16:00:05 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 16:00:07 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.742
+Low                              168.327
+Close                            168.438
+smaHigh                          169.793
+smaLow                          168.3963
+sslDown                         168.3963
+sslUp                            169.793
+Position                             buy
+SIGNAL                              True
+ATR                             1.248325
+atrup                         169.686325
+atrdown                       167.189675
+SL                            166.565512
+TP                            169.686325
+baseline                      168.950875
+Name: 399, dtype: object
+2024-06-17 16:00:12 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5821', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5821', 'requestID': '115294738744136471', 'time': '2024-06-17T06:00:13.415634731Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14893903', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '169.678', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.543', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '5822', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5821', 'requestID': '115294738744136471', 'time': '2024-06-17T06:00:13.415634731Z', 'type': 'ORDER_CANCEL', 'orderID': '5821', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['5821', '5822'], 'lastTransactionID': '5822'}, Units: 14893902.744
+2024-06-17 16:13:55 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 16:13:56 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.742
+Low                              167.958
+Close                            168.188
+smaHigh                          169.793
+smaLow                          168.3594
+sslDown                          169.793
+sslUp                           168.3594
+Position                            sell
+SIGNAL                             False
+ATR                             1.274683
+atrup                         169.462683
+atrdown                       166.913317
+SL                            170.100024
+TP                            166.913317
+baseline                      168.919625
+Name: 399, dtype: object
+2024-06-17 17:43:59 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 17:44:00 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.742
+Low                              167.958
+Close                            168.472
+smaHigh                          169.793
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.793
+Position                             buy
+SIGNAL                              True
+ATR                             1.274683
+atrup                         169.746683
+atrdown                       167.197317
+SL                            166.559976
+TP                            169.746683
+baseline                      168.955125
+Name: 399, dtype: object
+2024-06-17 17:44:01 Order for id: 5948 for 191504 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 17:44:06 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5955', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5955', 'requestID': '61251569363134238', 'time': '2024-06-17T07:44:07.369424224Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14398284', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '169.746', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.545', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '5956', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5955', 'requestID': '61251569363134238', 'time': '2024-06-17T07:44:07.369424224Z', 'type': 'ORDER_CANCEL', 'orderID': '5955', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['5955', '5956'], 'lastTransactionID': '5956'}, Units: 14398283.622000001
+2024-06-17 17:45:49 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 17:45:50 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.742
+Low                              167.958
+Close                            168.464
+smaHigh                          169.793
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.793
+Position                             buy
+SIGNAL                              True
+ATR                             1.274683
+atrup                         169.738683
+atrdown                       167.189317
+SL                            166.551976
+TP                            169.738683
+baseline                      168.954125
+Name: 399, dtype: object
+2024-06-17 17:45:52 Order for id: 6006 for 190706 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:32:23 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:32:24 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.891
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.177111
+atrdown                       167.604889
+SL                            166.961833
+TP                            170.177111
+baseline                        169.0075
+Name: 399, dtype: object
+2024-06-17 18:32:26 Order for id: 6038 for 191240 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:32:31 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6045', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6045', 'requestID': '61251581550261530', 'time': '2024-06-17T08:32:32.367971815Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14288769', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.176', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.946', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6046', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6045', 'requestID': '61251581550261530', 'time': '2024-06-17T08:32:32.367971815Z', 'type': 'ORDER_CANCEL', 'orderID': '6045', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6045', '6046'], 'lastTransactionID': '6046'}, Units: 14288768.588
+2024-06-17 18:49:31 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:49:32 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.766
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.052111
+atrdown                       167.479889
+SL                            166.836833
+TP                            170.052111
+baseline                      168.991875
+Name: 399, dtype: object
+2024-06-17 18:51:35 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:51:35 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:51:37 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.772
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.058111
+atrdown                       167.485889
+SL                            166.842833
+TP                            170.058111
+baseline                      168.992625
+Name: 399, dtype: object
+2024-06-17 18:51:37 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.772
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.058111
+atrdown                       167.485889
+SL                            166.842833
+TP                            170.058111
+baseline                      168.992625
+Name: 399, dtype: object
+2024-06-17 18:53:41 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:53:43 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                             168.75
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.036111
+atrdown                       167.463889
+SL                            166.820833
+TP                            170.036111
+baseline                      168.989875
+Name: 399, dtype: object
+2024-06-17 18:53:44 Order for id: 6080 for 190692 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:53:50 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6087', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6087', 'requestID': '61251586911771975', 'time': '2024-06-17T08:53:51.079866128Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14251612', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.038', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.808', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6088', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6087', 'requestID': '61251586911771975', 'time': '2024-06-17T08:53:51.079866128Z', 'type': 'ORDER_CANCEL', 'orderID': '6087', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6087', '6088'], 'lastTransactionID': '6088'}, Units: 14251612.176
+2024-06-17 18:54:36 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:54:37 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.742
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.028111
+atrdown                       167.455889
+SL                            166.812833
+TP                            170.028111
+baseline                      168.988875
+Name: 399, dtype: object
+2024-06-17 18:54:39 Order for id: 6106 for 190427 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:54:45 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6113', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6113', 'requestID': '79265985651017308', 'time': '2024-06-17T08:54:46.683533377Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14228326', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.024', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.794', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6114', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6113', 'requestID': '79265985651017308', 'time': '2024-06-17T08:54:46.683533377Z', 'type': 'ORDER_CANCEL', 'orderID': '6113', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6113', '6114'], 'lastTransactionID': '6114'}, Units: 14228325.9
+2024-06-17 18:57:19 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:57:19 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:57:20 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.752
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.038111
+atrdown                       167.465889
+SL                            166.822833
+TP                            170.038111
+baseline                      168.990125
+Name: 399, dtype: object
+2024-06-17 18:57:20 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.752
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.038111
+atrdown                       167.465889
+SL                            166.822833
+TP                            170.038111
+baseline                      168.990125
+Name: 399, dtype: object
+2024-06-17 18:57:22 Order for id: 6148 for 189600 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:57:22 Order for id: 6148 for 189600 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:57:27 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6155', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6155', 'requestID': '115294783349693459', 'time': '2024-06-17T08:57:28.312591309Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14166986', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.037', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.807', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6156', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6155', 'requestID': '115294783349693459', 'time': '2024-06-17T08:57:28.312591309Z', 'type': 'ORDER_CANCEL', 'orderID': '6155', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6155', '6156'], 'lastTransactionID': '6156'}, Units: 14166986.475
+2024-06-17 18:57:27 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6155', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6155', 'requestID': '115294783349693459', 'time': '2024-06-17T08:57:28.312591309Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14166986', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.037', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.807', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6156', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6155', 'requestID': '115294783349693459', 'time': '2024-06-17T08:57:28.312591309Z', 'type': 'ORDER_CANCEL', 'orderID': '6155', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6155', '6156'], 'lastTransactionID': '6156'}, Units: 14166986.475
+2024-06-17 18:59:37 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:59:37 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:59:37 LogWrapper init()./logs/EUR_JPY.log
+2024-06-17 18:59:38 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.808
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.094111
+atrdown                       167.521889
+SL                            166.878833
+TP                            170.094111
+baseline                      168.997125
+Name: 399, dtype: object
+2024-06-17 18:59:38 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.808
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.094111
+atrdown                       167.521889
+SL                            166.878833
+TP                            170.094111
+baseline                      168.997125
+Name: 399, dtype: object
+2024-06-17 18:59:38 Last candle data: instrument                       EUR_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              168.48
+High                             168.902
+Low                              167.958
+Close                            168.808
+smaHigh                          169.809
+smaLow                          168.3594
+sslDown                         168.3594
+sslUp                            169.809
+Position                             buy
+SIGNAL                              True
+ATR                             1.286111
+atrup                         170.094111
+atrdown                       167.521889
+SL                            166.878833
+TP                            170.094111
+baseline                      168.997125
+Name: 399, dtype: object
+2024-06-17 18:59:39 Order for id: 6190 for 188876 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:59:39 Order for id: 6190 for 188876 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:59:39 Order for id: 6190 for 188876 units of pair EUR_NZD is getting closed as it was opened before.
+2024-06-17 18:59:44 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6197', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14117847', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.085', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.855', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6198', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'ORDER_CANCEL', 'orderID': '6197', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6197', '6198'], 'lastTransactionID': '6198'}, Units: 14117846.520000001
+2024-06-17 18:59:44 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6197', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14117847', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.085', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.855', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6198', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'ORDER_CANCEL', 'orderID': '6197', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6197', '6198'], 'lastTransactionID': '6198'}, Units: 14117846.520000001
+2024-06-17 18:59:44 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6197', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14117847', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.085', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.855', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6198', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'ORDER_CANCEL', 'orderID': '6197', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6197', '6198'], 'lastTransactionID': '6198'}, Units: 14117846.520000001

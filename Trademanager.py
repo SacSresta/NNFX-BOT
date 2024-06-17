@@ -83,11 +83,6 @@ class Trademanager():
         
         return round(last_candle['ATR'] * pip_value)
     
-
-
-
-        
-    
 if __name__ == "__main__":
     last_candle = Trademanager().fetch_and_process(instrument="AUD_JPY",granularity="M1",price_type="ask")
     pipvalue = Trademanager().pip_size(last_candle)

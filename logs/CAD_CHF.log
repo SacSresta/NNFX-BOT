@@ -13333,3 +13333,255 @@ SL                               0.65339
 TP                              0.644573
 baseline                         0.65061
 Name: 399, dtype: object
+2024-06-17 16:00:49 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 16:00:50 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64873
+Low                              0.64768
+Close                            0.64809
+smaHigh                         0.652831
+smaLow                          0.649361
+sslDown                         0.652831
+sslUp                           0.649361
+Position                            sell
+SIGNAL                             False
+ATR                             0.003527
+atrup                           0.651617
+atrdown                         0.644563
+SL                               0.65338
+TP                              0.644563
+baseline                        0.650609
+Name: 399, dtype: object
+2024-06-17 17:44:43 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 17:44:44 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64873
+Low                              0.64738
+Close                            0.64868
+smaHigh                         0.652831
+smaLow                          0.649331
+sslDown                         0.652831
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003548
+atrup                           0.652228
+atrdown                         0.645132
+SL                              0.654002
+TP                              0.645132
+baseline                        0.650683
+Name: 399, dtype: object
+2024-06-17 18:32:59 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:33:00 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64886
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652429
+atrdown                         0.645291
+SL                              0.654213
+TP                              0.645291
+baseline                        0.650705
+Name: 399, dtype: object
+2024-06-17 18:50:03 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:50:05 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64883
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652399
+atrdown                         0.645261
+SL                              0.654183
+TP                              0.645261
+baseline                        0.650701
+Name: 399, dtype: object
+2024-06-17 18:52:15 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:52:15 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:52:16 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64884
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652409
+atrdown                         0.645271
+SL                              0.654193
+TP                              0.645271
+baseline                        0.650703
+Name: 399, dtype: object
+2024-06-17 18:52:16 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64884
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652409
+atrdown                         0.645271
+SL                              0.654193
+TP                              0.645271
+baseline                        0.650703
+Name: 399, dtype: object
+2024-06-17 18:55:39 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:55:42 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64877
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652339
+atrdown                         0.645201
+SL                              0.654123
+TP                              0.645201
+baseline                        0.650694
+Name: 399, dtype: object
+2024-06-17 18:58:01 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:58:01 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 18:58:02 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64895
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652519
+atrdown                         0.645381
+SL                              0.654303
+TP                              0.645381
+baseline                        0.650716
+Name: 399, dtype: object
+2024-06-17 18:58:02 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64902
+Low                              0.64738
+Close                            0.64895
+smaHigh                          0.65286
+smaLow                          0.649331
+sslDown                          0.65286
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                             0.003569
+atrup                           0.652519
+atrdown                         0.645381
+SL                              0.654303
+TP                              0.645381
+baseline                        0.650716
+Name: 399, dtype: object
+2024-06-17 19:00:17 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 19:00:17 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 19:00:17 LogWrapper init()./logs/CAD_CHF.log
+2024-06-17 19:00:18 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64904
+Low                              0.64738
+Close                            0.64902
+smaHigh                         0.652862
+smaLow                          0.649331
+sslDown                         0.652862
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                              0.00357
+atrup                            0.65259
+atrdown                          0.64545
+SL                              0.654376
+TP                               0.64545
+baseline                        0.650725
+Name: 399, dtype: object
+2024-06-17 19:00:18 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64904
+Low                              0.64738
+Close                            0.64902
+smaHigh                         0.652862
+smaLow                          0.649331
+sslDown                         0.652862
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                              0.00357
+atrup                            0.65259
+atrdown                          0.64545
+SL                              0.654376
+TP                               0.64545
+baseline                        0.650725
+Name: 399, dtype: object
+2024-06-17 19:00:18 Last candle data: instrument                       CAD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.64821
+High                             0.64904
+Low                              0.64738
+Close                            0.64902
+smaHigh                         0.652862
+smaLow                          0.649331
+sslDown                         0.652862
+sslUp                           0.649331
+Position                            sell
+SIGNAL                             False
+ATR                              0.00357
+atrup                            0.65259
+atrdown                          0.64545
+SL                              0.654376
+TP                               0.64545
+baseline                        0.650725
+Name: 399, dtype: object

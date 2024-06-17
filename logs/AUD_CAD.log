@@ -13338,3 +13338,279 @@ TP                              0.902719
 baseline                        0.909675
 Name: 399, dtype: object
 2024-06-17 15:02:10 Order placed for AUD_CAD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5781', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5781', 'requestID': '115294724141652787', 'time': '2024-06-17T05:02:11.913882732Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_CAD', 'units': '-200947', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.90258', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.91497', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5782', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5781', 'requestID': '115294724141652787', 'time': '2024-06-17T05:02:11.913882732Z', 'type': 'ORDER_FILL', 'orderID': '5781', 'instrument': 'AUD_CAD', 'units': '-200947', 'requestedUnits': '-200947', 'price': '0.90738', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '83032.2927', 'gainQuoteHomeConversionFactor': '1.09647311297', 'lossQuoteHomeConversionFactor': '1.107492943251', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '16.6080', 'fullVWAP': '0.90738', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.90738', 'tradeID': '5782', 'units': '-200947', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '16.6080', 'initialMarginRequired': '6698.2333'}, 'fullPrice': {'closeoutBid': '0.90737', 'closeoutAsk': '0.90754', 'timestamp': '2024-06-17T05:02:08.647458616Z', 'bids': [{'price': '0.90738', 'liquidity': '3000000'}, {'price': '0.90737', 'liquidity': '7000000'}], 'asks': [{'price': '0.90753', 'liquidity': '3000000'}, {'price': '0.90754', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.09647311296971'}, 'lossQuoteHome': {'factor': '1.10749294325081'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5781', '5782', '5783', '5784'], 'lastTransactionID': '5784'}, Units: 200946.59926000002
+2024-06-17 16:00:30 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 16:00:32 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90692
+Close                            0.90701
+smaHigh                         0.912624
+smaLow                          0.907645
+sslDown                         0.912624
+sslUp                           0.907645
+Position                            sell
+SIGNAL                              True
+ATR                             0.004741
+atrup                           0.911751
+atrdown                         0.902269
+SL                              0.914122
+TP                              0.902269
+baseline                        0.909619
+Name: 399, dtype: object
+2024-06-17 16:00:37 Order placed for AUD_CAD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5831', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5831', 'requestID': '115294738849011471', 'time': '2024-06-17T06:00:38.592318115Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_CAD', 'units': '-200496', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.90207', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.91446', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5832', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5831', 'requestID': '115294738849011471', 'time': '2024-06-17T06:00:38.592318115Z', 'type': 'ORDER_FILL', 'orderID': '5831', 'instrument': 'AUD_CAD', 'units': '-200496', 'requestedUnits': '-200496', 'price': '0.90686', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82892.6648', 'gainQuoteHomeConversionFactor': '1.097107833837', 'lossQuoteHomeConversionFactor': '1.108134043223', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '15.4750', 'fullVWAP': '0.90686', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.90686', 'tradeID': '5832', 'units': '-200496', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '15.4750', 'initialMarginRequired': '6683.2000'}, 'fullPrice': {'closeoutBid': '0.90685', 'closeoutAsk': '0.90701', 'timestamp': '2024-06-17T06:00:36.808757151Z', 'bids': [{'price': '0.90686', 'liquidity': '3000000'}, {'price': '0.90685', 'liquidity': '7000000'}], 'asks': [{'price': '0.90700', 'liquidity': '3000000'}, {'price': '0.90701', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.09710783383728'}, 'lossQuoteHome': {'factor': '1.10813404322258'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5831', '5832', '5833', '5834'], 'lastTransactionID': '5834'}, Units: 200496.26041
+2024-06-17 16:14:15 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 16:14:16 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90638
+Close                             0.9066
+smaHigh                         0.912624
+smaLow                          0.907591
+sslDown                         0.912624
+sslUp                           0.907591
+Position                            sell
+SIGNAL                              True
+ATR                              0.00478
+atrup                            0.91138
+atrdown                          0.90182
+SL                               0.91377
+TP                               0.90182
+baseline                        0.909567
+Name: 399, dtype: object
+2024-06-17 16:14:22 Order placed for AUD_CAD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5903', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5903', 'requestID': '97280343799671921', 'time': '2024-06-17T06:14:23.277843755Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_CAD', 'units': '-199881', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.90171', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.91419', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5904', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5903', 'requestID': '97280343799671921', 'time': '2024-06-17T06:14:23.277843755Z', 'type': 'ORDER_FILL', 'orderID': '5903', 'instrument': 'AUD_CAD', 'units': '-199881', 'requestedUnits': '-199881', 'price': '0.90653', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82668.5367', 'gainQuoteHomeConversionFactor': '1.097489023373', 'lossQuoteHomeConversionFactor': '1.108519063809', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.7399', 'fullVWAP': '0.90653', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.90653', 'tradeID': '5904', 'units': '-199881', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '18.7399', 'initialMarginRequired': '6662.7000'}, 'fullPrice': {'closeoutBid': '0.90652', 'closeoutAsk': '0.90671', 'timestamp': '2024-06-17T06:14:21.858894310Z', 'bids': [{'price': '0.90653', 'liquidity': '3000000'}, {'price': '0.90652', 'liquidity': '7000000'}], 'asks': [{'price': '0.90670', 'liquidity': '3000000'}, {'price': '0.90671', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.09748902337274'}, 'lossQuoteHome': {'factor': '1.10851906380864'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5903', '5904', '5905', '5906'], 'lastTransactionID': '5906'}, Units: 199881.1083
+2024-06-17 17:44:25 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 17:44:26 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90732
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.912624
+sslUp                           0.907548
+Position                            sell
+SIGNAL                              True
+ATR                              0.00481
+atrup                            0.91213
+atrdown                          0.90251
+SL                              0.914536
+TP                               0.90251
+baseline                        0.909658
+Name: 399, dtype: object
+2024-06-17 17:44:32 Order placed for AUD_CAD. Side: sell, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '5961', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5961', 'requestID': '97280366490746192', 'time': '2024-06-17T07:44:33.029263609Z', 'type': 'MARKET_ORDER', 'instrument': 'AUD_CAD', 'units': '-198541', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.90240', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.91496', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '5962', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '5961', 'requestID': '97280366490746192', 'time': '2024-06-17T07:44:33.029263609Z', 'type': 'ORDER_FILL', 'orderID': '5961', 'instrument': 'AUD_CAD', 'units': '-198541', 'requestedUnits': '-198541', 'price': '0.90725', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '82048.7518', 'gainQuoteHomeConversionFactor': '1.096636255935', 'lossQuoteHomeConversionFactor': '1.107657725844', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '15.3175', 'fullVWAP': '0.90725', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.90725', 'tradeID': '5962', 'units': '-198541', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '15.3175', 'initialMarginRequired': '6618.0333'}, 'fullPrice': {'closeoutBid': '0.90724', 'closeoutAsk': '0.90740', 'timestamp': '2024-06-17T07:44:31.901107060Z', 'bids': [{'price': '0.90725', 'liquidity': '3000000'}, {'price': '0.90724', 'liquidity': '7000000'}], 'asks': [{'price': '0.90739', 'liquidity': '3000000'}, {'price': '0.90740', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.09663625593549'}, 'lossQuoteHome': {'factor': '1.10765772584439'}, 'gainBaseHome': {'factor': '1'}, 'lossBaseHome': {'factor': '1'}}}, 'relatedTransactionIDs': ['5961', '5962', '5963', '5964'], 'lastTransactionID': '5964'}, Units: 198540.77374
+2024-06-17 18:32:49 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:32:50 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90754
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.912624
+sslUp                           0.907548
+Position                            sell
+SIGNAL                              True
+ATR                              0.00481
+atrup                            0.91235
+atrdown                          0.90273
+SL                              0.914756
+TP                               0.90273
+baseline                        0.909685
+Name: 399, dtype: object
+2024-06-17 18:49:52 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:49:53 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                             0.9079
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91271
+atrdown                          0.90309
+SL                              0.900684
+TP                               0.91271
+baseline                         0.90973
+Name: 399, dtype: object
+2024-06-17 18:52:03 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:52:03 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:52:05 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90789
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                             0.9127
+atrdown                          0.90308
+SL                              0.900674
+TP                                0.9127
+baseline                        0.909729
+Name: 399, dtype: object
+2024-06-17 18:52:05 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90789
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                             0.9127
+atrdown                          0.90308
+SL                              0.900674
+TP                                0.9127
+baseline                        0.909729
+Name: 399, dtype: object
+2024-06-17 18:55:15 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:55:17 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90772
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91253
+atrdown                          0.90291
+SL                              0.900504
+TP                               0.91253
+baseline                        0.909708
+Name: 399, dtype: object
+2024-06-17 18:57:47 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:57:47 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 18:57:49 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90772
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91253
+atrdown                          0.90291
+SL                              0.900504
+TP                               0.91253
+baseline                        0.909708
+Name: 399, dtype: object
+2024-06-17 18:57:49 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                            0.90772
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91253
+atrdown                          0.90291
+SL                              0.900504
+TP                               0.91253
+baseline                        0.909708
+Name: 399, dtype: object
+2024-06-17 19:00:04 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 19:00:04 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 19:00:04 LogWrapper init()./logs/AUD_CAD.log
+2024-06-17 19:00:05 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                             0.9077
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91251
+atrdown                          0.90289
+SL                              0.900484
+TP                               0.91251
+baseline                        0.909705
+Name: 399, dtype: object
+2024-06-17 19:00:05 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                             0.9077
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91251
+atrdown                          0.90289
+SL                              0.900484
+TP                               0.91251
+baseline                        0.909705
+Name: 399, dtype: object
+2024-06-17 19:00:05 Last candle data: instrument                       AUD_CAD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.90887
+High                             0.90936
+Low                              0.90595
+Close                             0.9077
+smaHigh                         0.912624
+smaLow                          0.907548
+sslDown                         0.907548
+sslUp                           0.912624
+Position                             buy
+SIGNAL                             False
+ATR                              0.00481
+atrup                            0.91251
+atrdown                          0.90289
+SL                              0.900484
+TP                               0.91251
+baseline                        0.909705
+Name: 399, dtype: object

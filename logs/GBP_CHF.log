@@ -15229,3 +15229,276 @@ SL                              1.139293
 TP                              1.123005
 baseline                        1.138389
 Name: 399, dtype: object
+2024-06-17 16:00:25 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 16:00:26 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13016
+Low                               1.1274
+Close                            1.12924
+smaHigh                         1.142807
+smaLow                          1.135843
+sslDown                         1.142807
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006515
+atrup                           1.135755
+atrdown                         1.122725
+SL                              1.139013
+TP                              1.122725
+baseline                        1.138354
+Name: 399, dtype: object
+2024-06-17 16:14:10 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 16:14:11 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13016
+Low                               1.1274
+Close                            1.12869
+smaHigh                         1.142807
+smaLow                          1.135843
+sslDown                         1.142807
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006515
+atrup                           1.135205
+atrdown                         1.122175
+SL                              1.138463
+TP                              1.122175
+baseline                        1.138285
+Name: 399, dtype: object
+2024-06-17 17:44:20 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 17:44:21 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13016
+Low                               1.1274
+Close                             1.1289
+smaHigh                         1.142807
+smaLow                          1.135843
+sslDown                         1.142807
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006515
+atrup                           1.135415
+atrdown                         1.122385
+SL                              1.138673
+TP                              1.122385
+baseline                        1.138311
+Name: 399, dtype: object
+2024-06-17 18:32:42 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:32:44 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                             1.1301
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136642
+atrdown                         1.123558
+SL                              1.139913
+TP                              1.123558
+baseline                        1.138461
+Name: 399, dtype: object
+2024-06-17 18:49:45 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:49:47 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.12984
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136382
+atrdown                         1.123298
+SL                              1.139653
+TP                              1.123298
+baseline                        1.138429
+Name: 399, dtype: object
+2024-06-17 18:51:55 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:51:55 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:51:57 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.12976
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136302
+atrdown                         1.123218
+SL                              1.139573
+TP                              1.123218
+baseline                        1.138419
+Name: 399, dtype: object
+2024-06-17 18:51:57 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.12976
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136302
+atrdown                         1.123218
+SL                              1.139573
+TP                              1.123218
+baseline                        1.138419
+Name: 399, dtype: object
+2024-06-17 18:55:06 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:55:08 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.12993
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136472
+atrdown                         1.123388
+SL                              1.139743
+TP                              1.123388
+baseline                         1.13844
+Name: 399, dtype: object
+2024-06-17 18:57:42 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:57:42 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:57:43 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.12996
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136502
+atrdown                         1.123418
+SL                              1.139773
+TP                              1.123418
+baseline                        1.138444
+Name: 399, dtype: object
+2024-06-17 18:57:43 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.12996
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136502
+atrdown                         1.123418
+SL                              1.139773
+TP                              1.123418
+baseline                        1.138444
+Name: 399, dtype: object
+2024-06-17 18:59:58 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:59:58 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:59:58 LogWrapper init()./logs/GBP_CHF.log
+2024-06-17 18:59:59 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.13034
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136882
+atrdown                         1.123798
+SL                              1.140153
+TP                              1.123798
+baseline                        1.138491
+Name: 399, dtype: object
+2024-06-17 18:59:59 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.13034
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136882
+atrdown                         1.123798
+SL                              1.140153
+TP                              1.123798
+baseline                        1.138491
+Name: 399, dtype: object
+2024-06-17 18:59:59 Last candle data: instrument                       GBP_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.13016
+High                             1.13054
+Low                               1.1274
+Close                            1.13034
+smaHigh                         1.142845
+smaLow                          1.135843
+sslDown                         1.142845
+sslUp                           1.135843
+Position                            sell
+SIGNAL                             False
+ATR                             0.006542
+atrup                           1.136882
+atrdown                         1.123798
+SL                              1.140153
+TP                              1.123798
+baseline                        1.138491
+Name: 399, dtype: object

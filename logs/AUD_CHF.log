@@ -15223,3 +15223,276 @@ SL                              0.594234
 TP                              0.583944
 baseline                        0.591799
 Name: 399, dtype: object
+2024-06-17 16:00:29 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 16:00:30 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58774
+Close                            0.58792
+smaHigh                         0.594658
+smaLow                          0.590297
+sslDown                         0.594658
+sslUp                           0.590297
+Position                            sell
+SIGNAL                             False
+ATR                             0.004116
+atrup                           0.592036
+atrdown                         0.583804
+SL                              0.594094
+TP                              0.583804
+baseline                        0.591781
+Name: 399, dtype: object
+2024-06-17 16:14:14 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 16:14:15 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58742
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.591602
+atrdown                         0.583238
+SL                              0.593694
+TP                              0.583238
+baseline                        0.591719
+Name: 399, dtype: object
+2024-06-17 17:44:24 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 17:44:25 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58856
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.592742
+atrdown                         0.584378
+SL                              0.594834
+TP                              0.584378
+baseline                        0.591861
+Name: 399, dtype: object
+2024-06-17 18:32:47 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:32:49 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58889
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593072
+atrdown                         0.584708
+SL                              0.595164
+TP                              0.584708
+baseline                        0.591902
+Name: 399, dtype: object
+2024-06-17 18:49:50 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:49:52 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58912
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593302
+atrdown                         0.584938
+SL                              0.595394
+TP                              0.584938
+baseline                        0.591931
+Name: 399, dtype: object
+2024-06-17 18:52:01 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:52:01 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:52:03 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                             0.5891
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593282
+atrdown                         0.584918
+SL                              0.595374
+TP                              0.584918
+baseline                        0.591929
+Name: 399, dtype: object
+2024-06-17 18:52:03 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                             0.5891
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593282
+atrdown                         0.584918
+SL                              0.595374
+TP                              0.584918
+baseline                        0.591929
+Name: 399, dtype: object
+2024-06-17 18:55:13 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:55:15 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58894
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593122
+atrdown                         0.584758
+SL                              0.595214
+TP                              0.584758
+baseline                        0.591909
+Name: 399, dtype: object
+2024-06-17 18:57:46 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:57:46 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 18:57:47 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58906
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593242
+atrdown                         0.584878
+SL                              0.595334
+TP                              0.584878
+baseline                        0.591924
+Name: 399, dtype: object
+2024-06-17 18:57:47 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58906
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593242
+atrdown                         0.584878
+SL                              0.595334
+TP                              0.584878
+baseline                        0.591924
+Name: 399, dtype: object
+2024-06-17 19:00:02 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 19:00:02 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 19:00:02 LogWrapper init()./logs/AUD_CHF.log
+2024-06-17 19:00:04 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58912
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593302
+atrdown                         0.584938
+SL                              0.595394
+TP                              0.584938
+baseline                        0.591931
+Name: 399, dtype: object
+2024-06-17 19:00:04 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58912
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593302
+atrdown                         0.584938
+SL                              0.595394
+TP                              0.584938
+baseline                        0.591931
+Name: 399, dtype: object
+2024-06-17 19:00:04 Last candle data: instrument                       AUD_CHF
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             0.58882
+High                              0.5894
+Low                              0.58681
+Close                            0.58912
+smaHigh                         0.594658
+smaLow                          0.590204
+sslDown                         0.594658
+sslUp                           0.590204
+Position                            sell
+SIGNAL                             False
+ATR                             0.004182
+atrup                           0.593302
+atrdown                         0.584938
+SL                              0.595394
+TP                              0.584938
+baseline                        0.591931
+Name: 399, dtype: object

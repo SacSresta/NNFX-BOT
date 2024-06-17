@@ -14152,3 +14152,360 @@ SL                              1.634021
 TP                              1.612253
 baseline                         1.62609
 Name: 399, dtype: object
+2024-06-17 16:00:03 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 16:00:04 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62192
+Low                              1.61751
+Close                              1.621
+smaHigh                         1.633287
+smaLow                          1.623921
+sslDown                         1.633287
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008707
+atrup                           1.629707
+atrdown                         1.612293
+SL                              1.634061
+TP                              1.612293
+baseline                        1.626095
+Name: 399, dtype: object
+2024-06-17 16:13:52 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 16:13:53 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                               1.622
+Low                              1.61751
+Close                            1.62172
+smaHigh                         1.633295
+smaLow                          1.623921
+sslDown                         1.633295
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008713
+atrup                           1.630433
+atrdown                         1.613007
+SL                               1.63479
+TP                              1.613007
+baseline                        1.626185
+Name: 399, dtype: object
+2024-06-17 17:43:50 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 17:43:52 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62017
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.628907
+atrdown                         1.611433
+SL                              1.633276
+TP                              1.611433
+baseline                        1.625991
+Name: 399, dtype: object
+2024-06-17 17:45:41 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 17:45:42 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62027
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629007
+atrdown                         1.611533
+SL                              1.633376
+TP                              1.611533
+baseline                        1.626004
+Name: 399, dtype: object
+2024-06-17 18:32:13 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:32:14 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62134
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.630077
+atrdown                         1.612603
+SL                              1.634446
+TP                              1.612603
+baseline                        1.626138
+Name: 399, dtype: object
+2024-06-17 18:49:24 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:49:26 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62056
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629297
+atrdown                         1.611823
+SL                              1.633666
+TP                              1.611823
+baseline                         1.62604
+Name: 399, dtype: object
+2024-06-17 18:51:29 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:51:29 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:51:31 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62052
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629257
+atrdown                         1.611783
+SL                              1.633626
+TP                              1.611783
+baseline                        1.626035
+Name: 399, dtype: object
+2024-06-17 18:51:31 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62052
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629257
+atrdown                         1.611783
+SL                              1.633626
+TP                              1.611783
+baseline                        1.626035
+Name: 399, dtype: object
+2024-06-17 18:52:47 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:52:48 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62046
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629197
+atrdown                         1.611723
+SL                              1.633566
+TP                              1.611723
+baseline                        1.626027
+Name: 399, dtype: object
+2024-06-17 18:53:32 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:53:33 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62054
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629277
+atrdown                         1.611803
+SL                              1.633646
+TP                              1.611803
+baseline                        1.626037
+Name: 399, dtype: object
+2024-06-17 18:54:24 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:54:27 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62066
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629397
+atrdown                         1.611923
+SL                              1.633766
+TP                              1.611923
+baseline                        1.626052
+Name: 399, dtype: object
+2024-06-17 18:57:10 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:57:10 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:57:11 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62073
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629467
+atrdown                         1.611993
+SL                              1.633836
+TP                              1.611993
+baseline                        1.626061
+Name: 399, dtype: object
+2024-06-17 18:57:11 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62073
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629467
+atrdown                         1.611993
+SL                              1.633836
+TP                              1.611993
+baseline                        1.626061
+Name: 399, dtype: object
+2024-06-17 18:59:28 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:59:28 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:59:28 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 18:59:29 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62096
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629697
+atrdown                         1.612223
+SL                              1.634066
+TP                              1.612223
+baseline                         1.62609
+Name: 399, dtype: object
+2024-06-17 18:59:29 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62096
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629697
+atrdown                         1.612223
+SL                              1.634066
+TP                              1.612223
+baseline                         1.62609
+Name: 399, dtype: object
+2024-06-17 18:59:29 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62096
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.629697
+atrdown                         1.612223
+SL                              1.634066
+TP                              1.612223
+baseline                         1.62609
+Name: 399, dtype: object
+2024-06-17 19:03:42 LogWrapper init()./logs/EUR_AUD.log
+2024-06-17 19:03:43 Last candle data: instrument                       EUR_AUD
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                             1.61863
+High                             1.62234
+Low                              1.61751
+Close                            1.62155
+smaHigh                         1.633329
+smaLow                          1.623921
+sslDown                         1.633329
+sslUp                           1.623921
+Position                            sell
+SIGNAL                             False
+ATR                             0.008737
+atrup                           1.630287
+atrdown                         1.612813
+SL                              1.634656
+TP                              1.612813
+baseline                        1.626164
+Name: 399, dtype: object

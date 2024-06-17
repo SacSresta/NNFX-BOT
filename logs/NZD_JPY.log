@@ -13333,3 +13333,276 @@ SL                             95.288428
 TP                             97.162715
 baseline                       96.465125
 Name: 399, dtype: object
+2024-06-17 16:00:37 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 16:00:38 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.318
+Close                              96.32
+smaHigh                          96.8091
+smaLow                           95.9926
+sslDown                          95.9926
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.754215
+atrup                          97.074215
+atrdown                        95.565785
+SL                             95.188678
+TP                             97.074215
+baseline                         96.4535
+Name: 399, dtype: object
+2024-06-17 16:14:22 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 16:14:23 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.184
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          96.954215
+atrdown                        95.413785
+SL                             95.028678
+TP                             96.954215
+baseline                         96.4365
+Name: 399, dtype: object
+2024-06-17 17:44:32 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 17:44:33 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                              96.33
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.100215
+atrdown                        95.559785
+SL                             95.174678
+TP                             97.100215
+baseline                        96.45475
+Name: 399, dtype: object
+2024-06-17 18:32:52 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:32:53 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                              96.45
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.220215
+atrdown                        95.679785
+SL                             95.294678
+TP                             97.220215
+baseline                        96.46975
+Name: 399, dtype: object
+2024-06-17 18:49:53 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:49:55 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                              96.47
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.240215
+atrdown                        95.699785
+SL                             95.314678
+TP                             97.240215
+baseline                        96.47225
+Name: 399, dtype: object
+2024-06-17 18:52:05 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:52:05 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:52:07 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.482
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.252215
+atrdown                        95.711785
+SL                             95.326678
+TP                             97.252215
+baseline                        96.47375
+Name: 399, dtype: object
+2024-06-17 18:52:07 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.482
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.252215
+atrdown                        95.711785
+SL                             95.326678
+TP                             97.252215
+baseline                        96.47375
+Name: 399, dtype: object
+2024-06-17 18:55:17 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:55:19 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.472
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.242215
+atrdown                        95.701785
+SL                             95.316678
+TP                             97.242215
+baseline                         96.4725
+Name: 399, dtype: object
+2024-06-17 18:57:49 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:57:49 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 18:57:51 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.476
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.246215
+atrdown                        95.705785
+SL                             95.320678
+TP                             97.246215
+baseline                          96.473
+Name: 399, dtype: object
+2024-06-17 18:57:51 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.476
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.246215
+atrdown                        95.705785
+SL                             95.320678
+TP                             97.246215
+baseline                          96.473
+Name: 399, dtype: object
+2024-06-17 19:00:05 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 19:00:05 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 19:00:05 LogWrapper init()./logs/NZD_JPY.log
+2024-06-17 19:00:06 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.505
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.275215
+atrdown                        95.734785
+SL                             95.349678
+TP                             97.275215
+baseline                       96.476625
+Name: 399, dtype: object
+2024-06-17 19:00:06 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.505
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.275215
+atrdown                        95.734785
+SL                             95.349678
+TP                             97.275215
+baseline                       96.476625
+Name: 399, dtype: object
+2024-06-17 19:00:06 Last candle data: instrument                       NZD_JPY
+Time           2024-06-17 07:00:00+10:00
+granularity                            D
+Open                              96.662
+High                              96.746
+Low                               96.094
+Close                             96.505
+smaHigh                          96.8091
+smaLow                           95.9702
+sslDown                          95.9702
+sslUp                            96.8091
+Position                             buy
+SIGNAL                             False
+ATR                             0.770215
+atrup                          97.275215
+atrdown                        95.734785
+SL                             95.349678
+TP                             97.275215
+baseline                       96.476625
+Name: 399, dtype: object
