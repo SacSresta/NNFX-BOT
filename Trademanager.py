@@ -2,11 +2,23 @@ from data import ForexData
 from Technicals import Indicator
 import time
 import pandas as pd
+import numpy as np
 
 
 class Trademanager():
     def __init__(self):
         self.account_bal = ForexData().get_account_balance()
+
+    def fetch_data(self,instrument,count = 400,granularity = "M1",price_type = "mid"):
+        df = ForexData().fetch_data(instrument=instrument, count=count, granularity=granularity,price_type=price_type)
+        if df is not None:
+            indicator = Indicator()
+            ssl_df = indicator.SSL(data=df, period=10)
+            Atr_df = indicator.ATR(data=ssl_df, timeperiod= 14)
+            baseline_df = indicator.Baseline(Atr_df, period=8)
+            #logging.info(f"Data fetched and processed for instrument: {instrument}")
+            return baseline_df
+        return None
 
     def fetch_and_process(self,instrument,count = 400,granularity = "M1",price_type = "mid"):
         df = ForexData().fetch_data(instrument=instrument, count=count, granularity=granularity,price_type=price_type)
