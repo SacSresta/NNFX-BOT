@@ -14680,3 +14680,95 @@ SL                              1.073683
 TP                              1.082794
 baseline                        1.077119
 Name: 399, dtype: object
+2024-06-29 20:45:10 LogWrapper init()./logs/AUD_NZD.log
+2024-06-29 20:45:11 Last candle data: instrument                       AUD_NZD
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                              1.0919
+High                             1.09642
+Low                              1.09177
+Close                            1.09492
+smaHigh                         1.089252
+smaLow                          1.084623
+sslDown                         1.084623
+sslUp                           1.089252
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004211
+atrup                           1.099131
+atrdown                         1.090709
+SL                              1.088604
+TP                              1.099131
+baseline                        1.089383
+Name: 399, dtype: object
+2024-07-04 11:38:15 LogWrapper init()./logs/AUD_NZD.log
+2024-07-04 11:38:16 Last candle data: instrument                       AUD_NZD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.09882
+High                             1.09932
+Low                               1.0982
+Close                            1.09874
+smaHigh                         1.094426
+smaLow                          1.090549
+sslDown                         1.090549
+sslUp                           1.094426
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003858
+atrup                           1.102598
+atrdown                         1.094882
+SL                              1.092954
+TP                              1.102598
+baseline                        1.094655
+Name: 399, dtype: object
+2024-07-04 11:40:04 LogWrapper init()./logs/AUD_NZD.log
+2024-07-04 11:40:04 LogWrapper init()./logs/AUD_NZD.log
+2024-07-04 11:40:05 Last candle data: instrument                       AUD_NZD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.09882
+High                             1.09932
+Low                               1.0982
+Close                            1.09874
+smaHigh                         1.094426
+smaLow                          1.090549
+sslDown                         1.090549
+sslUp                           1.094426
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003858
+atrup                           1.102598
+atrdown                         1.094882
+SL                              1.092954
+TP                              1.102598
+baseline                        1.094655
+Name: 399, dtype: object
+2024-07-04 11:40:05 Last candle data: instrument                       AUD_NZD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.09882
+High                             1.09932
+Low                               1.0982
+Close                            1.09874
+smaHigh                         1.094426
+smaLow                          1.090549
+sslDown                         1.090549
+sslUp                           1.094426
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003858
+atrup                           1.102598
+atrdown                         1.094882
+SL                              1.092954
+TP                              1.102598
+baseline                        1.094655
+Name: 399, dtype: object

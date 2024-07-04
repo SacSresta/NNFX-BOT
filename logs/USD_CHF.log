@@ -14722,3 +14722,95 @@ TP                              0.897148
 baseline                         0.89379
 Name: 399, dtype: object
 2024-06-17 19:05:01 Order for id: 6232 for -137193 units of pair NZD_USD is getting closed as it was opened before.
+2024-06-29 20:44:47 LogWrapper init()./logs/USD_CHF.log
+2024-06-29 20:44:48 Last candle data: instrument                       USD_CHF
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                             0.89868
+High                             0.90099
+Low                              0.89794
+Close                            0.89868
+smaHigh                         0.894405
+smaLow                          0.890088
+sslDown                         0.890088
+sslUp                           0.894405
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004782
+atrup                           0.903462
+atrdown                         0.893898
+SL                              0.891507
+TP                              0.903462
+baseline                        0.894081
+Name: 399, dtype: object
+2024-07-04 11:37:58 LogWrapper init()./logs/USD_CHF.log
+2024-07-04 11:37:59 Last candle data: instrument                       USD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.90143
+High                             0.90202
+Low                              0.90034
+Close                            0.90096
+smaHigh                         0.899925
+smaLow                          0.896152
+sslDown                         0.896152
+sslUp                           0.899925
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004628
+atrup                           0.905588
+atrdown                         0.896332
+SL                              0.894018
+TP                              0.905588
+baseline                        0.899856
+Name: 399, dtype: object
+2024-07-04 11:39:40 LogWrapper init()./logs/USD_CHF.log
+2024-07-04 11:39:40 LogWrapper init()./logs/USD_CHF.log
+2024-07-04 11:39:42 Last candle data: instrument                       USD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.90143
+High                             0.90202
+Low                              0.90034
+Close                            0.90095
+smaHigh                         0.899925
+smaLow                          0.896152
+sslDown                         0.896152
+sslUp                           0.899925
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004628
+atrup                           0.905578
+atrdown                         0.896322
+SL                              0.894008
+TP                              0.905578
+baseline                        0.899855
+Name: 399, dtype: object
+2024-07-04 11:39:42 Last candle data: instrument                       USD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.90143
+High                             0.90202
+Low                              0.90034
+Close                            0.90095
+smaHigh                         0.899925
+smaLow                          0.896152
+sslDown                         0.896152
+sslUp                           0.899925
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004628
+atrup                           0.905578
+atrdown                         0.896322
+SL                              0.894008
+TP                              0.905578
+baseline                        0.899855
+Name: 399, dtype: object

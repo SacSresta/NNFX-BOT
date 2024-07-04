@@ -1,4 +1,0 @@
-import talib
-
-
-talib.MACD()

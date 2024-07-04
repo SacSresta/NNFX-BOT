@@ -1,26 +1,27 @@
-from data import ForexData
-from Technicals import Indicator
+from src.data import ForexData
+from src.Technicals import Indicator
 import time
 import pandas as pd
 import logging
 import os
-from logger import LogWrapper
-from Trademanager import Trademanager
-
+from src.logger import LogWrapper
+from src.Trademanager import Trademanager
+from src.utils import save_all_candle_data,save_candle_data
 def save_all_candle_data(candle_data_all):
     new_data_df = pd.DataFrame(candle_data_all)
     try:
-        if os.path.exists('candle_data_all.csv'):
-            existing_data_df = pd.read_csv('candle_data_all.csv')
+        if os.path.exists('all_data/candle_data_all.csv'):
+            existing_data_df = pd.read_csv('all_data/candle_data_all.csv')
             combined_data_df = pd.concat([existing_data_df, new_data_df], ignore_index=True)
         else:
             combined_data_df = new_data_df
+            os.makedirs("datas",exist_ok=True)
 
-        combined_data_df.to_csv('candle_data_all.csv', index=False)
+        combined_data_df.to_csv('all_data/candle_data_all.csv', index=False)
         logging.info("Candle data saved to candle_data_all.csv.")
     except PermissionError as e:
         logging.error(f"Permission error saving candle data to CSV: {e}")
-        alternative_filename = 'candle_data_backup.csv'
+        alternative_filename = 'all_data/backup/candle_data_backup.csv'
         combined_data_df.to_csv(alternative_filename, index=False)
         logging.info(f"Backup candle data saved to {alternative_filename}.")
 

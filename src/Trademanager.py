@@ -1,5 +1,5 @@
-from data import ForexData
-from Technicals import Indicator
+from src.data import ForexData
+from src.Technicals import Indicator
 import time
 import pandas as pd
 import numpy as np

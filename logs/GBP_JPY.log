@@ -14362,3 +14362,95 @@ SL                            197.636511
 TP                             201.25566
 baseline                        199.8785
 Name: 399, dtype: object
+2024-06-29 20:45:06 LogWrapper init()./logs/GBP_JPY.log
+2024-06-29 20:45:07 Last candle data: instrument                       GBP_JPY
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                             203.211
+High                             203.596
+Low                              202.568
+Close                            203.455
+smaHigh                         202.1466
+smaLow                          201.1392
+sslDown                         201.1392
+sslUp                           202.1466
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.234785
+atrup                         204.689785
+atrdown                       202.220215
+SL                            201.602823
+TP                            204.689785
+baseline                         202.381
+Name: 399, dtype: object
+2024-07-04 11:38:11 LogWrapper init()./logs/GBP_JPY.log
+2024-07-04 11:38:12 Last candle data: instrument                       GBP_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             206.021
+High                             206.084
+Low                              205.502
+Close                            205.778
+smaHigh                         203.9518
+smaLow                           202.841
+sslDown                          202.841
+sslUp                           203.9518
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.203242
+atrup                         206.981242
+atrdown                       204.574758
+SL                            203.973137
+TP                            206.981242
+baseline                      204.147625
+Name: 399, dtype: object
+2024-07-04 11:39:59 LogWrapper init()./logs/GBP_JPY.log
+2024-07-04 11:39:59 LogWrapper init()./logs/GBP_JPY.log
+2024-07-04 11:40:01 Last candle data: instrument                       GBP_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             206.021
+High                             206.084
+Low                              205.502
+Close                            205.794
+smaHigh                         203.9518
+smaLow                           202.841
+sslDown                          202.841
+sslUp                           203.9518
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.203242
+atrup                         206.997242
+atrdown                       204.590758
+SL                            203.989137
+TP                            206.997242
+baseline                      204.149625
+Name: 399, dtype: object
+2024-07-04 11:40:01 Last candle data: instrument                       GBP_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             206.021
+High                             206.084
+Low                              205.502
+Close                            205.794
+smaHigh                         203.9518
+smaLow                           202.841
+sslDown                          202.841
+sslUp                           203.9518
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.203242
+atrup                         206.997242
+atrdown                       204.590758
+SL                            203.989137
+TP                            206.997242
+baseline                      204.149625
+Name: 399, dtype: object

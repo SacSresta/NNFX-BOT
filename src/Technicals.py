@@ -1,4 +1,4 @@
-from data import ForexData
+from src.data import ForexData
 import talib
 import plotly.graph_objects as go
 import technical

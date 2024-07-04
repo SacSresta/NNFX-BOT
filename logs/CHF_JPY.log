@@ -13585,3 +13585,95 @@ SL                            175.268901
 TP                            177.769066
 baseline                       175.56825
 Name: 399, dtype: object
+2024-06-29 20:45:22 LogWrapper init()./logs/CHF_JPY.log
+2024-06-29 20:45:23 Last candle data: instrument                       CHF_JPY
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                             178.882
+High                             179.236
+Low                              178.234
+Close                            179.039
+smaHigh                         178.8149
+smaLow                          177.8631
+sslDown                         177.8631
+sslUp                           178.8149
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.984334
+atrup                         180.023334
+atrdown                       178.054666
+SL                            177.562499
+TP                            180.023334
+baseline                       178.76325
+Name: 399, dtype: object
+2024-07-04 11:38:31 LogWrapper init()./logs/CHF_JPY.log
+2024-07-04 11:38:32 Last candle data: instrument                       CHF_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             179.361
+High                             179.422
+Low                              178.969
+Close                             179.15
+smaHigh                         179.1211
+smaLow                          178.3713
+sslDown                         178.3713
+sslUp                           179.1211
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.886839
+atrup                         180.036839
+atrdown                       178.263161
+SL                            177.819742
+TP                            180.036839
+baseline                      178.951375
+Name: 399, dtype: object
+2024-07-04 11:40:25 LogWrapper init()./logs/CHF_JPY.log
+2024-07-04 11:40:25 LogWrapper init()./logs/CHF_JPY.log
+2024-07-04 11:40:27 Last candle data: instrument                       CHF_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             179.361
+High                             179.422
+Low                              178.969
+Close                            179.152
+smaHigh                         179.1211
+smaLow                          178.3713
+sslDown                         178.3713
+sslUp                           179.1211
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.886839
+atrup                         180.038839
+atrdown                       178.265161
+SL                            177.821742
+TP                            180.038839
+baseline                      178.951625
+Name: 399, dtype: object
+2024-07-04 11:40:27 Last candle data: instrument                       CHF_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             179.361
+High                             179.422
+Low                              178.969
+Close                            179.152
+smaHigh                         179.1211
+smaLow                          178.3713
+sslDown                         178.3713
+sslUp                           179.1211
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.886839
+atrup                         180.038839
+atrdown                       178.265161
+SL                            177.821742
+TP                            180.038839
+baseline                      178.951625
+Name: 399, dtype: object

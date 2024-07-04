@@ -14496,3 +14496,95 @@ Name: 399, dtype: object
 2024-06-17 18:59:44 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6197', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14117847', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.085', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.855', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6198', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'ORDER_CANCEL', 'orderID': '6197', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6197', '6198'], 'lastTransactionID': '6198'}, Units: 14117846.520000001
 2024-06-17 18:59:44 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6197', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14117847', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.085', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.855', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6198', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'ORDER_CANCEL', 'orderID': '6197', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6197', '6198'], 'lastTransactionID': '6198'}, Units: 14117846.520000001
 2024-06-17 18:59:44 Order placed for EUR_JPY. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6197', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_JPY', 'units': '14117847', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '170.085', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '166.855', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderCancelTransaction': {'id': '6198', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6197', 'requestID': '79265986905337701', 'time': '2024-06-17T08:59:45.908991991Z', 'type': 'ORDER_CANCEL', 'orderID': '6197', 'reason': 'INSUFFICIENT_LIQUIDITY'}, 'relatedTransactionIDs': ['6197', '6198'], 'lastTransactionID': '6198'}, Units: 14117846.520000001
+2024-06-29 20:45:00 LogWrapper init()./logs/EUR_JPY.log
+2024-06-29 20:45:01 Last candle data: instrument                       EUR_JPY
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                              172.12
+High                             172.448
+Low                              171.454
+Close                             172.39
+smaHigh                         170.9652
+smaLow                          169.9674
+sslDown                         169.9674
+sslUp                           170.9652
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.139862
+atrup                         173.529862
+atrdown                       171.250138
+SL                            170.680208
+TP                            173.529862
+baseline                         171.189
+Name: 399, dtype: object
+2024-07-04 11:38:05 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:38:06 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                             174.14
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.200824
+atrdown                       173.079176
+SL                            172.548763
+TP                            175.200824
+baseline                      172.859875
+Name: 399, dtype: object
+2024-07-04 11:39:50 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:39:50 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:39:51 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                            174.162
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.222824
+atrdown                       173.101176
+SL                            172.570763
+TP                            175.222824
+baseline                      172.862625
+Name: 399, dtype: object
+2024-07-04 11:39:51 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                            174.162
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.222824
+atrdown                       173.101176
+SL                            172.570763
+TP                            175.222824
+baseline                      172.862625
+Name: 399, dtype: object

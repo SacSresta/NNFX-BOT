@@ -14644,3 +14644,95 @@ SL                              1.752019
 TP                              1.734687
 baseline                        1.749632
 Name: 399, dtype: object
+2024-06-29 20:45:07 LogWrapper init()./logs/GBP_CAD.log
+2024-06-29 20:45:09 Last candle data: instrument                       GBP_CAD
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                               1.732
+High                             1.73466
+Low                              1.72759
+Close                            1.72978
+smaHigh                         1.738611
+smaLow                          1.732597
+sslDown                         1.738611
+sslUp                           1.732597
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00662
+atrup                             1.7364
+atrdown                          1.72316
+SL                               1.73971
+TP                               1.72316
+baseline                        1.732903
+Name: 399, dtype: object
+2024-07-04 11:38:12 LogWrapper init()./logs/GBP_CAD.log
+2024-07-04 11:38:14 Last candle data: instrument                       GBP_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.73802
+High                             1.73902
+Low                              1.73751
+Close                            1.73841
+smaHigh                          1.73631
+smaLow                          1.730443
+sslDown                         1.730443
+sslUp                            1.73631
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006442
+atrup                           1.744852
+atrdown                         1.731968
+SL                              1.728747
+TP                              1.744852
+baseline                        1.734071
+Name: 399, dtype: object
+2024-07-04 11:40:01 LogWrapper init()./logs/GBP_CAD.log
+2024-07-04 11:40:01 LogWrapper init()./logs/GBP_CAD.log
+2024-07-04 11:40:02 Last candle data: instrument                       GBP_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.73802
+High                             1.73902
+Low                              1.73751
+Close                            1.73836
+smaHigh                          1.73631
+smaLow                          1.730443
+sslDown                         1.730443
+sslUp                            1.73631
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006442
+atrup                           1.744802
+atrdown                         1.731918
+SL                              1.728697
+TP                              1.744802
+baseline                        1.734065
+Name: 399, dtype: object
+2024-07-04 11:40:02 Last candle data: instrument                       GBP_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.73802
+High                             1.73902
+Low                              1.73751
+Close                            1.73836
+smaHigh                          1.73631
+smaLow                          1.730443
+sslDown                         1.730443
+sslUp                            1.73631
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006442
+atrup                           1.744802
+atrdown                         1.731918
+SL                              1.728697
+TP                              1.744802
+baseline                        1.734065
+Name: 399, dtype: object

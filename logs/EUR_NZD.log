@@ -14489,3 +14489,95 @@ Name: 399, dtype: object
 2024-06-17 18:59:37 Order placed for EUR_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6189', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6189', 'requestID': '97280385385757734', 'time': '2024-06-17T08:59:38.277955398Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_NZD', 'units': '188876', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '1.75906', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '1.73394', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6190', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6189', 'requestID': '97280385385757734', 'time': '2024-06-17T08:59:38.277955398Z', 'type': 'ORDER_FILL', 'orderID': '6189', 'instrument': 'EUR_NZD', 'units': '188876', 'requestedUnits': '188876', 'price': '1.74945', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80992.3420', 'gainQuoteHomeConversionFactor': '0.922068966403', 'lossQuoteHomeConversionFactor': '0.931335991191', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '37.6318', 'fullVWAP': '1.74945', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '1.74945', 'tradeID': '6190', 'units': '188876', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '37.6318', 'initialMarginRequired': '15308.4942'}, 'fullPrice': {'closeoutBid': '1.74901', 'closeoutAsk': '1.74946', 'timestamp': '2024-06-17T08:59:33.242187902Z', 'bids': [{'price': '1.74902', 'liquidity': '3000000'}, {'price': '1.74901', 'liquidity': '7000000'}], 'asks': [{'price': '1.74945', 'liquidity': '3000000'}, {'price': '1.74946', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92206896640291'}, 'lossQuoteHome': {'factor': '0.93133599119087'}, 'gainBaseHome': {'factor': '1.61290495'}, 'lossBaseHome': {'factor': '1.62911505'}}}, 'relatedTransactionIDs': ['6189', '6190', '6191', '6192'], 'lastTransactionID': '6192'}, Units: 188875.5899
 2024-06-17 18:59:37 Order placed for EUR_NZD. Side: buy, Time: 2024-06-17 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '6189', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6189', 'requestID': '97280385385757734', 'time': '2024-06-17T08:59:38.277955398Z', 'type': 'MARKET_ORDER', 'instrument': 'EUR_NZD', 'units': '188876', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '1.75906', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '1.73394', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '6190', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '6189', 'requestID': '97280385385757734', 'time': '2024-06-17T08:59:38.277955398Z', 'type': 'ORDER_FILL', 'orderID': '6189', 'instrument': 'EUR_NZD', 'units': '188876', 'requestedUnits': '188876', 'price': '1.74945', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '80992.3420', 'gainQuoteHomeConversionFactor': '0.922068966403', 'lossQuoteHomeConversionFactor': '0.931335991191', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '37.6318', 'fullVWAP': '1.74945', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '1.74945', 'tradeID': '6190', 'units': '188876', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '37.6318', 'initialMarginRequired': '15308.4942'}, 'fullPrice': {'closeoutBid': '1.74901', 'closeoutAsk': '1.74946', 'timestamp': '2024-06-17T08:59:33.242187902Z', 'bids': [{'price': '1.74902', 'liquidity': '3000000'}, {'price': '1.74901', 'liquidity': '7000000'}], 'asks': [{'price': '1.74945', 'liquidity': '3000000'}, {'price': '1.74946', 'liquidity': '7000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '0.92206896640291'}, 'lossQuoteHome': {'factor': '0.93133599119087'}, 'gainBaseHome': {'factor': '1.61290495'}, 'lossBaseHome': {'factor': '1.62911505'}}}, 'relatedTransactionIDs': ['6189', '6190', '6191', '6192'], 'lastTransactionID': '6192'}, Units: 188875.5899
 2024-06-17 19:03:43 LogWrapper init()./logs/EUR_NZD.log
+2024-06-29 20:44:58 LogWrapper init()./logs/EUR_NZD.log
+2024-06-29 20:45:00 Last candle data: instrument                       EUR_NZD
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                                1.76
+High                             1.76538
+Low                              1.75463
+Close                            1.75866
+smaHigh                         1.756345
+smaLow                          1.747874
+sslDown                         1.747874
+sslUp                           1.756345
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.009143
+atrup                           1.767803
+atrdown                         1.749517
+SL                              1.744945
+TP                              1.767803
+baseline                        1.753392
+Name: 399, dtype: object
+2024-07-04 11:38:03 LogWrapper init()./logs/EUR_NZD.log
+2024-07-04 11:38:05 Last candle data: instrument                       EUR_NZD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.76733
+High                             1.76824
+Low                              1.76434
+Close                            1.76556
+smaHigh                         1.762815
+smaLow                          1.754777
+sslDown                         1.754777
+sslUp                           1.762815
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.008731
+atrup                           1.774291
+atrdown                         1.756829
+SL                              1.752463
+TP                              1.774291
+baseline                        1.761813
+Name: 399, dtype: object
+2024-07-04 11:39:48 LogWrapper init()./logs/EUR_NZD.log
+2024-07-04 11:39:48 LogWrapper init()./logs/EUR_NZD.log
+2024-07-04 11:39:50 Last candle data: instrument                       EUR_NZD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.76733
+High                             1.76824
+Low                              1.76434
+Close                            1.76539
+smaHigh                         1.762815
+smaLow                          1.754777
+sslDown                         1.754777
+sslUp                           1.762815
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.008731
+atrup                           1.774121
+atrdown                         1.756659
+SL                              1.752293
+TP                              1.774121
+baseline                        1.761791
+Name: 399, dtype: object
+2024-07-04 11:39:50 Last candle data: instrument                       EUR_NZD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.76733
+High                             1.76824
+Low                              1.76434
+Close                            1.76539
+smaHigh                         1.762815
+smaLow                          1.754777
+sslDown                         1.754777
+sslUp                           1.762815
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.008731
+atrup                           1.774121
+atrdown                         1.756659
+SL                              1.752293
+TP                              1.774121
+baseline                        1.761791
+Name: 399, dtype: object

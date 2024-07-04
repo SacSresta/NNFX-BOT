@@ -14510,3 +14510,95 @@ SL                              0.849696
 TP                              0.841986
 baseline                        0.845496
 Name: 399, dtype: object
+2024-06-29 20:44:50 LogWrapper init()./logs/EUR_GBP.log
+2024-06-29 20:44:51 Last candle data: instrument                       EUR_GBP
+Time           2024-06-28 07:00:00+10:00
+granularity                            D
+Open                             0.84676
+High                             0.84821
+Low                              0.84579
+Close                            0.84722
+smaHigh                         0.846702
+smaLow                          0.844092
+sslDown                         0.844092
+sslUp                           0.846702
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.002876
+atrup                           0.850096
+atrdown                         0.844344
+SL                              0.842906
+TP                              0.850096
+baseline                         0.84585
+Name: 399, dtype: object
+2024-07-04 11:38:01 LogWrapper init()./logs/EUR_GBP.log
+2024-07-04 11:38:02 Last candle data: instrument                       EUR_GBP
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.84664
+High                             0.84664
+Low                               0.8462
+Close                            0.84629
+smaHigh                         0.847671
+smaLow                          0.845262
+sslDown                         0.845262
+sslUp                           0.847671
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.002647
+atrup                           0.848937
+atrdown                         0.843643
+SL                              0.842319
+TP                              0.848937
+baseline                        0.846716
+Name: 399, dtype: object
+2024-07-04 11:39:44 LogWrapper init()./logs/EUR_GBP.log
+2024-07-04 11:39:44 LogWrapper init()./logs/EUR_GBP.log
+2024-07-04 11:39:46 Last candle data: instrument                       EUR_GBP
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.84664
+High                             0.84664
+Low                               0.8462
+Close                            0.84632
+smaHigh                         0.847671
+smaLow                          0.845262
+sslDown                         0.845262
+sslUp                           0.847671
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.002647
+atrup                           0.848967
+atrdown                         0.843673
+SL                              0.842349
+TP                              0.848967
+baseline                         0.84672
+Name: 399, dtype: object
+2024-07-04 11:39:46 Last candle data: instrument                       EUR_GBP
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.84664
+High                             0.84664
+Low                               0.8462
+Close                            0.84632
+smaHigh                         0.847671
+smaLow                          0.845262
+sslDown                         0.845262
+sslUp                           0.847671
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.002647
+atrup                           0.848967
+atrdown                         0.843673
+SL                              0.842349
+TP                              0.848967
+baseline                         0.84672
+Name: 399, dtype: object
