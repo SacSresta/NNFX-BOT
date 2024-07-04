@@ -13698,3 +13698,95 @@ SL                             97.765421
 TP                             99.256386
 baseline                         98.0955
 Name: 399, dtype: object
+2024-07-04 11:43:32 LogWrapper init()./logs/NZD_JPY.log
+2024-07-04 11:43:34 Last candle data: instrument                       NZD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              98.634
+High                              98.732
+Low                               98.576
+Close                             98.665
+smaHigh                          98.1662
+smaLow                           97.6629
+sslDown                          97.6629
+sslUp                            98.1662
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.596386
+atrup                          99.261386
+atrdown                        98.068614
+SL                             97.770421
+TP                             99.261386
+baseline                       98.096125
+Name: 399, dtype: object
+2024-07-04 11:44:31 LogWrapper init()./logs/NZD_JPY.log
+2024-07-04 11:44:32 Last candle data: instrument                       NZD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              98.634
+High                              98.732
+Low                               98.576
+Close                             98.691
+smaHigh                          98.1662
+smaLow                           97.6629
+sslDown                          97.6629
+sslUp                            98.1662
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.596386
+atrup                          99.287386
+atrdown                        98.094614
+SL                             97.796421
+TP                             99.287386
+baseline                       98.099375
+Name: 399, dtype: object
+2024-07-04 11:48:58 LogWrapper init()./logs/NZD_JPY.log
+2024-07-04 11:49:00 Last candle data: instrument                       NZD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              98.634
+High                              98.732
+Low                               98.576
+Close                             98.672
+smaHigh                          98.1662
+smaLow                           97.6629
+sslDown                          97.6629
+sslUp                            98.1662
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.596386
+atrup                          99.268386
+atrdown                        98.075614
+SL                             97.777421
+TP                             99.268386
+baseline                          98.097
+Name: 399, dtype: object
+2024-07-04 11:51:52 LogWrapper init()./logs/NZD_JPY.log
+2024-07-04 11:51:54 Last candle data: instrument                       NZD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              98.634
+High                              98.732
+Low                               98.576
+Close                              98.66
+smaHigh                          98.1662
+smaLow                           97.6629
+sslDown                          97.6629
+sslUp                            98.1662
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.596386
+atrup                          99.256386
+atrdown                        98.063614
+SL                             97.765421
+TP                             99.256386
+baseline                         98.0955
+Name: 399, dtype: object

@@ -14538,3 +14538,95 @@ SL                              1.462374
 TP                              1.477051
 baseline                        1.468275
 Name: 399, dtype: object
+2024-07-04 11:43:20 LogWrapper init()./logs/EUR_CAD.log
+2024-07-04 11:43:21 Last candle data: instrument                       EUR_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.47101
+High                             1.47146
+Low                              1.47064
+Close                            1.47105
+smaHigh                         1.469983
+smaLow                          1.464469
+sslDown                         1.464469
+sslUp                           1.469983
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.005871
+atrup                           1.476921
+atrdown                         1.465179
+SL                              1.462244
+TP                              1.476921
+baseline                        1.468259
+Name: 399, dtype: object
+2024-07-04 11:44:18 LogWrapper init()./logs/EUR_CAD.log
+2024-07-04 11:44:19 Last candle data: instrument                       EUR_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.47101
+High                             1.47146
+Low                              1.47064
+Close                            1.47102
+smaHigh                         1.469983
+smaLow                          1.464469
+sslDown                         1.464469
+sslUp                           1.469983
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.005871
+atrup                           1.476891
+atrdown                         1.465149
+SL                              1.462214
+TP                              1.476891
+baseline                        1.468255
+Name: 399, dtype: object
+2024-07-04 11:48:47 LogWrapper init()./logs/EUR_CAD.log
+2024-07-04 11:48:48 Last candle data: instrument                       EUR_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.47101
+High                             1.47146
+Low                              1.47064
+Close                            1.47099
+smaHigh                         1.469983
+smaLow                          1.464469
+sslDown                         1.464469
+sslUp                           1.469983
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.005871
+atrup                           1.476861
+atrdown                         1.465119
+SL                              1.462184
+TP                              1.476861
+baseline                        1.468251
+Name: 399, dtype: object
+2024-07-04 11:51:41 LogWrapper init()./logs/EUR_CAD.log
+2024-07-04 11:51:42 Last candle data: instrument                       EUR_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.47101
+High                             1.47146
+Low                              1.47064
+Close                            1.47101
+smaHigh                         1.469983
+smaLow                          1.464469
+sslDown                         1.464469
+sslUp                           1.469983
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.005871
+atrup                           1.476881
+atrdown                         1.465139
+SL                              1.462204
+TP                              1.476881
+baseline                        1.468254
+Name: 399, dtype: object

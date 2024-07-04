@@ -14518,3 +14518,95 @@ SL                              1.884208
 TP                              1.908094
 baseline                        1.900726
 Name: 399, dtype: object
+2024-07-04 11:43:21 LogWrapper init()./logs/GBP_AUD.log
+2024-07-04 11:43:22 Last candle data: instrument                       GBP_AUD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.90054
+High                             1.90124
+Low                              1.89742
+Close                            1.89776
+smaHigh                         1.906112
+smaLow                          1.896575
+sslDown                         1.896575
+sslUp                           1.906112
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.009554
+atrup                           1.907314
+atrdown                         1.888206
+SL                              1.883428
+TP                              1.907314
+baseline                        1.900629
+Name: 399, dtype: object
+2024-07-04 11:44:19 LogWrapper init()./logs/GBP_AUD.log
+2024-07-04 11:44:21 Last candle data: instrument                       GBP_AUD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.90054
+High                             1.90124
+Low                              1.89742
+Close                            1.89758
+smaHigh                         1.906112
+smaLow                          1.896575
+sslDown                         1.896575
+sslUp                           1.906112
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.009554
+atrup                           1.907134
+atrdown                         1.888026
+SL                              1.883248
+TP                              1.907134
+baseline                        1.900606
+Name: 399, dtype: object
+2024-07-04 11:48:48 LogWrapper init()./logs/GBP_AUD.log
+2024-07-04 11:48:49 Last candle data: instrument                       GBP_AUD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.90054
+High                             1.90124
+Low                              1.89739
+Close                             1.8978
+smaHigh                         1.906112
+smaLow                          1.896572
+sslDown                         1.896572
+sslUp                           1.906112
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.009557
+atrup                           1.907357
+atrdown                         1.888243
+SL                              1.883465
+TP                              1.907357
+baseline                        1.900634
+Name: 399, dtype: object
+2024-07-04 11:51:42 LogWrapper init()./logs/GBP_AUD.log
+2024-07-04 11:51:43 Last candle data: instrument                       GBP_AUD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             1.90054
+High                             1.90124
+Low                              1.89739
+Close                            1.89813
+smaHigh                         1.906112
+smaLow                          1.896572
+sslDown                         1.896572
+sslUp                           1.906112
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.009557
+atrup                           1.907687
+atrdown                         1.888573
+SL                              1.883795
+TP                              1.907687
+baseline                        1.900675
+Name: 399, dtype: object

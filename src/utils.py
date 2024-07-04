@@ -1,22 +1,30 @@
 import os 
 import sys
+import pandas as pd
+import numpy as np
+import logging
 
+logging.basicConfig(filename='trade_log.log', level=logging.INFO, 
+                    format='%(asctime)s:%(levelname)s:%(message)s')
 
+# Configure logging for oandapyV20 library
+logger = logging.getLogger('oandapyV20')
+logger.setLevel(logging.CRITICAL)
 
 def save_all_candle_data(candle_data_all):
     new_data_df = pd.DataFrame(candle_data_all)
     try:
-        if os.path.exists('datas/candle_data_all.csv'):
-            existing_data_df = pd.read_csv('datas/candle_data_all.csv')
+        if os.path.exists('all_data/candle_data_all.csv'):
+            existing_data_df = pd.read_csv('all_data/candle_data_all.csv')
             combined_data_df = pd.concat([existing_data_df, new_data_df], ignore_index=True)
         else:
             combined_data_df = new_data_df
 
-        combined_data_df.to_csv('datas/candle_data_all.csv', index=False)
+        combined_data_df.to_csv('all_data/candle_data_all.csv', index=False)
         logging.info("Candle data saved to candle_data_all.csv.")
     except PermissionError as e:
         logging.error(f"Permission error saving candle data to CSV: {e}")
-        alternative_filename = 'datas/backup/candle_data_backup.csv'
+        alternative_filename = 'all_data/backup/candle_data_backup.csv'
         combined_data_df.to_csv(alternative_filename, index=False)
         logging.info(f"Backup candle data saved to {alternative_filename}.")
 

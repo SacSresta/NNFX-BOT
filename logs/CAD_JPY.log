@@ -13677,3 +13677,49 @@ SL                            117.343484
 TP                            119.062678
 baseline                         117.724
 Name: 399, dtype: object
+2024-07-04 11:49:07 LogWrapper init()./logs/CAD_JPY.log
+2024-07-04 11:49:08 Last candle data: instrument                       CAD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             118.518
+High                              118.58
+Low                              118.262
+Close                            118.371
+smaHigh                         117.6675
+smaLow                          117.0578
+sslDown                         117.0578
+sslUp                           117.6675
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.687678
+atrup                         119.058678
+atrdown                       117.683322
+SL                            117.339484
+TP                            119.058678
+baseline                        117.7235
+Name: 399, dtype: object
+2024-07-04 11:52:01 LogWrapper init()./logs/CAD_JPY.log
+2024-07-04 11:52:03 Last candle data: instrument                       CAD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             118.518
+High                              118.58
+Low                              118.262
+Close                            118.376
+smaHigh                         117.6675
+smaLow                          117.0578
+sslDown                         117.0578
+sslUp                           117.6675
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.687678
+atrup                         119.063678
+atrdown                       117.688322
+SL                            117.344484
+TP                            119.063678
+baseline                      117.724125
+Name: 399, dtype: object

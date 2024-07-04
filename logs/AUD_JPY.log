@@ -13698,3 +13698,95 @@ SL                             107.31674
 TP                            109.120507
 baseline                      107.406875
 Name: 399, dtype: object
+2024-07-04 11:43:29 LogWrapper init()./logs/AUD_JPY.log
+2024-07-04 11:43:30 Last candle data: instrument                       AUD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             108.396
+High                             108.506
+Low                              108.287
+Close                            108.409
+smaHigh                         107.2981
+smaLow                          106.6546
+sslDown                         106.6546
+sslUp                           107.2981
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.721507
+atrup                         109.130507
+atrdown                       107.687493
+SL                             107.32674
+TP                            109.130507
+baseline                      107.408125
+Name: 399, dtype: object
+2024-07-04 11:44:27 LogWrapper init()./logs/AUD_JPY.log
+2024-07-04 11:44:28 Last candle data: instrument                       AUD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             108.396
+High                             108.506
+Low                              108.287
+Close                            108.438
+smaHigh                         107.2981
+smaLow                          106.6546
+sslDown                         106.6546
+sslUp                           107.2981
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.721507
+atrup                         109.159507
+atrdown                       107.716493
+SL                             107.35574
+TP                            109.159507
+baseline                       107.41175
+Name: 399, dtype: object
+2024-07-04 11:48:55 LogWrapper init()./logs/AUD_JPY.log
+2024-07-04 11:48:56 Last candle data: instrument                       AUD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             108.396
+High                             108.506
+Low                              108.287
+Close                             108.41
+smaHigh                         107.2981
+smaLow                          106.6546
+sslDown                         106.6546
+sslUp                           107.2981
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.721507
+atrup                         109.131507
+atrdown                       107.688493
+SL                             107.32774
+TP                            109.131507
+baseline                       107.40825
+Name: 399, dtype: object
+2024-07-04 11:51:49 LogWrapper init()./logs/AUD_JPY.log
+2024-07-04 11:51:50 Last candle data: instrument                       AUD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             108.396
+High                             108.506
+Low                              108.287
+Close                            108.398
+smaHigh                         107.2981
+smaLow                          106.6546
+sslDown                         106.6546
+sslUp                           107.2981
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.721507
+atrup                         109.119507
+atrdown                       107.676493
+SL                             107.31574
+TP                            109.119507
+baseline                       107.40675
+Name: 399, dtype: object

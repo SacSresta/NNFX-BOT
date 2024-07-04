@@ -13706,3 +13706,95 @@ SL                              0.908908
 TP                              0.920161
 baseline                        0.912334
 Name: 399, dtype: object
+2024-07-04 11:43:31 LogWrapper init()./logs/AUD_CAD.log
+2024-07-04 11:43:32 Last candle data: instrument                       AUD_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.91454
+High                             0.91594
+Low                               0.9141
+Close                            0.91592
+smaHigh                          0.91401
+smaLow                          0.909695
+sslDown                         0.909695
+sslUp                            0.91401
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00451
+atrup                            0.92043
+atrdown                          0.91141
+SL                              0.909155
+TP                               0.92043
+baseline                        0.912366
+Name: 399, dtype: object
+2024-07-04 11:44:29 LogWrapper init()./logs/AUD_CAD.log
+2024-07-04 11:44:31 Last candle data: instrument                       AUD_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.91454
+High                             0.91599
+Low                               0.9141
+Close                            0.91598
+smaHigh                         0.914015
+smaLow                          0.909695
+sslDown                         0.909695
+sslUp                           0.914015
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004513
+atrup                           0.920493
+atrdown                         0.911467
+SL                               0.90921
+TP                              0.920493
+baseline                        0.912374
+Name: 399, dtype: object
+2024-07-04 11:48:57 LogWrapper init()./logs/AUD_CAD.log
+2024-07-04 11:48:58 Last candle data: instrument                       AUD_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.91454
+High                             0.91608
+Low                               0.9141
+Close                            0.91583
+smaHigh                         0.914024
+smaLow                          0.909695
+sslDown                         0.909695
+sslUp                           0.914024
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00452
+atrup                            0.92035
+atrdown                          0.91131
+SL                               0.90905
+TP                               0.92035
+baseline                        0.912355
+Name: 399, dtype: object
+2024-07-04 11:51:51 LogWrapper init()./logs/AUD_CAD.log
+2024-07-04 11:51:52 Last candle data: instrument                       AUD_CAD
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.91454
+High                             0.91608
+Low                               0.9141
+Close                            0.91566
+smaHigh                         0.914024
+smaLow                          0.909695
+sslDown                         0.909695
+sslUp                           0.914024
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00452
+atrup                            0.92018
+atrdown                          0.91114
+SL                               0.90888
+TP                               0.92018
+baseline                        0.912334
+Name: 399, dtype: object

@@ -13677,3 +13677,27 @@ SL                            177.821742
 TP                            180.038839
 baseline                      178.951625
 Name: 399, dtype: object
+2024-07-04 11:49:09 LogWrapper init()./logs/CHF_JPY.log
+2024-07-04 11:49:10 Last candle data: instrument                       CHF_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             179.361
+High                             179.422
+Low                              178.969
+Close                            179.142
+smaHigh                         179.1211
+smaLow                          178.3713
+sslDown                         178.3713
+sslUp                           179.1211
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.886839
+atrup                         180.028839
+atrdown                       178.255161
+SL                            177.811742
+TP                            180.028839
+baseline                      178.950375
+Name: 399, dtype: object
+2024-07-04 11:52:04 LogWrapper init()./logs/CHF_JPY.log

@@ -14922,3 +14922,95 @@ SL                            159.963802
 TP                            162.374132
 baseline                      161.026375
 Name: 399, dtype: object
+2024-07-04 11:43:06 LogWrapper init()./logs/USD_JPY.log
+2024-07-04 11:43:07 Last candle data: instrument                       USD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             161.624
+High                             161.676
+Low                              161.138
+Close                            161.357
+smaHigh                         160.9619
+smaLow                          160.0666
+sslDown                         160.0666
+sslUp                           160.9619
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.964132
+atrup                         162.321132
+atrdown                       160.392868
+SL                            159.910802
+TP                            162.321132
+baseline                       161.01975
+Name: 399, dtype: object
+2024-07-04 11:44:03 LogWrapper init()./logs/USD_JPY.log
+2024-07-04 11:44:05 Last candle data: instrument                       USD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             161.624
+High                             161.676
+Low                              161.138
+Close                            161.346
+smaHigh                         160.9619
+smaLow                          160.0666
+sslDown                         160.0666
+sslUp                           160.9619
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.964132
+atrup                         162.310132
+atrdown                       160.381868
+SL                            159.899802
+TP                            162.310132
+baseline                      161.018375
+Name: 399, dtype: object
+2024-07-04 11:48:33 LogWrapper init()./logs/USD_JPY.log
+2024-07-04 11:48:34 Last candle data: instrument                       USD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             161.624
+High                             161.676
+Low                              161.138
+Close                            161.352
+smaHigh                         160.9619
+smaLow                          160.0666
+sslDown                         160.0666
+sslUp                           160.9619
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.964132
+atrup                         162.316132
+atrdown                       160.387868
+SL                            159.905802
+TP                            162.316132
+baseline                      161.019125
+Name: 399, dtype: object
+2024-07-04 11:51:28 LogWrapper init()./logs/USD_JPY.log
+2024-07-04 11:51:29 Last candle data: instrument                       USD_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             161.624
+High                             161.676
+Low                              161.138
+Close                            161.374
+smaHigh                         160.9619
+smaLow                          160.0666
+sslDown                         160.0666
+sslUp                           160.9619
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.964132
+atrup                         162.338132
+atrdown                       160.409868
+SL                            159.927802
+TP                            162.338132
+baseline                      161.021875
+Name: 399, dtype: object

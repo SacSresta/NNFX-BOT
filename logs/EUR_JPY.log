@@ -14588,3 +14588,95 @@ SL                            172.570763
 TP                            175.222824
 baseline                      172.862625
 Name: 399, dtype: object
+2024-07-04 11:43:17 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:43:18 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                            174.118
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.178824
+atrdown                       173.057176
+SL                            172.526763
+TP                            175.178824
+baseline                      172.857125
+Name: 399, dtype: object
+2024-07-04 11:44:15 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:44:17 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                            174.142
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.202824
+atrdown                       173.081176
+SL                            172.550763
+TP                            175.202824
+baseline                      172.860125
+Name: 399, dtype: object
+2024-07-04 11:48:44 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:48:45 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                            174.132
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.192824
+atrdown                       173.071176
+SL                            172.540763
+TP                            175.192824
+baseline                      172.858875
+Name: 399, dtype: object
+2024-07-04 11:51:39 LogWrapper init()./logs/EUR_JPY.log
+2024-07-04 11:51:40 Last candle data: instrument                       EUR_JPY
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                              174.32
+High                             174.438
+Low                              173.946
+Close                            174.139
+smaHigh                         172.6417
+smaLow                          171.7073
+sslDown                         171.7073
+sslUp                           172.6417
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.060824
+atrup                         175.199824
+atrdown                       173.078176
+SL                            172.547763
+TP                            175.199824
+baseline                       172.85975
+Name: 399, dtype: object

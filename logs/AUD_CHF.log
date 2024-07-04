@@ -15588,3 +15588,95 @@ SL                              0.599356
 TP                              0.608829
 baseline                        0.600199
 Name: 399, dtype: object
+2024-07-04 11:43:30 LogWrapper init()./logs/AUD_CHF.log
+2024-07-04 11:43:31 Last candle data: instrument                       AUD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.60455
+High                             0.60528
+Low                              0.60412
+Close                            0.60526
+smaHigh                         0.600253
+smaLow                          0.596834
+sslDown                         0.596834
+sslUp                           0.600253
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003794
+atrup                           0.609054
+atrdown                         0.601466
+SL                               0.59957
+TP                              0.609054
+baseline                        0.600226
+Name: 399, dtype: object
+2024-07-04 11:44:28 LogWrapper init()./logs/AUD_CHF.log
+2024-07-04 11:44:29 Last candle data: instrument                       AUD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.60455
+High                             0.60535
+Low                              0.60412
+Close                            0.60533
+smaHigh                          0.60026
+smaLow                          0.596834
+sslDown                         0.596834
+sslUp                            0.60026
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003799
+atrup                           0.609129
+atrdown                         0.601531
+SL                              0.599632
+TP                              0.609129
+baseline                        0.600235
+Name: 399, dtype: object
+2024-07-04 11:48:56 LogWrapper init()./logs/AUD_CHF.log
+2024-07-04 11:48:57 Last candle data: instrument                       AUD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.60455
+High                             0.60542
+Low                              0.60412
+Close                            0.60516
+smaHigh                         0.600267
+smaLow                          0.596834
+sslDown                         0.596834
+sslUp                           0.600267
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003804
+atrup                           0.608964
+atrdown                         0.601356
+SL                              0.599455
+TP                              0.608964
+baseline                        0.600214
+Name: 399, dtype: object
+2024-07-04 11:51:50 LogWrapper init()./logs/AUD_CHF.log
+2024-07-04 11:51:51 Last candle data: instrument                       AUD_CHF
+Time           2024-07-04 07:00:00+10:00
+granularity                            D
+Open                             0.60455
+High                             0.60542
+Low                              0.60412
+Close                            0.60508
+smaHigh                         0.600267
+smaLow                          0.596834
+sslDown                         0.596834
+sslUp                           0.600267
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.003804
+atrup                           0.608884
+atrdown                         0.601276
+SL                              0.599375
+TP                              0.608884
+baseline                        0.600204
+Name: 399, dtype: object
