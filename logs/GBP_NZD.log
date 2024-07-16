@@ -14633,3 +14633,394 @@ SL                              2.071296
 TP                              2.094903
 baseline                        2.080489
 Name: 399, dtype: object
+2024-07-15 15:32:49 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:32:51 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12689
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137078
+atrdown                         2.116702
+SL                              2.111608
+TP                              2.137078
+baseline                        2.103817
+Name: 399, dtype: object
+2024-07-15 15:34:29 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:34:29 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:34:30 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12684
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137028
+atrdown                         2.116652
+SL                              2.111558
+TP                              2.137028
+baseline                        2.103811
+Name: 399, dtype: object
+2024-07-15 15:34:30 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12684
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137028
+atrdown                         2.116652
+SL                              2.111558
+TP                              2.137028
+baseline                        2.103811
+Name: 399, dtype: object
+2024-07-15 15:35:41 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:35:43 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                             2.1267
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.136888
+atrdown                         2.116512
+SL                              2.111418
+TP                              2.136888
+baseline                        2.103794
+Name: 399, dtype: object
+2024-07-15 15:37:18 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:37:18 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:37:19 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12688
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137068
+atrdown                         2.116692
+SL                              2.111598
+TP                              2.137068
+baseline                        2.103816
+Name: 399, dtype: object
+2024-07-15 15:37:19 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12688
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137068
+atrdown                         2.116692
+SL                              2.111598
+TP                              2.137068
+baseline                        2.103816
+Name: 399, dtype: object
+2024-07-15 15:38:55 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:38:56 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12688
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137068
+atrdown                         2.116692
+SL                              2.111598
+TP                              2.137068
+baseline                        2.103816
+Name: 399, dtype: object
+2024-07-15 15:43:31 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:43:32 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12684
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137028
+atrdown                         2.116652
+SL                              2.111558
+TP                              2.137028
+baseline                        2.103811
+Name: 399, dtype: object
+2024-07-15 15:45:06 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:45:06 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:45:08 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12692
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137108
+atrdown                         2.116732
+SL                              2.111638
+TP                              2.137108
+baseline                        2.103821
+Name: 399, dtype: object
+2024-07-15 15:45:08 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12692
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137108
+atrdown                         2.116732
+SL                              2.111638
+TP                              2.137108
+baseline                        2.103821
+Name: 399, dtype: object
+2024-07-15 15:46:41 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:46:41 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:46:41 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:46:42 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12678
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.136968
+atrdown                         2.116592
+SL                              2.111498
+TP                              2.136968
+baseline                        2.103804
+Name: 399, dtype: object
+2024-07-15 15:46:42 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12678
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.136968
+atrdown                         2.116592
+SL                              2.111498
+TP                              2.136968
+baseline                        2.103804
+Name: 399, dtype: object
+2024-07-15 15:46:42 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12678
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.136968
+atrdown                         2.116592
+SL                              2.111498
+TP                              2.136968
+baseline                        2.103804
+Name: 399, dtype: object
+2024-07-15 15:47:04 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:47:05 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12699
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137178
+atrdown                         2.116802
+SL                              2.111708
+TP                              2.137178
+baseline                         2.10383
+Name: 399, dtype: object
+2024-07-15 15:47:28 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:47:29 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             2.12332
+High                             2.12853
+Low                               2.1222
+Close                            2.12698
+smaHigh                         2.103835
+smaLow                          2.093518
+sslDown                         2.093518
+sslUp                           2.103835
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.010188
+atrup                           2.137168
+atrdown                         2.116792
+SL                              2.111698
+TP                              2.137168
+baseline                        2.103829
+Name: 399, dtype: object
+2024-07-15 15:53:02 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:53:03 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                              2.1269
+High                             2.12694
+Low                               2.1269
+Close                             2.1269
+smaHigh                         2.126993
+smaLow                          2.126817
+sslDown                         2.126817
+sslUp                           2.126993
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000164
+atrup                           2.127064
+atrdown                         2.126736
+SL                              2.126654
+TP                              2.127064
+baseline                         2.12695
+Name: 399, dtype: object
+2024-07-15 15:54:58 LogWrapper init()./logs/GBP_NZD.log
+2024-07-15 15:54:59 Last candle data: instrument                       GBP_NZD
+Time           2024-07-15 15:55:00+10:00
+granularity                           M1
+Open                             2.12694
+High                             2.12694
+Low                              2.12694
+Close                            2.12694
+smaHigh                         2.127004
+smaLow                          2.126845
+sslDown                         2.126845
+sslUp                           2.127004
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000154
+atrup                           2.127094
+atrdown                         2.126786
+SL                              2.126709
+TP                              2.127094
+baseline                        2.126929
+Name: 399, dtype: object

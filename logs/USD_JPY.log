@@ -15014,3 +15014,486 @@ SL                            159.927802
 TP                            162.338132
 baseline                      161.021875
 Name: 399, dtype: object
+2024-07-15 15:32:31 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:32:33 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.934
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.127508
+atrdown                       156.740492
+SL                            159.724261
+TP                            156.740492
+baseline                      160.081875
+Name: 399, dtype: object
+2024-07-15 15:34:11 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:34:11 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:34:13 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                             157.92
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.113508
+atrdown                       156.726492
+SL                            159.710261
+TP                            156.726492
+baseline                      160.080125
+Name: 399, dtype: object
+2024-07-15 15:34:13 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                             157.92
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.113508
+atrdown                       156.726492
+SL                            159.710261
+TP                            156.726492
+baseline                      160.080125
+Name: 399, dtype: object
+2024-07-15 15:34:49 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:34:51 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.907
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.100508
+atrdown                       156.713492
+SL                            159.697261
+TP                            156.713492
+baseline                        160.0785
+Name: 399, dtype: object
+2024-07-15 15:35:25 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:35:26 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.898
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.091508
+atrdown                       156.704492
+SL                            159.688261
+TP                            156.704492
+baseline                      160.077375
+Name: 399, dtype: object
+2024-07-15 15:37:03 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:37:03 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:37:04 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.923
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.116508
+atrdown                       156.729492
+SL                            159.713261
+TP                            156.729492
+baseline                        160.0805
+Name: 399, dtype: object
+2024-07-15 15:37:04 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.923
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.116508
+atrdown                       156.729492
+SL                            159.713261
+TP                            156.729492
+baseline                        160.0805
+Name: 399, dtype: object
+2024-07-15 15:38:38 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:38:39 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.947
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.140508
+atrdown                       156.753492
+SL                            159.737261
+TP                            156.753492
+baseline                        160.0835
+Name: 399, dtype: object
+2024-07-15 15:43:15 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:43:16 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.946
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.139508
+atrdown                       156.752492
+SL                            159.736261
+TP                            156.752492
+baseline                      160.083375
+Name: 399, dtype: object
+2024-07-15 15:44:50 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:44:50 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:44:51 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.956
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.149508
+atrdown                       156.762492
+SL                            159.746261
+TP                            156.762492
+baseline                      160.084625
+Name: 399, dtype: object
+2024-07-15 15:44:51 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.956
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.149508
+atrdown                       156.762492
+SL                            159.746261
+TP                            156.762492
+baseline                      160.084625
+Name: 399, dtype: object
+2024-07-15 15:46:25 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:46:25 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:46:25 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:46:26 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.946
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.139508
+atrdown                       156.752492
+SL                            159.736261
+TP                            156.752492
+baseline                      160.083375
+Name: 399, dtype: object
+2024-07-15 15:46:26 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.946
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.139508
+atrdown                       156.752492
+SL                            159.736261
+TP                            156.752492
+baseline                      160.083375
+Name: 399, dtype: object
+2024-07-15 15:46:26 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.946
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.139508
+atrdown                       156.752492
+SL                            159.736261
+TP                            156.752492
+baseline                      160.083375
+Name: 399, dtype: object
+2024-07-15 15:46:50 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:46:51 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.943
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.136508
+atrdown                       156.749492
+SL                            159.733261
+TP                            156.749492
+baseline                         160.083
+Name: 399, dtype: object
+2024-07-15 15:47:14 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:47:15 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             158.128
+High                             158.426
+Low                              157.832
+Close                            157.957
+smaHigh                         161.0852
+smaLow                          159.8207
+sslDown                         161.0852
+sslUp                           159.8207
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.193508
+atrup                         159.150508
+atrdown                       156.763492
+SL                            159.747261
+TP                            156.763492
+baseline                       160.08475
+Name: 399, dtype: object
+2024-07-15 15:47:56 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:47:58 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 15:48:00+10:00
+granularity                           M1
+Open                             157.956
+High                             157.956
+Low                              157.954
+Close                            157.954
+smaHigh                         157.9474
+smaLow                          157.9337
+sslDown                         157.9337
+sslUp                           157.9474
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.014621
+atrup                         157.968621
+atrdown                       157.939379
+SL                            157.932068
+TP                            157.968621
+baseline                       157.94525
+Name: 399, dtype: object
+2024-07-15 15:52:48 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:52:49 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 15:52:00+10:00
+granularity                           M1
+Open                             157.968
+High                             157.972
+Low                              157.954
+Close                            157.958
+smaHigh                          157.961
+smaLow                          157.9436
+sslDown                         157.9436
+sslUp                            157.961
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.017685
+atrup                         157.975685
+atrdown                       157.940315
+SL                            157.931473
+TP                            157.975685
+baseline                      157.954625
+Name: 399, dtype: object
+2024-07-15 15:54:28 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:54:28 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:54:29 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             157.959
+High                             157.968
+Low                              157.958
+Close                            157.959
+smaHigh                         157.9633
+smaLow                          157.9472
+sslDown                         157.9472
+sslUp                           157.9633
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.016361
+atrup                         157.975361
+atrdown                       157.942639
+SL                            157.934459
+TP                            157.975361
+baseline                      157.957125
+Name: 399, dtype: object
+2024-07-15 15:54:29 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             157.959
+High                             157.968
+Low                              157.958
+Close                            157.959
+smaHigh                         157.9633
+smaLow                          157.9472
+sslDown                         157.9472
+sslUp                           157.9633
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.016361
+atrup                         157.975361
+atrdown                       157.942639
+SL                            157.934459
+TP                            157.975361
+baseline                      157.957125
+Name: 399, dtype: object
+2024-07-15 15:54:39 LogWrapper init()./logs/USD_JPY.log
+2024-07-15 15:54:40 Last candle data: instrument                       USD_JPY
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             157.959
+High                             157.968
+Low                              157.958
+Close                            157.958
+smaHigh                         157.9633
+smaLow                          157.9472
+sslDown                         157.9472
+sslUp                           157.9633
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.016361
+atrup                         157.974361
+atrdown                       157.941639
+SL                            157.933459
+TP                            157.974361
+baseline                         157.957
+Name: 399, dtype: object

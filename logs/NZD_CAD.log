@@ -13815,3 +13815,304 @@ baseline                        0.833527
 Name: 399, dtype: object
 2024-07-04 11:51:57 Order for id: 33658 for 37656 units of pair NZD_CAD is getting closed as it was opened before.
 2024-07-04 11:52:01 Order placed for NZD_CAD. Side: buy, Time: 2024-07-04 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '33665', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33665', 'requestID': '79272039858060455', 'time': '2024-07-04T01:52:01.548792000Z', 'type': 'MARKET_ORDER', 'instrument': 'NZD_CAD', 'units': '37609', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.83757', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.82700', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '33666', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33665', 'requestID': '79272039858060455', 'time': '2024-07-04T01:52:01.548792000Z', 'type': 'ORDER_FILL', 'orderID': '33665', 'instrument': 'NZD_CAD', 'units': '37609', 'requestedUnits': '37609', 'price': '0.83358', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '14216.3748', 'gainQuoteHomeConversionFactor': '1.086671628165', 'lossQuoteHomeConversionFactor': '1.097592951061', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.7235', 'fullVWAP': '0.83358', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.83358', 'tradeID': '33666', 'units': '37609', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.7235', 'initialMarginRequired': '1711.6318'}, 'fullPrice': {'closeoutBid': '0.83138', 'closeoutAsk': '0.83557', 'timestamp': '2024-07-04T01:51:58.007184605Z', 'bids': [{'price': '0.83335', 'liquidity': '462344'}, {'price': '0.83333', 'liquidity': '500000'}, {'price': '0.83332', 'liquidity': '2000000'}, {'price': '0.83329', 'liquidity': '2000000'}, {'price': '0.83326', 'liquidity': '5000000'}], 'asks': [{'price': '0.83358', 'liquidity': '500000'}, {'price': '0.83360', 'liquidity': '500000'}, {'price': '0.83362', 'liquidity': '2000000'}, {'price': '0.83365', 'liquidity': '2000000'}, {'price': '0.83368', 'liquidity': '5000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.08667162816499'}, 'lossQuoteHome': {'factor': '1.09759295106113'}, 'gainBaseHome': {'factor': '0.90567343713867'}, 'lossBaseHome': {'factor': '0.91477568273805'}}}, 'relatedTransactionIDs': ['33665', '33666', '33667', '33668'], 'lastTransactionID': '33668'}, Units: 37609.46754
+2024-07-15 15:33:05 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:33:06 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83318
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837677
+atrdown                         0.828683
+SL                              0.826435
+TP                              0.837677
+baseline                        0.833424
+Name: 399, dtype: object
+2024-07-15 15:34:41 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:34:41 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:34:43 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83318
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837677
+atrdown                         0.828683
+SL                              0.826435
+TP                              0.837677
+baseline                        0.833424
+Name: 399, dtype: object
+2024-07-15 15:34:43 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83318
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837677
+atrdown                         0.828683
+SL                              0.826435
+TP                              0.837677
+baseline                        0.833424
+Name: 399, dtype: object
+2024-07-15 15:35:56 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:35:57 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83316
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837657
+atrdown                         0.828663
+SL                              0.826415
+TP                              0.837657
+baseline                        0.833421
+Name: 399, dtype: object
+2024-07-15 15:37:30 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:37:30 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:37:33 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83316
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837657
+atrdown                         0.828663
+SL                              0.826415
+TP                              0.837657
+baseline                        0.833421
+Name: 399, dtype: object
+2024-07-15 15:37:33 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83316
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837657
+atrdown                         0.828663
+SL                              0.826415
+TP                              0.837657
+baseline                        0.833421
+Name: 399, dtype: object
+2024-07-15 15:39:10 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:39:12 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83318
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837677
+atrdown                         0.828683
+SL                              0.826435
+TP                              0.837677
+baseline                        0.833424
+Name: 399, dtype: object
+2024-07-15 15:43:43 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:43:45 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83322
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837717
+atrdown                         0.828723
+SL                              0.826475
+TP                              0.837717
+baseline                        0.833429
+Name: 399, dtype: object
+2024-07-15 15:45:19 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:45:19 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:45:20 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                             0.8332
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837697
+atrdown                         0.828703
+SL                              0.826455
+TP                              0.837697
+baseline                        0.833426
+Name: 399, dtype: object
+2024-07-15 15:45:20 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                             0.8332
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837697
+atrdown                         0.828703
+SL                              0.826455
+TP                              0.837697
+baseline                        0.833426
+Name: 399, dtype: object
+2024-07-15 15:47:39 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:47:40 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             0.83354
+High                             0.83403
+Low                              0.83158
+Close                            0.83306
+smaHigh                         0.835541
+smaLow                          0.830789
+sslDown                         0.830789
+sslUp                           0.835541
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004497
+atrup                           0.837557
+atrdown                         0.828563
+SL                              0.826315
+TP                              0.837557
+baseline                        0.833409
+Name: 399, dtype: object
+2024-07-15 15:53:17 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:53:19 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                             0.83306
+High                              0.8331
+Low                              0.83306
+Close                             0.8331
+smaHigh                         0.833134
+smaLow                          0.833076
+sslDown                         0.833076
+sslUp                           0.833134
+Position                             buy
+SIGNAL                              True
+SSL_BUY                             True
+SSL_SELL                           False
+ATR                             0.000056
+atrup                           0.833156
+atrdown                         0.833044
+SL                              0.833017
+TP                              0.833156
+baseline                        0.833074
+Name: 399, dtype: object
+2024-07-15 15:53:23 Order placed for NZD_CAD. Side: buy, Time: 2024-07-15 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '33986', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33986', 'requestID': '79276086889014724', 'time': '2024-07-15T05:53:28.120891911Z', 'type': 'MARKET_ORDER', 'instrument': 'NZD_CAD', 'units': '32581', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.83764', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.82596', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '33987', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33986', 'requestID': '79276086889014724', 'time': '2024-07-15T05:53:28.120891911Z', 'type': 'ORDER_FILL', 'orderID': '33986', 'instrument': 'NZD_CAD', 'units': '32581', 'requestedUnits': '32581', 'price': '0.83322', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '13787.7389', 'gainQuoteHomeConversionFactor': '1.075437346848', 'lossQuoteHomeConversionFactor': '1.086245762394', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.2258', 'fullVWAP': '0.83322', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.83322', 'tradeID': '33987', 'units': '32581', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.2258', 'initialMarginRequired': '1466.8462'}, 'fullPrice': {'closeoutBid': '0.83200', 'closeoutAsk': '0.83421', 'timestamp': '2024-07-15T05:53:17.379994706Z', 'bids': [{'price': '0.83298', 'liquidity': '500000'}, {'price': '0.83296', 'liquidity': '500000'}, {'price': '0.83295', 'liquidity': '2000000'}, {'price': '0.83292', 'liquidity': '2000000'}, {'price': '0.83289', 'liquidity': '5000000'}, {'price': '0.83269', 'liquidity': '10000000'}, {'price': '0.83251', 'liquidity': '10000000'}, {'price': '0.83200', 'liquidity': '20000000'}], 'asks': [{'price': '0.83322', 'liquidity': '500000'}, {'price': '0.83324', 'liquidity': '500000'}, {'price': '0.83326', 'liquidity': '2000000'}, {'price': '0.83329', 'liquidity': '2000000'}, {'price': '0.83332', 'liquidity': '5000000'}, {'price': '0.83352', 'liquidity': '10000000'}, {'price': '0.83370', 'liquidity': '10000000'}, {'price': '0.83421', 'liquidity': '20000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.07543734684794'}, 'lossQuoteHome': {'factor': '1.08624576239416'}, 'gainBaseHome': {'factor': '0.89592826598136'}, 'lossBaseHome': {'factor': '0.90493257016208'}}}, 'relatedTransactionIDs': ['33986', '33987', '33988', '33989'], 'lastTransactionID': '33989'}, Units: 32580.78858
+2024-07-15 15:55:19 LogWrapper init()./logs/NZD_CAD.log
+2024-07-15 15:55:20 Last candle data: instrument                       NZD_CAD
+Time           2024-07-15 15:55:00+10:00
+granularity                           M1
+Open                              0.8331
+High                             0.83312
+Low                               0.8331
+Close                             0.8331
+smaHigh                         0.833109
+smaLow                          0.833055
+sslDown                         0.833055
+sslUp                           0.833109
+Position                             buy
+SIGNAL                              True
+SSL_BUY                             True
+SSL_SELL                           False
+ATR                             0.000054
+atrup                           0.833154
+atrdown                         0.833046
+SL                               0.83302
+TP                              0.833154
+baseline                        0.833074
+Name: 399, dtype: object
+2024-07-15 15:55:25 Order placed for NZD_CAD. Side: buy, Time: 2024-07-15 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '34014', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '34014', 'requestID': '79276087396598704', 'time': '2024-07-15T05:55:29.802860658Z', 'type': 'MARKET_ORDER', 'instrument': 'NZD_CAD', 'units': '32529', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '0.83767', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '0.82599', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '34015', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '34014', 'requestID': '79276087396598704', 'time': '2024-07-15T05:55:29.802860658Z', 'type': 'ORDER_FILL', 'orderID': '34014', 'instrument': 'NZD_CAD', 'units': '32529', 'requestedUnits': '32529', 'price': '0.83325', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '13765.2607', 'gainQuoteHomeConversionFactor': '1.075361796464', 'lossQuoteHomeConversionFactor': '1.08616945271', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.2187', 'fullVWAP': '0.83325', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '0.83325', 'tradeID': '34015', 'units': '32529', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.2187', 'initialMarginRequired': '1464.4193'}, 'fullPrice': {'closeoutBid': '0.83203', 'closeoutAsk': '0.83424', 'timestamp': '2024-07-15T05:55:27.027960368Z', 'bids': [{'price': '0.83301', 'liquidity': '500000'}, {'price': '0.83299', 'liquidity': '500000'}, {'price': '0.83298', 'liquidity': '2000000'}, {'price': '0.83295', 'liquidity': '2000000'}, {'price': '0.83292', 'liquidity': '5000000'}, {'price': '0.83272', 'liquidity': '10000000'}, {'price': '0.83254', 'liquidity': '10000000'}, {'price': '0.83203', 'liquidity': '20000000'}], 'asks': [{'price': '0.83325', 'liquidity': '500000'}, {'price': '0.83327', 'liquidity': '500000'}, {'price': '0.83329', 'liquidity': '2000000'}, {'price': '0.83332', 'liquidity': '2000000'}, {'price': '0.83335', 'liquidity': '5000000'}, {'price': '0.83355', 'liquidity': '10000000'}, {'price': '0.83373', 'liquidity': '10000000'}, {'price': '0.83424', 'liquidity': '20000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.07536179646367'}, 'lossQuoteHome': {'factor': '1.08616945270953'}, 'gainBaseHome': {'factor': '0.89587583125439'}, 'lossBaseHome': {'factor': '0.90487960845293'}}}, 'relatedTransactionIDs': ['34014', '34015', '34016', '34017'], 'lastTransactionID': '34017'}, Units: 32528.649999999998

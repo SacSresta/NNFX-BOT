@@ -14864,3 +14864,372 @@ SL                              1.092914
 TP                              1.102558
 baseline                         1.09465
 Name: 399, dtype: object
+2024-07-15 15:32:55 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:32:57 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11047
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114515
+atrdown                         1.106425
+SL                              1.104402
+TP                              1.114515
+baseline                        1.104524
+Name: 399, dtype: object
+2024-07-15 15:34:34 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:34:34 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:34:35 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11051
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114555
+atrdown                         1.106465
+SL                              1.104442
+TP                              1.114555
+baseline                        1.104529
+Name: 399, dtype: object
+2024-07-15 15:34:35 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11051
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114555
+atrdown                         1.106465
+SL                              1.104442
+TP                              1.114555
+baseline                        1.104529
+Name: 399, dtype: object
+2024-07-15 15:35:48 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:35:50 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11045
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114495
+atrdown                         1.106405
+SL                              1.104382
+TP                              1.114495
+baseline                        1.104521
+Name: 399, dtype: object
+2024-07-15 15:37:23 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:37:23 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:37:24 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11044
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114485
+atrdown                         1.106395
+SL                              1.104372
+TP                              1.114485
+baseline                         1.10452
+Name: 399, dtype: object
+2024-07-15 15:37:24 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11044
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114485
+atrdown                         1.106395
+SL                              1.104372
+TP                              1.114485
+baseline                         1.10452
+Name: 399, dtype: object
+2024-07-15 15:39:02 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:39:04 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11042
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114465
+atrdown                         1.106375
+SL                              1.104352
+TP                              1.114465
+baseline                        1.104518
+Name: 399, dtype: object
+2024-07-15 15:43:36 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:43:37 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11042
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114465
+atrdown                         1.106375
+SL                              1.104352
+TP                              1.114465
+baseline                        1.104518
+Name: 399, dtype: object
+2024-07-15 15:45:12 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:45:12 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:45:13 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11041
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114455
+atrdown                         1.106365
+SL                              1.104342
+TP                              1.114455
+baseline                        1.104516
+Name: 399, dtype: object
+2024-07-15 15:45:13 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11041
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114455
+atrdown                         1.106365
+SL                              1.104342
+TP                              1.114455
+baseline                        1.104516
+Name: 399, dtype: object
+2024-07-15 15:46:45 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:46:45 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:46:45 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:46:46 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11046
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114505
+atrdown                         1.106415
+SL                              1.104392
+TP                              1.114505
+baseline                        1.104522
+Name: 399, dtype: object
+2024-07-15 15:46:46 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11046
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114505
+atrdown                         1.106415
+SL                              1.104392
+TP                              1.114505
+baseline                        1.104522
+Name: 399, dtype: object
+2024-07-15 15:46:46 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11046
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114505
+atrdown                         1.106415
+SL                              1.104392
+TP                              1.114505
+baseline                        1.104522
+Name: 399, dtype: object
+2024-07-15 15:47:09 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:47:33 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:47:34 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.10871
+High                             1.11176
+Low                              1.10802
+Close                            1.11048
+smaHigh                         1.104526
+smaLow                          1.100699
+sslDown                         1.100699
+sslUp                           1.104526
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004045
+atrup                           1.114525
+atrdown                         1.106435
+SL                              1.104412
+TP                              1.114525
+baseline                        1.104525
+Name: 399, dtype: object
+2024-07-15 15:53:06 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:53:07 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                             1.11058
+High                              1.1106
+Low                              1.11057
+Close                             1.1106
+smaHigh                         1.110545
+smaLow                          1.110474
+sslDown                         1.110474
+sslUp                           1.110545
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000071
+atrup                           1.110671
+atrdown                         1.110529
+SL                              1.110494
+TP                              1.110671
+baseline                        1.110549
+Name: 399, dtype: object
+2024-07-15 15:55:07 LogWrapper init()./logs/AUD_NZD.log
+2024-07-15 15:55:08 Last candle data: instrument                       AUD_NZD
+Time           2024-07-15 15:55:00+10:00
+granularity                           M1
+Open                              1.1106
+High                             1.11064
+Low                               1.1106
+Close                            1.11063
+smaHigh                         1.110583
+smaLow                          1.110518
+sslDown                         1.110518
+sslUp                           1.110583
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000067
+atrup                           1.110697
+atrdown                         1.110563
+SL                              1.110529
+TP                              1.110697
+baseline                        1.110577
+Name: 399, dtype: object

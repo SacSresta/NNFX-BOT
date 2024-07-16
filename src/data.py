@@ -16,6 +16,15 @@ class ForexData:
     def __init__(self, accountID=accountID, access_token=access_token):
         self.api = API(access_token=access_token)
         self.accountID = accountID
+    def tradable_instruments(self):
+        instruments = []
+        ins_list = accounts.AccountInstruments(self.accountID)
+        response = self.api.request(ins_list)
+        for i in response['instruments']:
+            if i['type'] == 'CURRENCY':
+                instruments.append(i['name'])
+
+        return instruments
 
     def fetch_data(self, instrument, count=5000, granularity="H1", price="MAB",price_type = "mid"):
         params = {

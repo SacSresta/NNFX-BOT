@@ -14680,3 +14680,394 @@ SL                            172.547763
 TP                            175.199824
 baseline                       172.85975
 Name: 399, dtype: object
+2024-07-15 15:32:43 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:32:45 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.064
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.270361
+atrdown                       170.857639
+SL                            173.873541
+TP                            170.857639
+baseline                      173.661375
+Name: 399, dtype: object
+2024-07-15 15:34:24 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:34:24 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:34:25 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.036
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.242361
+atrdown                       170.829639
+SL                            173.845541
+TP                            170.829639
+baseline                      173.657875
+Name: 399, dtype: object
+2024-07-15 15:34:25 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.036
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.242361
+atrdown                       170.829639
+SL                            173.845541
+TP                            170.829639
+baseline                      173.657875
+Name: 399, dtype: object
+2024-07-15 15:35:35 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:35:37 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.042
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.248361
+atrdown                       170.835639
+SL                            173.851541
+TP                            170.835639
+baseline                      173.658625
+Name: 399, dtype: object
+2024-07-15 15:37:14 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:37:14 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:37:15 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.041
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.247361
+atrdown                       170.834639
+SL                            173.850541
+TP                            170.834639
+baseline                        173.6585
+Name: 399, dtype: object
+2024-07-15 15:37:15 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.041
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.247361
+atrdown                       170.834639
+SL                            173.850541
+TP                            170.834639
+baseline                        173.6585
+Name: 399, dtype: object
+2024-07-15 15:38:49 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:38:50 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                             172.07
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.276361
+atrdown                       170.863639
+SL                            173.879541
+TP                            170.863639
+baseline                      173.662125
+Name: 399, dtype: object
+2024-07-15 15:43:26 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:43:27 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                             172.07
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.276361
+atrdown                       170.863639
+SL                            173.879541
+TP                            170.863639
+baseline                      173.662125
+Name: 399, dtype: object
+2024-07-15 15:45:02 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:45:02 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:45:03 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.079
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.285361
+atrdown                       170.872639
+SL                            173.888541
+TP                            170.872639
+baseline                       173.66325
+Name: 399, dtype: object
+2024-07-15 15:45:03 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.079
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.285361
+atrdown                       170.872639
+SL                            173.888541
+TP                            170.872639
+baseline                       173.66325
+Name: 399, dtype: object
+2024-07-15 15:46:36 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:46:36 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:46:36 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:46:37 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.072
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.278361
+atrdown                       170.865639
+SL                            173.881541
+TP                            170.865639
+baseline                      173.662375
+Name: 399, dtype: object
+2024-07-15 15:46:37 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.072
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.278361
+atrdown                       170.865639
+SL                            173.881541
+TP                            170.865639
+baseline                      173.662375
+Name: 399, dtype: object
+2024-07-15 15:46:37 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.072
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.278361
+atrdown                       170.865639
+SL                            173.881541
+TP                            170.865639
+baseline                      173.662375
+Name: 399, dtype: object
+2024-07-15 15:47:00 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:47:01 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                            172.086
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.292361
+atrdown                       170.879639
+SL                            173.895541
+TP                            170.879639
+baseline                      173.664125
+Name: 399, dtype: object
+2024-07-15 15:47:24 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:47:25 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             172.088
+High                             172.444
+Low                              171.966
+Close                             172.08
+smaHigh                         174.2755
+smaLow                          173.0953
+sslDown                         174.2755
+sslUp                           173.0953
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.206361
+atrup                         173.286361
+atrdown                       170.873639
+SL                            173.889541
+TP                            170.873639
+baseline                      173.663375
+Name: 399, dtype: object
+2024-07-15 15:52:57 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:52:59 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                             172.091
+High                             172.091
+Low                               172.09
+Close                             172.09
+smaHigh                         172.0898
+smaLow                          172.0747
+sslDown                         172.0747
+sslUp                           172.0898
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.017045
+atrup                         172.107045
+atrdown                       172.072955
+SL                            172.064433
+TP                            172.107045
+baseline                      172.085625
+Name: 399, dtype: object
+2024-07-15 15:54:54 LogWrapper init()./logs/EUR_JPY.log
+2024-07-15 15:54:55 Last candle data: instrument                       EUR_JPY
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             172.094
+High                             172.104
+Low                              172.094
+Close                            172.097
+smaHigh                          172.092
+smaLow                          172.0773
+sslDown                         172.0773
+sslUp                            172.092
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.01696
+atrup                          172.11396
+atrdown                        172.08004
+SL                             172.07156
+TP                             172.11396
+baseline                      172.087875
+Name: 399, dtype: object

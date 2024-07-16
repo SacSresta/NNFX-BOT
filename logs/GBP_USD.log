@@ -15634,3 +15634,490 @@ SL                              1.265513
 TP                              1.281425
 baseline                        1.267776
 Name: 399, dtype: object
+2024-07-15 15:32:33 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:32:34 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                             1.2977
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304128
+atrdown                         1.291272
+SL                              1.288058
+TP                              1.304128
+baseline                         1.28618
+Name: 399, dtype: object
+2024-07-15 15:34:13 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:34:13 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:34:14 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                             1.2977
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304128
+atrdown                         1.291272
+SL                              1.288058
+TP                              1.304128
+baseline                         1.28618
+Name: 399, dtype: object
+2024-07-15 15:34:14 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                             1.2977
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304128
+atrdown                         1.291272
+SL                              1.288058
+TP                              1.304128
+baseline                         1.28618
+Name: 399, dtype: object
+2024-07-15 15:34:51 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:34:52 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29772
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304148
+atrdown                         1.291292
+SL                              1.288078
+TP                              1.304148
+baseline                        1.286183
+Name: 399, dtype: object
+2024-07-15 15:35:26 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:35:27 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29768
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304108
+atrdown                         1.291252
+SL                              1.288038
+TP                              1.304108
+baseline                        1.286177
+Name: 399, dtype: object
+2024-07-15 15:37:04 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:37:04 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:37:05 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29759
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304018
+atrdown                         1.291162
+SL                              1.287948
+TP                              1.304018
+baseline                        1.286166
+Name: 399, dtype: object
+2024-07-15 15:37:05 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29759
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304018
+atrdown                         1.291162
+SL                              1.287948
+TP                              1.304018
+baseline                        1.286166
+Name: 399, dtype: object
+2024-07-15 15:38:39 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:38:40 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                             1.2975
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.303928
+atrdown                         1.291072
+SL                              1.287858
+TP                              1.303928
+baseline                        1.286155
+Name: 399, dtype: object
+2024-07-15 15:43:16 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:43:17 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                             1.2976
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304028
+atrdown                         1.291172
+SL                              1.287958
+TP                              1.304028
+baseline                        1.286168
+Name: 399, dtype: object
+2024-07-15 15:44:51 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:44:51 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:44:52 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29761
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304038
+atrdown                         1.291182
+SL                              1.287968
+TP                              1.304038
+baseline                        1.286169
+Name: 399, dtype: object
+2024-07-15 15:44:52 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29761
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.304038
+atrdown                         1.291182
+SL                              1.287968
+TP                              1.304038
+baseline                        1.286169
+Name: 399, dtype: object
+2024-07-15 15:46:26 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:46:26 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:46:26 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:46:28 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29744
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.303868
+atrdown                         1.291012
+SL                              1.287798
+TP                              1.303868
+baseline                        1.286147
+Name: 399, dtype: object
+2024-07-15 15:46:28 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29744
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.303868
+atrdown                         1.291012
+SL                              1.287798
+TP                              1.303868
+baseline                        1.286147
+Name: 399, dtype: object
+2024-07-15 15:46:28 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29744
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.303868
+atrdown                         1.291012
+SL                              1.287798
+TP                              1.303868
+baseline                        1.286147
+Name: 399, dtype: object
+2024-07-15 15:46:51 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:46:52 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                             1.2975
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.303928
+atrdown                         1.291072
+SL                              1.287858
+TP                              1.303928
+baseline                        1.286155
+Name: 399, dtype: object
+2024-07-15 15:47:15 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:47:16 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.29693
+High                              1.2984
+Low                               1.2962
+Close                            1.29744
+smaHigh                         1.284949
+smaLow                          1.278533
+sslDown                         1.278533
+sslUp                           1.284949
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.006428
+atrup                           1.303868
+atrdown                         1.291012
+SL                              1.287798
+TP                              1.303868
+baseline                        1.286147
+Name: 399, dtype: object
+2024-07-15 15:47:58 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:47:59 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 15:48:00+10:00
+granularity                           M1
+Open                              1.2974
+High                              1.2974
+Low                               1.2974
+Close                             1.2974
+smaHigh                         1.297549
+smaLow                          1.297483
+sslDown                         1.297549
+sslUp                           1.297483
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000068
+atrup                           1.297468
+atrdown                         1.297332
+SL                              1.297502
+TP                              1.297332
+baseline                        1.297508
+Name: 399, dtype: object
+2024-07-15 15:52:49 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:52:50 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 15:52:00+10:00
+granularity                           M1
+Open                              1.2974
+High                             1.29742
+Low                              1.29739
+Close                            1.29742
+smaHigh                         1.297515
+smaLow                          1.297435
+sslDown                         1.297515
+sslUp                           1.297435
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00007
+atrup                            1.29749
+atrdown                          1.29735
+SL                              1.297525
+TP                               1.29735
+baseline                        1.297431
+Name: 399, dtype: object
+2024-07-15 15:54:29 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:54:29 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:54:30 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.29742
+High                             1.29742
+Low                               1.2974
+Close                            1.29742
+smaHigh                         1.297476
+smaLow                          1.297397
+sslDown                         1.297397
+sslUp                           1.297476
+Position                             buy
+SIGNAL                              True
+SSL_BUY                             True
+SSL_SELL                           False
+ATR                             0.000064
+atrup                           1.297484
+atrdown                         1.297356
+SL                              1.297324
+TP                              1.297484
+baseline                        1.297416
+Name: 399, dtype: object
+2024-07-15 15:54:30 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.29742
+High                             1.29742
+Low                               1.2974
+Close                            1.29742
+smaHigh                         1.297476
+smaLow                          1.297397
+sslDown                         1.297397
+sslUp                           1.297476
+Position                             buy
+SIGNAL                              True
+SSL_BUY                             True
+SSL_SELL                           False
+ATR                             0.000064
+atrup                           1.297484
+atrdown                         1.297356
+SL                              1.297324
+TP                              1.297484
+baseline                        1.297416
+Name: 399, dtype: object
+2024-07-15 15:54:34 Order placed for GBP_USD. Side: buy, Time: 2024-07-15 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '33990', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33990', 'requestID': '61261688674390876', 'time': '2024-07-15T05:54:39.328339457Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_USD', 'units': '36692', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '1.30383', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '1.28757', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '33991', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33990', 'requestID': '61261688674390876', 'time': '2024-07-15T05:54:39.328339457Z', 'type': 'ORDER_FILL', 'orderID': '33990', 'instrument': 'GBP_USD', 'units': '36692', 'requestedUnits': '36692', 'price': '1.29748', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '13787.7389', 'gainQuoteHomeConversionFactor': '1.468753934504', 'lossQuoteHomeConversionFactor': '1.48351528058', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.0622', 'fullVWAP': '1.29748', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '1.29748', 'tradeID': '33991', 'units': '36692', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.0622', 'initialMarginRequired': '2342.3439'}, 'fullPrice': {'closeoutBid': '1.29715', 'closeoutAsk': '1.29766', 'timestamp': '2024-07-15T05:54:38.550036320Z', 'bids': [{'price': '1.29733', 'liquidity': '500000'}, {'price': '1.29732', 'liquidity': '2500000'}, {'price': '1.29730', 'liquidity': '2000000'}, {'price': '1.29729', 'liquidity': '5000000'}, {'price': '1.29724', 'liquidity': '10000000'}, {'price': '1.29715', 'liquidity': '5000000'}], 'asks': [{'price': '1.29748', 'liquidity': '500000'}, {'price': '1.29749', 'liquidity': '500000'}, {'price': '1.29750', 'liquidity': '2000000'}, {'price': '1.29751', 'liquidity': '2000000'}, {'price': '1.29753', 'liquidity': '5000000'}, {'price': '1.29757', 'liquidity': '10000000'}, {'price': '1.29766', 'liquidity': '5000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.46875393450410'}, 'lossQuoteHome': {'factor': '1.48351528057952'}, 'gainBaseHome': {'factor': '1.90556430'}, 'lossBaseHome': {'factor': '1.92471570'}}}, 'relatedTransactionIDs': ['33990', '33991', '33992', '33993'], 'lastTransactionID': '33993'}, Units: 36692.38439
+2024-07-15 15:54:34 Order placed for GBP_USD. Side: buy, Time: 2024-07-15 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '33990', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33990', 'requestID': '61261688674390876', 'time': '2024-07-15T05:54:39.328339457Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_USD', 'units': '36692', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '1.30383', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '1.28757', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '33991', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33990', 'requestID': '61261688674390876', 'time': '2024-07-15T05:54:39.328339457Z', 'type': 'ORDER_FILL', 'orderID': '33990', 'instrument': 'GBP_USD', 'units': '36692', 'requestedUnits': '36692', 'price': '1.29748', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '13787.7389', 'gainQuoteHomeConversionFactor': '1.468753934504', 'lossQuoteHomeConversionFactor': '1.48351528058', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.0622', 'fullVWAP': '1.29748', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '1.29748', 'tradeID': '33991', 'units': '36692', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '4.0622', 'initialMarginRequired': '2342.3439'}, 'fullPrice': {'closeoutBid': '1.29715', 'closeoutAsk': '1.29766', 'timestamp': '2024-07-15T05:54:38.550036320Z', 'bids': [{'price': '1.29733', 'liquidity': '500000'}, {'price': '1.29732', 'liquidity': '2500000'}, {'price': '1.29730', 'liquidity': '2000000'}, {'price': '1.29729', 'liquidity': '5000000'}, {'price': '1.29724', 'liquidity': '10000000'}, {'price': '1.29715', 'liquidity': '5000000'}], 'asks': [{'price': '1.29748', 'liquidity': '500000'}, {'price': '1.29749', 'liquidity': '500000'}, {'price': '1.29750', 'liquidity': '2000000'}, {'price': '1.29751', 'liquidity': '2000000'}, {'price': '1.29753', 'liquidity': '5000000'}, {'price': '1.29757', 'liquidity': '10000000'}, {'price': '1.29766', 'liquidity': '5000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.46875393450410'}, 'lossQuoteHome': {'factor': '1.48351528057952'}, 'gainBaseHome': {'factor': '1.90556430'}, 'lossBaseHome': {'factor': '1.92471570'}}}, 'relatedTransactionIDs': ['33990', '33991', '33992', '33993'], 'lastTransactionID': '33993'}, Units: 36692.38439
+2024-07-15 15:54:40 LogWrapper init()./logs/GBP_USD.log
+2024-07-15 15:54:41 Last candle data: instrument                       GBP_USD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.29742
+High                             1.29742
+Low                               1.2974
+Close                             1.2974
+smaHigh                         1.297476
+smaLow                          1.297397
+sslDown                         1.297397
+sslUp                           1.297476
+Position                             buy
+SIGNAL                              True
+SSL_BUY                             True
+SSL_SELL                           False
+ATR                             0.000064
+atrup                           1.297464
+atrdown                         1.297336
+SL                              1.297304
+TP                              1.297464
+baseline                        1.297414
+Name: 399, dtype: object
+2024-07-15 15:54:42 Order for id: 33991 for 36692 units of pair GBP_USD is getting closed as it was opened before.
+2024-07-15 15:54:46 Order placed for GBP_USD. Side: buy, Time: 2024-07-15 07:00:00+10:00, Details: {'orderCreateTransaction': {'id': '33998', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33998', 'requestID': '97290485745975072', 'time': '2024-07-15T05:54:51.376904398Z', 'type': 'MARKET_ORDER', 'instrument': 'GBP_USD', 'units': '36670', 'timeInForce': 'FOK', 'positionFill': 'DEFAULT', 'takeProfitOnFill': {'price': '1.30381', 'timeInForce': 'GTC'}, 'stopLossOnFill': {'price': '1.28755', 'timeInForce': 'GTC', 'triggerMode': 'TOP_OF_BOOK'}, 'reason': 'CLIENT_ORDER'}, 'orderFillTransaction': {'id': '33999', 'accountID': '101-011-24509333-004', 'userID': 24509333, 'batchID': '33998', 'requestID': '97290485745975072', 'time': '2024-07-15T05:54:51.376904398Z', 'type': 'ORDER_FILL', 'orderID': '33998', 'instrument': 'GBP_USD', 'units': '36670', 'requestedUnits': '36670', 'price': '1.29747', 'pl': '0.0000', 'quotePL': '0', 'financing': '0.0000', 'baseFinancing': '0', 'commission': '0.0000', 'accountBalance': '13779.5739', 'gainQuoteHomeConversionFactor': '1.468753934504', 'lossQuoteHomeConversionFactor': '1.48351528058', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '3.7891', 'fullVWAP': '1.29747', 'reason': 'MARKET_ORDER', 'tradeOpened': {'price': '1.29747', 'tradeID': '33999', 'units': '36670', 'guaranteedExecutionFee': '0.0000', 'quoteGuaranteedExecutionFee': '0', 'halfSpreadCost': '3.7891', 'initialMarginRequired': '2340.9639'}, 'fullPrice': {'closeoutBid': '1.29715', 'closeoutAsk': '1.29765', 'timestamp': '2024-07-15T05:54:42.290290355Z', 'bids': [{'price': '1.29733', 'liquidity': '463308'}, {'price': '1.29732', 'liquidity': '2500000'}, {'price': '1.29730', 'liquidity': '2000000'}, {'price': '1.29729', 'liquidity': '5000000'}, {'price': '1.29724', 'liquidity': '10000000'}, {'price': '1.29715', 'liquidity': '5000000'}], 'asks': [{'price': '1.29747', 'liquidity': '500000'}, {'price': '1.29748', 'liquidity': '500000'}, {'price': '1.29749', 'liquidity': '2000000'}, {'price': '1.29750', 'liquidity': '2000000'}, {'price': '1.29752', 'liquidity': '5000000'}, {'price': '1.29756', 'liquidity': '10000000'}, {'price': '1.29765', 'liquidity': '5000000'}]}, 'homeConversionFactors': {'gainQuoteHome': {'factor': '1.46875393450410'}, 'lossQuoteHome': {'factor': '1.48351528057952'}, 'gainBaseHome': {'factor': '1.90558420'}, 'lossBaseHome': {'factor': '1.92473580'}}}, 'relatedTransactionIDs': ['33998', '33999', '34000', '34001'], 'lastTransactionID': '34001'}, Units: 36669.76446

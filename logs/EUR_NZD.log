@@ -14673,3 +14673,394 @@ SL                              1.751813
 TP                              1.773641
 baseline                        1.761731
 Name: 399, dtype: object
+2024-07-15 15:32:42 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:32:43 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78555
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79439
+atrdown                          1.77671
+SL                              1.772289
+TP                               1.79439
+baseline                         1.77456
+Name: 399, dtype: object
+2024-07-15 15:34:23 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:34:23 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:34:24 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78556
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                             1.7944
+atrdown                          1.77672
+SL                              1.772299
+TP                                1.7944
+baseline                        1.774561
+Name: 399, dtype: object
+2024-07-15 15:34:24 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78556
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                             1.7944
+atrdown                          1.77672
+SL                              1.772299
+TP                                1.7944
+baseline                        1.774561
+Name: 399, dtype: object
+2024-07-15 15:35:34 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:35:35 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78552
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79436
+atrdown                          1.77668
+SL                              1.772259
+TP                               1.79436
+baseline                        1.774556
+Name: 399, dtype: object
+2024-07-15 15:37:12 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:37:12 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:37:14 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78565
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79449
+atrdown                          1.77681
+SL                              1.772389
+TP                               1.79449
+baseline                        1.774572
+Name: 399, dtype: object
+2024-07-15 15:37:14 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78565
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79449
+atrdown                          1.77681
+SL                              1.772389
+TP                               1.79449
+baseline                        1.774572
+Name: 399, dtype: object
+2024-07-15 15:38:48 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:38:49 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                             1.7857
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79454
+atrdown                          1.77686
+SL                              1.772439
+TP                               1.79454
+baseline                        1.774579
+Name: 399, dtype: object
+2024-07-15 15:43:24 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:43:26 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78564
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79448
+atrdown                           1.7768
+SL                              1.772379
+TP                               1.79448
+baseline                        1.774571
+Name: 399, dtype: object
+2024-07-15 15:45:00 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:45:00 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:45:02 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78569
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79453
+atrdown                          1.77685
+SL                              1.772429
+TP                               1.79453
+baseline                        1.774577
+Name: 399, dtype: object
+2024-07-15 15:45:02 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78569
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79453
+atrdown                          1.77685
+SL                              1.772429
+TP                               1.79453
+baseline                        1.774577
+Name: 399, dtype: object
+2024-07-15 15:46:35 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:46:35 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:46:35 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:46:36 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                             1.7858
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79464
+atrdown                          1.77696
+SL                              1.772539
+TP                               1.79464
+baseline                        1.774591
+Name: 399, dtype: object
+2024-07-15 15:46:36 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                             1.7858
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79464
+atrdown                          1.77696
+SL                              1.772539
+TP                               1.79464
+baseline                        1.774591
+Name: 399, dtype: object
+2024-07-15 15:46:36 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                             1.7858
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79464
+atrdown                          1.77696
+SL                              1.772539
+TP                               1.79464
+baseline                        1.774591
+Name: 399, dtype: object
+2024-07-15 15:46:59 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:47:00 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78602
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79486
+atrdown                          1.77718
+SL                              1.772759
+TP                               1.79486
+baseline                        1.774619
+Name: 399, dtype: object
+2024-07-15 15:47:23 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:47:24 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             1.78204
+High                             1.78744
+Low                              1.78146
+Close                            1.78604
+smaHigh                         1.776703
+smaLow                          1.768267
+sslDown                         1.768267
+sslUp                           1.776703
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.00884
+atrup                            1.79488
+atrdown                           1.7772
+SL                              1.772779
+TP                               1.79488
+baseline                        1.774621
+Name: 399, dtype: object
+2024-07-15 15:52:56 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:52:57 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                             1.78602
+High                             1.78602
+Low                              1.78602
+Close                            1.78602
+smaHigh                         1.785997
+smaLow                          1.785879
+sslDown                         1.785879
+sslUp                           1.785997
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000118
+atrup                           1.786138
+atrdown                         1.785902
+SL                              1.785843
+TP                              1.786138
+baseline                        1.786031
+Name: 399, dtype: object
+2024-07-15 15:54:53 LogWrapper init()./logs/EUR_NZD.log
+2024-07-15 15:54:54 Last candle data: instrument                       EUR_NZD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.78609
+High                             1.78618
+Low                              1.78608
+Close                            1.78614
+smaHigh                         1.786052
+smaLow                          1.785917
+sslDown                         1.785917
+sslUp                           1.786052
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000124
+atrup                           1.786264
+atrdown                         1.786016
+SL                              1.785954
+TP                              1.786264
+baseline                        1.786051
+Name: 399, dtype: object

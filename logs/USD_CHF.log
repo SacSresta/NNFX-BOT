@@ -14906,3 +14906,396 @@ SL                              0.893868
 TP                              0.905438
 baseline                        0.899838
 Name: 399, dtype: object
+2024-07-15 15:32:36 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:32:37 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89548
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900068
+atrdown                         0.890892
+SL                              0.902362
+TP                              0.890892
+baseline                        0.897134
+Name: 399, dtype: object
+2024-07-15 15:34:17 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:34:17 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:34:18 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89542
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900008
+atrdown                         0.890832
+SL                              0.902302
+TP                              0.890832
+baseline                        0.897126
+Name: 399, dtype: object
+2024-07-15 15:34:18 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89542
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900008
+atrdown                         0.890832
+SL                              0.902302
+TP                              0.890832
+baseline                        0.897126
+Name: 399, dtype: object
+2024-07-15 15:35:29 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:35:31 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89542
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900008
+atrdown                         0.890832
+SL                              0.902302
+TP                              0.890832
+baseline                        0.897126
+Name: 399, dtype: object
+2024-07-15 15:37:08 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:37:08 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:37:09 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89541
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.899998
+atrdown                         0.890822
+SL                              0.902292
+TP                              0.890822
+baseline                        0.897125
+Name: 399, dtype: object
+2024-07-15 15:37:09 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89541
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.899998
+atrdown                         0.890822
+SL                              0.902292
+TP                              0.890822
+baseline                        0.897125
+Name: 399, dtype: object
+2024-07-15 15:38:42 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:38:44 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89547
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900058
+atrdown                         0.890882
+SL                              0.902352
+TP                              0.890882
+baseline                        0.897132
+Name: 399, dtype: object
+2024-07-15 15:43:19 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:43:21 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                             0.8955
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900088
+atrdown                         0.890912
+SL                              0.902382
+TP                              0.890912
+baseline                        0.897136
+Name: 399, dtype: object
+2024-07-15 15:44:55 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:44:55 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:44:56 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                             0.8955
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900088
+atrdown                         0.890912
+SL                              0.902382
+TP                              0.890912
+baseline                        0.897136
+Name: 399, dtype: object
+2024-07-15 15:44:56 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                             0.8955
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900088
+atrdown                         0.890912
+SL                              0.902382
+TP                              0.890912
+baseline                        0.897136
+Name: 399, dtype: object
+2024-07-15 15:46:30 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:46:30 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:46:30 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:46:31 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89552
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900108
+atrdown                         0.890932
+SL                              0.902402
+TP                              0.890932
+baseline                        0.897139
+Name: 399, dtype: object
+2024-07-15 15:46:31 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89552
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900108
+atrdown                         0.890932
+SL                              0.902402
+TP                              0.890932
+baseline                        0.897139
+Name: 399, dtype: object
+2024-07-15 15:46:31 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89552
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900108
+atrdown                         0.890932
+SL                              0.902402
+TP                              0.890932
+baseline                        0.897139
+Name: 399, dtype: object
+2024-07-15 15:46:54 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:46:55 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                             0.8955
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900088
+atrdown                         0.890912
+SL                              0.902382
+TP                              0.890912
+baseline                        0.897136
+Name: 399, dtype: object
+2024-07-15 15:47:18 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:47:19 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.8945
+High                             0.89724
+Low                               0.8944
+Close                            0.89558
+smaHigh                         0.900568
+smaLow                          0.896253
+sslDown                         0.900568
+sslUp                           0.896253
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004588
+atrup                           0.900168
+atrdown                         0.890992
+SL                              0.902462
+TP                              0.890992
+baseline                        0.897146
+Name: 399, dtype: object
+2024-07-15 15:52:52 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:52:53 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 15:52:00+10:00
+granularity                           M1
+Open                             0.89564
+High                             0.89564
+Low                              0.89557
+Close                            0.89558
+smaHigh                         0.895584
+smaLow                          0.895528
+sslDown                         0.895528
+sslUp                           0.895584
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000053
+atrup                           0.895633
+atrdown                         0.895527
+SL                              0.895501
+TP                              0.895633
+baseline                         0.89557
+Name: 399, dtype: object
+2024-07-15 15:54:36 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:54:36 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:54:48 LogWrapper init()./logs/USD_CHF.log
+2024-07-15 15:54:49 Last candle data: instrument                       USD_CHF
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             0.89558
+High                              0.8956
+Low                              0.89553
+Close                            0.89554
+smaHigh                         0.895602
+smaLow                           0.89554
+sslDown                          0.89554
+sslUp                           0.895602
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000053
+atrup                           0.895593
+atrdown                         0.895487
+SL                               0.89546
+TP                              0.895593
+baseline                        0.895584
+Name: 399, dtype: object

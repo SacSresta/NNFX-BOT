@@ -1,0 +1,27 @@
+2024-07-15 17:59:58 LogWrapper init()./logs/CHF_ZAR.log
+2024-07-15 17:59:59 Last candle data: instrument                       CHF_ZAR
+Time           2024-07-15 18:00:00+10:00
+granularity                           M1
+Open                            20.20152
+High                            20.20303
+Low                             20.20152
+Close                           20.20252
+smaHigh                        20.208525
+smaLow                         20.203765
+sslDown                        20.208525
+sslUp                          20.203765
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.005718
+atrup                          20.208238
+atrdown                        20.196802
+SL                             20.211097
+TP                             20.196802
+baseline                       20.204956
+Name: 399, dtype: object
+2024-07-15 18:17:09 LogWrapper init()./logs/CHF_ZAR.log
+2024-07-15 18:28:27 LogWrapper init()./logs/CHF_ZAR.log
+2024-07-15 18:28:41 LogWrapper init()./logs/CHF_ZAR.log
+2024-07-15 18:28:53 LogWrapper init()./logs/CHF_ZAR.log

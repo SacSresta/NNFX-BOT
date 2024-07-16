@@ -13790,3 +13790,305 @@ SL                             107.31574
 TP                            109.119507
 baseline                       107.40675
 Name: 399, dtype: object
+2024-07-15 15:32:57 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:32:59 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            107.007
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.779382
+atrdown                       106.234618
+SL                            108.165573
+TP                            106.234618
+baseline                      108.090375
+Name: 399, dtype: object
+2024-07-15 15:34:35 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:34:35 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:34:36 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.992
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.764382
+atrdown                       106.219618
+SL                            108.150573
+TP                            106.219618
+baseline                        108.0885
+Name: 399, dtype: object
+2024-07-15 15:34:36 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.992
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.764382
+atrdown                       106.219618
+SL                            108.150573
+TP                            106.219618
+baseline                        108.0885
+Name: 399, dtype: object
+2024-07-15 15:35:50 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:35:51 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.994
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.766382
+atrdown                       106.221618
+SL                            108.152573
+TP                            106.221618
+baseline                       108.08875
+Name: 399, dtype: object
+2024-07-15 15:37:24 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:37:24 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:37:26 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.986
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.758382
+atrdown                       106.213618
+SL                            108.144573
+TP                            106.213618
+baseline                       108.08775
+Name: 399, dtype: object
+2024-07-15 15:37:26 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.986
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.758382
+atrdown                       106.213618
+SL                            108.144573
+TP                            106.213618
+baseline                       108.08775
+Name: 399, dtype: object
+2024-07-15 15:39:04 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:39:05 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.989
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.761382
+atrdown                       106.216618
+SL                            108.147573
+TP                            106.216618
+baseline                      108.088125
+Name: 399, dtype: object
+2024-07-15 15:43:37 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:43:38 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            107.001
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.773382
+atrdown                       106.228618
+SL                            108.159573
+TP                            106.228618
+baseline                      108.089625
+Name: 399, dtype: object
+2024-07-15 15:45:13 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:45:13 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:45:14 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            107.007
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.779382
+atrdown                       106.234618
+SL                            108.165573
+TP                            106.234618
+baseline                      108.090375
+Name: 399, dtype: object
+2024-07-15 15:45:14 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            107.007
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.779382
+atrdown                       106.234618
+SL                            108.165573
+TP                            106.234618
+baseline                      108.090375
+Name: 399, dtype: object
+2024-07-15 15:46:46 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:46:46 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:46:46 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:47:34 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:47:35 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             107.112
+High                             107.239
+Low                              106.869
+Close                            106.994
+smaHigh                         108.4286
+smaLow                          107.6945
+sslDown                         108.4286
+sslUp                           107.6945
+Position                            sell
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.772382
+atrup                         107.766382
+atrdown                       106.221618
+SL                            108.152573
+TP                            106.221618
+baseline                       108.08875
+Name: 399, dtype: object
+2024-07-15 15:53:07 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:53:09 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                              107.01
+High                              107.01
+Low                              107.008
+Close                             107.01
+smaHigh                         107.0077
+smaLow                          106.9975
+sslDown                         106.9975
+sslUp                           107.0077
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.011311
+atrup                         107.021311
+atrdown                       106.998689
+SL                            106.993033
+TP                            107.021311
+baseline                         107.004
+Name: 399, dtype: object
+2024-07-15 15:55:08 LogWrapper init()./logs/AUD_JPY.log
+2024-07-15 15:55:09 Last candle data: instrument                       AUD_JPY
+Time           2024-07-15 15:55:00+10:00
+granularity                           M1
+Open                             107.011
+High                             107.018
+Low                              107.011
+Close                            107.018
+smaHigh                         107.0094
+smaLow                          107.0001
+sslDown                         107.0001
+sslUp                           107.0094
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.011111
+atrup                         107.029111
+atrdown                       107.006889
+SL                            107.001334
+TP                            107.029111
+baseline                       107.00825
+Name: 399, dtype: object

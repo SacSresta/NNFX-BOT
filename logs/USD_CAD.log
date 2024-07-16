@@ -14882,3 +14882,440 @@ SL                               1.37214
 TP                              1.357407
 baseline                        1.367853
 Name: 399, dtype: object
+2024-07-15 15:32:35 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:32:36 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36556
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370546
+atrdown                         1.360574
+SL                              1.358081
+TP                              1.370546
+baseline                        1.363342
+Name: 399, dtype: object
+2024-07-15 15:34:15 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:34:15 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:34:17 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36557
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370556
+atrdown                         1.360584
+SL                              1.358091
+TP                              1.370556
+baseline                        1.363344
+Name: 399, dtype: object
+2024-07-15 15:34:17 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36557
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370556
+atrdown                         1.360584
+SL                              1.358091
+TP                              1.370556
+baseline                        1.363344
+Name: 399, dtype: object
+2024-07-15 15:35:28 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:35:29 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36558
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370566
+atrdown                         1.360594
+SL                              1.358101
+TP                              1.370566
+baseline                        1.363345
+Name: 399, dtype: object
+2024-07-15 15:37:06 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:37:06 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:37:08 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36566
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370646
+atrdown                         1.360674
+SL                              1.358181
+TP                              1.370646
+baseline                        1.363355
+Name: 399, dtype: object
+2024-07-15 15:37:08 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36566
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370646
+atrdown                         1.360674
+SL                              1.358181
+TP                              1.370646
+baseline                        1.363355
+Name: 399, dtype: object
+2024-07-15 15:38:41 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:38:42 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36574
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370726
+atrdown                         1.360754
+SL                              1.358261
+TP                              1.370726
+baseline                        1.363365
+Name: 399, dtype: object
+2024-07-15 15:43:18 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:43:19 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36574
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370726
+atrdown                         1.360754
+SL                              1.358261
+TP                              1.370726
+baseline                        1.363365
+Name: 399, dtype: object
+2024-07-15 15:44:54 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:44:54 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:44:55 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36574
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370726
+atrdown                         1.360754
+SL                              1.358261
+TP                              1.370726
+baseline                        1.363365
+Name: 399, dtype: object
+2024-07-15 15:44:55 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36574
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370726
+atrdown                         1.360754
+SL                              1.358261
+TP                              1.370726
+baseline                        1.363365
+Name: 399, dtype: object
+2024-07-15 15:46:29 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:46:29 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:46:29 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:46:30 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36576
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370746
+atrdown                         1.360774
+SL                              1.358281
+TP                              1.370746
+baseline                        1.363368
+Name: 399, dtype: object
+2024-07-15 15:46:30 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36576
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370746
+atrdown                         1.360774
+SL                              1.358281
+TP                              1.370746
+baseline                        1.363368
+Name: 399, dtype: object
+2024-07-15 15:46:30 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36576
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370746
+atrdown                         1.360774
+SL                              1.358281
+TP                              1.370746
+baseline                        1.363368
+Name: 399, dtype: object
+2024-07-15 15:46:53 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:46:54 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36575
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370736
+atrdown                         1.360764
+SL                              1.358271
+TP                              1.370736
+baseline                        1.363366
+Name: 399, dtype: object
+2024-07-15 15:47:17 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:47:18 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              1.3645
+High                             1.36588
+Low                              1.36315
+Close                            1.36576
+smaHigh                         1.366239
+smaLow                           1.36188
+sslDown                          1.36188
+sslUp                           1.366239
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004986
+atrup                           1.370746
+atrdown                         1.360774
+SL                              1.358281
+TP                              1.370746
+baseline                        1.363368
+Name: 399, dtype: object
+2024-07-15 15:52:51 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:52:52 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 15:52:00+10:00
+granularity                           M1
+Open                             1.36574
+High                             1.36576
+Low                              1.36572
+Close                            1.36573
+smaHigh                         1.365762
+smaLow                          1.365712
+sslDown                         1.365712
+sslUp                           1.365762
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000051
+atrup                           1.365781
+atrdown                         1.365679
+SL                              1.365654
+TP                              1.365781
+baseline                        1.365736
+Name: 399, dtype: object
+2024-07-15 15:54:35 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:54:35 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:54:36 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.36576
+High                             1.36576
+Low                              1.36575
+Close                            1.36576
+smaHigh                         1.365764
+smaLow                          1.365715
+sslDown                         1.365715
+sslUp                           1.365764
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000047
+atrup                           1.365807
+atrdown                         1.365713
+SL                              1.365689
+TP                              1.365807
+baseline                        1.365736
+Name: 399, dtype: object
+2024-07-15 15:54:36 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.36576
+High                             1.36576
+Low                              1.36575
+Close                            1.36576
+smaHigh                         1.365764
+smaLow                          1.365715
+sslDown                         1.365715
+sslUp                           1.365764
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000047
+atrup                           1.365807
+atrdown                         1.365713
+SL                              1.365689
+TP                              1.365807
+baseline                        1.365736
+Name: 399, dtype: object
+2024-07-15 15:54:47 LogWrapper init()./logs/USD_CAD.log
+2024-07-15 15:54:48 Last candle data: instrument                       USD_CAD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             1.36576
+High                             1.36576
+Low                              1.36575
+Close                            1.36576
+smaHigh                         1.365764
+smaLow                          1.365715
+sslDown                         1.365715
+sslUp                           1.365764
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000047
+atrup                           1.365807
+atrdown                         1.365713
+SL                              1.365689
+TP                              1.365807
+baseline                        1.365736
+Name: 399, dtype: object

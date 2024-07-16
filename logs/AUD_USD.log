@@ -14997,3 +14997,465 @@ SL                              0.664725
 TP                              0.676417
 baseline                        0.667015
 Name: 399, dtype: object
+2024-07-15 15:32:34 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:32:35 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67756
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681721
+atrdown                         0.673399
+SL                              0.671318
+TP                              0.681721
+baseline                        0.675255
+Name: 399, dtype: object
+2024-07-15 15:34:14 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:34:14 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:34:15 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67754
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681701
+atrdown                         0.673379
+SL                              0.671298
+TP                              0.681701
+baseline                        0.675253
+Name: 399, dtype: object
+2024-07-15 15:34:15 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67754
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681701
+atrdown                         0.673379
+SL                              0.671298
+TP                              0.681701
+baseline                        0.675253
+Name: 399, dtype: object
+2024-07-15 15:34:52 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:35:27 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:35:28 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67756
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681721
+atrdown                         0.673399
+SL                              0.671318
+TP                              0.681721
+baseline                        0.675255
+Name: 399, dtype: object
+2024-07-15 15:37:05 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:37:05 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:37:06 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67748
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681641
+atrdown                         0.673319
+SL                              0.671238
+TP                              0.681641
+baseline                        0.675245
+Name: 399, dtype: object
+2024-07-15 15:37:06 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67748
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681641
+atrdown                         0.673319
+SL                              0.671238
+TP                              0.681641
+baseline                        0.675245
+Name: 399, dtype: object
+2024-07-15 15:38:40 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:38:41 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67738
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681541
+atrdown                         0.673219
+SL                              0.671138
+TP                              0.681541
+baseline                        0.675233
+Name: 399, dtype: object
+2024-07-15 15:43:17 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:43:18 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67747
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681631
+atrdown                         0.673309
+SL                              0.671228
+TP                              0.681631
+baseline                        0.675244
+Name: 399, dtype: object
+2024-07-15 15:44:52 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:44:52 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:44:54 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67743
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681591
+atrdown                         0.673269
+SL                              0.671188
+TP                              0.681591
+baseline                        0.675239
+Name: 399, dtype: object
+2024-07-15 15:44:54 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67743
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681591
+atrdown                         0.673269
+SL                              0.671188
+TP                              0.681591
+baseline                        0.675239
+Name: 399, dtype: object
+2024-07-15 15:46:28 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:46:28 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:46:28 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:46:29 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67741
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681571
+atrdown                         0.673249
+SL                              0.671168
+TP                              0.681571
+baseline                        0.675236
+Name: 399, dtype: object
+2024-07-15 15:46:29 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67741
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681571
+atrdown                         0.673249
+SL                              0.671168
+TP                              0.681571
+baseline                        0.675236
+Name: 399, dtype: object
+2024-07-15 15:46:29 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67741
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681571
+atrdown                         0.673249
+SL                              0.671168
+TP                              0.681571
+baseline                        0.675236
+Name: 399, dtype: object
+2024-07-15 15:46:52 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:46:53 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67741
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681571
+atrdown                         0.673249
+SL                              0.671168
+TP                              0.681571
+baseline                        0.675236
+Name: 399, dtype: object
+2024-07-15 15:47:16 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:47:17 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.6773
+High                             0.67796
+Low                              0.67624
+Close                            0.67736
+smaHigh                         0.675224
+smaLow                          0.671623
+sslDown                         0.671623
+sslUp                           0.675224
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004161
+atrup                           0.681521
+atrdown                         0.673199
+SL                              0.671118
+TP                              0.681521
+baseline                         0.67523
+Name: 399, dtype: object
+2024-07-15 15:47:59 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:48:00 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 15:48:00+10:00
+granularity                           M1
+Open                             0.67737
+High                              0.6774
+Low                              0.67737
+Close                             0.6774
+smaHigh                         0.677442
+smaLow                          0.677395
+sslDown                         0.677395
+sslUp                           0.677442
+Position                             buy
+SIGNAL                              True
+SSL_BUY                             True
+SSL_SELL                           False
+ATR                             0.000055
+atrup                           0.677455
+atrdown                         0.677345
+SL                              0.677318
+TP                              0.677455
+baseline                        0.677425
+Name: 399, dtype: object
+2024-07-15 15:48:01 Order for id: 33966 for -49873 units of pair USD_CAD is getting closed as it was opened before.
+2024-07-15 15:52:50 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:52:51 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 15:52:00+10:00
+granularity                           M1
+Open                              0.6774
+High                             0.67747
+Low                               0.6774
+Close                            0.67746
+smaHigh                          0.67746
+smaLow                          0.677399
+sslDown                         0.677399
+sslUp                            0.67746
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000065
+atrup                           0.677525
+atrdown                         0.677395
+SL                              0.677363
+TP                              0.677525
+baseline                        0.677425
+Name: 399, dtype: object
+2024-07-15 15:54:34 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:54:34 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:54:35 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             0.67745
+High                             0.67746
+Low                              0.67744
+Close                            0.67744
+smaHigh                         0.677455
+smaLow                            0.6774
+sslDown                           0.6774
+sslUp                           0.677455
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000058
+atrup                           0.677498
+atrdown                         0.677382
+SL                              0.677352
+TP                              0.677498
+baseline                        0.677432
+Name: 399, dtype: object
+2024-07-15 15:54:35 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             0.67745
+High                             0.67746
+Low                              0.67744
+Close                            0.67744
+smaHigh                         0.677455
+smaLow                            0.6774
+sslDown                           0.6774
+sslUp                           0.677455
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000058
+atrup                           0.677498
+atrdown                         0.677382
+SL                              0.677352
+TP                              0.677498
+baseline                        0.677432
+Name: 399, dtype: object
+2024-07-15 15:54:46 LogWrapper init()./logs/AUD_USD.log
+2024-07-15 15:54:47 Last candle data: instrument                       AUD_USD
+Time           2024-07-15 15:54:00+10:00
+granularity                           M1
+Open                             0.67745
+High                             0.67746
+Low                              0.67744
+Close                            0.67744
+smaHigh                         0.677455
+smaLow                            0.6774
+sslDown                           0.6774
+sslUp                           0.677455
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000058
+atrup                           0.677498
+atrdown                         0.677382
+SL                              0.677352
+TP                              0.677498
+baseline                        0.677432
+Name: 399, dtype: object

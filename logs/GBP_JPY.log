@@ -14546,3 +14546,394 @@ SL                            203.954137
 TP                            206.962242
 baseline                       204.14525
 Name: 399, dtype: object
+2024-07-15 15:32:51 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:32:52 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.952
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.417493
+atrdown                       203.486507
+SL                            202.753761
+TP                            206.417493
+baseline                       205.88275
+Name: 399, dtype: object
+2024-07-15 15:34:30 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:34:30 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:34:31 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.916
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.381493
+atrdown                       203.450507
+SL                            202.717761
+TP                            206.381493
+baseline                       205.87825
+Name: 399, dtype: object
+2024-07-15 15:34:31 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.916
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.381493
+atrdown                       203.450507
+SL                            202.717761
+TP                            206.381493
+baseline                       205.87825
+Name: 399, dtype: object
+2024-07-15 15:35:43 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:35:45 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.917
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.382493
+atrdown                       203.451507
+SL                            202.718761
+TP                            206.382493
+baseline                      205.878375
+Name: 399, dtype: object
+2024-07-15 15:37:19 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:37:19 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:37:21 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.918
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.383493
+atrdown                       203.452507
+SL                            202.719761
+TP                            206.383493
+baseline                        205.8785
+Name: 399, dtype: object
+2024-07-15 15:37:21 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.918
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.383493
+atrdown                       203.452507
+SL                            202.719761
+TP                            206.383493
+baseline                        205.8785
+Name: 399, dtype: object
+2024-07-15 15:38:56 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:38:58 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.948
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.413493
+atrdown                       203.482507
+SL                            202.749761
+TP                            206.413493
+baseline                       205.88225
+Name: 399, dtype: object
+2024-07-15 15:43:32 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:43:33 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.946
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.411493
+atrdown                       203.480507
+SL                            202.747761
+TP                            206.411493
+baseline                         205.882
+Name: 399, dtype: object
+2024-07-15 15:45:08 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:45:08 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:45:09 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.957
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.422493
+atrdown                       203.491507
+SL                            202.758761
+TP                            206.422493
+baseline                      205.883375
+Name: 399, dtype: object
+2024-07-15 15:45:09 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.957
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.422493
+atrdown                       203.491507
+SL                            202.758761
+TP                            206.422493
+baseline                      205.883375
+Name: 399, dtype: object
+2024-07-15 15:46:42 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:46:42 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:46:42 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:46:43 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.925
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.390493
+atrdown                       203.459507
+SL                            202.726761
+TP                            206.390493
+baseline                      205.879375
+Name: 399, dtype: object
+2024-07-15 15:46:43 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.925
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.390493
+atrdown                       203.459507
+SL                            202.726761
+TP                            206.390493
+baseline                      205.879375
+Name: 399, dtype: object
+2024-07-15 15:46:43 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.925
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.390493
+atrdown                       203.459507
+SL                            202.726761
+TP                            206.390493
+baseline                      205.879375
+Name: 399, dtype: object
+2024-07-15 15:47:05 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:47:06 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.942
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.407493
+atrdown                       203.476507
+SL                            202.743761
+TP                            206.407493
+baseline                        205.8815
+Name: 399, dtype: object
+2024-07-15 15:47:29 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:47:30 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                             205.116
+High                             205.417
+Low                              204.803
+Close                            204.936
+smaHigh                         206.4527
+smaLow                          204.8684
+sslDown                         204.8684
+sslUp                           206.4527
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             1.465493
+atrup                         206.401493
+atrdown                       203.470507
+SL                            202.737761
+TP                            206.401493
+baseline                       205.88075
+Name: 399, dtype: object
+2024-07-15 15:53:03 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:53:04 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                             204.936
+High                             204.936
+Low                              204.936
+Close                            204.936
+smaHigh                         204.9503
+smaLow                          204.9275
+sslDown                         204.9275
+sslUp                           204.9503
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.021302
+atrup                         204.957302
+atrdown                       204.914698
+SL                            204.904047
+TP                            204.957302
+baseline                      204.937875
+Name: 399, dtype: object
+2024-07-15 15:54:59 LogWrapper init()./logs/GBP_JPY.log
+2024-07-15 15:55:00 Last candle data: instrument                       GBP_JPY
+Time           2024-07-15 15:55:00+10:00
+granularity                           M1
+Open                              204.94
+High                              204.94
+Low                              204.938
+Close                             204.94
+smaHigh                         204.9456
+smaLow                           204.928
+sslDown                          204.928
+sslUp                           204.9456
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                              0.01969
+atrup                          204.95969
+atrdown                        204.92031
+SL                            204.910465
+TP                             204.95969
+baseline                      204.937875
+Name: 399, dtype: object

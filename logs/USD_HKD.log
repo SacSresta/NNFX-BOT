@@ -1,0 +1,6 @@
+2024-07-15 17:59:59 LogWrapper init()./logs/USD_HKD.log
+2024-07-15 18:17:10 LogWrapper init()./logs/USD_HKD.log
+2024-07-15 18:28:28 LogWrapper init()./logs/USD_HKD.log
+2024-07-15 18:28:42 LogWrapper init()./logs/USD_HKD.log
+2024-07-15 18:28:54 LogWrapper init()./logs/USD_HKD.log
+2024-07-15 18:28:57 Order for id: 34027 for -1 units of pair GBP_USD is getting closed as it was opened before.

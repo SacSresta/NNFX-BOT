@@ -13798,3 +13798,302 @@ SL                               0.90888
 TP                               0.92018
 baseline                        0.912334
 Name: 399, dtype: object
+2024-07-15 15:33:00 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:33:02 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92521
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929486
+atrdown                         0.920934
+SL                              0.918796
+TP                              0.929486
+baseline                        0.920577
+Name: 399, dtype: object
+2024-07-15 15:34:37 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:34:37 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:34:39 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92522
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929496
+atrdown                         0.920944
+SL                              0.918806
+TP                              0.929496
+baseline                        0.920579
+Name: 399, dtype: object
+2024-07-15 15:34:39 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92522
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929496
+atrdown                         0.920944
+SL                              0.918806
+TP                              0.929496
+baseline                        0.920579
+Name: 399, dtype: object
+2024-07-15 15:35:52 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:35:54 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92522
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929496
+atrdown                         0.920944
+SL                              0.918806
+TP                              0.929496
+baseline                        0.920579
+Name: 399, dtype: object
+2024-07-15 15:37:27 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:37:27 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:37:28 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92518
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929456
+atrdown                         0.920904
+SL                              0.918766
+TP                              0.929456
+baseline                        0.920574
+Name: 399, dtype: object
+2024-07-15 15:37:28 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92518
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929456
+atrdown                         0.920904
+SL                              0.918766
+TP                              0.929456
+baseline                        0.920574
+Name: 399, dtype: object
+2024-07-15 15:39:06 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:39:08 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92516
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929436
+atrdown                         0.920884
+SL                              0.918746
+TP                              0.929436
+baseline                        0.920571
+Name: 399, dtype: object
+2024-07-15 15:43:40 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:43:41 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92521
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929486
+atrdown                         0.920934
+SL                              0.918796
+TP                              0.929486
+baseline                        0.920577
+Name: 399, dtype: object
+2024-07-15 15:45:15 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:45:15 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:45:16 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92518
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929456
+atrdown                         0.920904
+SL                              0.918766
+TP                              0.929456
+baseline                        0.920574
+Name: 399, dtype: object
+2024-07-15 15:45:16 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92518
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929456
+atrdown                         0.920904
+SL                              0.918766
+TP                              0.929456
+baseline                        0.920574
+Name: 399, dtype: object
+2024-07-15 15:47:36 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:47:37 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 07:00:00+10:00
+granularity                            D
+Open                              0.9242
+High                              0.9253
+Low                              0.92316
+Close                            0.92509
+smaHigh                         0.920665
+smaLow                          0.916759
+sslDown                         0.916759
+sslUp                           0.920665
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.004276
+atrup                           0.929366
+atrdown                         0.920814
+SL                              0.918676
+TP                              0.929366
+baseline                        0.920562
+Name: 399, dtype: object
+2024-07-15 15:53:10 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:53:11 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 15:53:00+10:00
+granularity                           M1
+Open                             0.92518
+High                              0.9252
+Low                              0.92518
+Close                             0.9252
+smaHigh                           0.9252
+smaLow                          0.925132
+sslDown                         0.925132
+sslUp                             0.9252
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000066
+atrup                           0.925266
+atrdown                         0.925134
+SL                              0.925101
+TP                              0.925266
+baseline                        0.925159
+Name: 399, dtype: object
+2024-07-15 15:55:11 LogWrapper init()./logs/AUD_CAD.log
+2024-07-15 15:55:12 Last candle data: instrument                       AUD_CAD
+Time           2024-07-15 15:55:00+10:00
+granularity                           M1
+Open                             0.92522
+High                             0.92528
+Low                              0.92522
+Close                            0.92528
+smaHigh                         0.925212
+smaLow                          0.925144
+sslDown                         0.925144
+sslUp                           0.925212
+Position                             buy
+SIGNAL                             False
+SSL_BUY                            False
+SSL_SELL                           False
+ATR                             0.000065
+atrup                           0.925345
+atrdown                         0.925215
+SL                              0.925182
+TP                              0.925345
+baseline                        0.925192
+Name: 399, dtype: object
