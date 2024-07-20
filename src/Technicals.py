@@ -56,6 +56,18 @@ class Indicator:
 
         df['trendUp'] = np.where(df['t1'] >= 0, df['t1'], 0)
         df['trendDown'] = np.where(df['t1'] < 0, -df['t1'], 0)
+        def final_signal(row):
+            long_conditon = row['Close'] > row['baseline'] and row['SSL_BUY'] and row['trendUp']>row['e1']
+            short_conditon = row['Close'] < row['baseline'] and row['SSL_SELL'] and row['trendDown']>row['e1']
+
+            if long_conditon:
+                return "BUY"
+            elif short_conditon:
+                return "SELL"
+            else:
+                return None
+
+        df['FINAL_SIGNAL'] = df.apply(final_signal,axis = 1)
 
         return df
 if __name__ == "__main__":

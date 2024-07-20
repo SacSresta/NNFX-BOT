@@ -7,7 +7,7 @@ import os
 from src.logger import LogWrapper
 from src.Trademanager import Trademanager
 from src.utils import save_all_candle_data,save_candle_data
-from src.functions import last_candle_function,running_trades
+from src.Strategy import last_candle_function,running_trades
 def main():
     instrument = [
         "EUR_USD", "USD_JPY", "GBP_USD", "AUD_USD", "USD_CAD", "USD_CHF", "NZD_USD",

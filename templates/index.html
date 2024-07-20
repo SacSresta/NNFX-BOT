@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+</head>
+<body>
+    <h1>Welcome to the Flask App</h1>
+    <button id="runButton" type="button">Run Main Function</button>
+    <button id="stopButton" type="button" style="display:none;">Stop Bot</button>
+    <p id="status"></p>
+
+    <script>
+        document.getElementById("runButton").onclick = function() {
+            fetch('/run-main', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    alert(data.message);
+                    if (data.message === "Bot is running") {
+                        document.getElementById("status").innerText = "Bot is running";
+                        document.getElementById("runButton").style.display = "none";
+                        document.getElementById("stopButton").style.display = "inline";
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        document.getElementById("stopButton").onclick = function() {
+            fetch('/stop-main', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    alert(data.message);
+                    if (data.message === "Bot has been stopped") {
+                        document.getElementById("status").innerText = "Bot is stopped";
+                        document.getElementById("runButton").style.display = "inline";
+                        document.getElementById("stopButton").style.display = "none";
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>

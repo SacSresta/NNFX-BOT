@@ -35,6 +35,7 @@ class ForexData:
         r = instruments.InstrumentsCandles(instrument=instrument, params=params)
         response = self.api.request(r)
         return self.process_data(response,price_type=price_type)
+        
 
     def process_data(self, response, price_type='ask'):
 

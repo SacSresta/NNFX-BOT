@@ -1,23 +1,35 @@
-# For more information, please refer to https://aka.ms/vscode-docker-python
-FROM python:3-slim
+# Use the official Python image from the Docker Hub
+FROM python:3.11-slim
 
-# Keeps Python from generating .pyc files in the container
-ENV PYTHONDONTWRITEBYTECODE=1
+# Set the working directory in the container
+WORKDIR /application
 
-# Turns off buffering for easier container logging
-ENV PYTHONUNBUFFERED=1
+# Copy the current directory contents into the container at /application
+COPY . /application
 
-# Install pip requirements
-COPY requirements.txt .
-RUN python -m pip install -r requirements.txt
+# Update the package list and install dependencies for TA_Lib and awscli
+RUN apt-get update -y && apt-get install -y \
+    build-essential \
+    gcc \
+    libffi-dev \
+    python3-dev \
+    libssl-dev \
+    libatlas-base-dev \
+    wget \
+    awscli
 
-WORKDIR /app
-COPY . /app
+# Install TA_Lib from source
+RUN wget http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz && \
+    tar -xzf ta-lib-0.4.0-src.tar.gz && \
+    cd ta-lib && \
+    ./configure --prefix=/usr && \
+    make && \
+    make install && \
+    cd .. && \
+    rm -rf ta-lib ta-lib-0.4.0-src.tar.gz
 
-# Creates a non-root user with an explicit UID and adds permission to access the /app folder
-# For more info, please refer to https://aka.ms/vscode-docker-python-configure-containers
-RUN adduser -u 5678 --disabled-password --gecos "" appuser && chown -R appuser /app
-USER appuser
+# Install any needed packages specified in requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# During debugging, this entry point will be overridden. For more information, please refer to https://aka.ms/vscode-docker-python-debug
-CMD ["python", "bot\Lib\site-packages\setuptools\monkey.py"]
+# Run application.py when the container launches
+CMD ["python3", "app.py"]
