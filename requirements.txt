@@ -7,3 +7,4 @@ plotly
 technical
 requests
 Flask
+Talib

@@ -1,0 +1,17 @@
+README.md
+setup.py
+backtest/__init__.py
+backtest/backtest_check.py
+check.egg-info/PKG-INFO
+check.egg-info/SOURCES.txt
+check.egg-info/dependency_links.txt
+check.egg-info/top_level.txt
+src/Exception.py
+src/Strategy.py
+src/Technicals.py
+src/Trademanager.py
+src/__init__.py
+src/data.py
+src/logger.py
+src/main.py
+src/utils.py
