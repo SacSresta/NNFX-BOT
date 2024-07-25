@@ -1,0 +1,8 @@
+oandapyV20
+numpy
+pandas
+plotly
+technical
+requests
+Flask
+TA-Lib

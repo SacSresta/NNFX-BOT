@@ -1,0 +1,13 @@
+2024-07-23 16:47:58,104:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.64:5000
+2024-07-23 16:47:58,104:INFO:[33mPress CTRL+C to quit[0m
+2024-07-23 16:47:58,109:INFO: * Restarting with stat
+2024-07-23 16:47:58,958:WARNING: * Debugger is active!
+2024-07-23 16:47:58,961:INFO: * Debugger PIN: 122-676-670
+2024-07-23 16:48:27,749:INFO:Candle data saved to candle_data_all.csv.
+2024-07-23 16:48:29,240:INFO:Candle data saved to candle_data_all.csv.
+2024-07-23 16:48:30,476:INFO:Candle data saved to candle_data_all.csv.
+2024-07-23 16:48:30,811:INFO:Script interrupted. Saving collected candle data.
+2024-07-23 16:48:30,832:INFO:Candle data saved to candle_data_all.csv.
