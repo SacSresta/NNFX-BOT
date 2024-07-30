@@ -7,6 +7,10 @@ Forexbot_1.1.egg-info/requires.txt
 Forexbot_1.1.egg-info/top_level.txt
 backtest/__init__.py
 backtest/backtest_check.py
+nepse/__init__.py
+nepse/backtest_nepse.py
+nepse/data_fetcher.py
+nepse/data_transformer.py
 src/Exception.py
 src/Strategy.py
 src/Technicals.py

@@ -29,8 +29,8 @@ requirements_file_path = 'C:/Users/sachi/OneDrive/Documents/BOTS/nnfx_bot/requir
 wheel_file_path = 'file:///C:/Users/sachi/OneDrive/Documents/BOTS/nnfx_bot/TA_Lib-0.4.28-cp311-cp311-win_amd64.whl'
 
 setup(
-    name='Forexbot_1.1',
-    version='0.0.1',
+    name='Forexbot_1',
+    version='0.0.2',
     author='Sacheen',
     author_email='sachin.shrestha42@gmail.com',
     packages=find_packages(),
