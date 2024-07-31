@@ -9,8 +9,7 @@ from datetime import timedelta, datetime
 import os
 import time
 
-
-def selenium_web(days = 10) :
+def selenium_web(days=10):
     driver = webdriver.Chrome()
     current_date = datetime.now()
 
@@ -74,14 +73,16 @@ def selenium_web(days = 10) :
                         format_df(df, current_date)
 
                         # Ensure the directory exists
-                        if not os.path.exists('data'):
-                            os.makedirs('data')
+                        directory_path = r'C:\Users\sachi\OneDrive\Documents\BOTS\nnfx_bot\nepse\datas'
+                        if not os.path.exists(directory_path):
+                            os.makedirs(directory_path)
+                            print(f"Directory {directory_path} created")
 
                         # Save the DataFrame to a CSV file
-                        file_name = f"data/data_{current_date.strftime('%Y-%m-%d')}.csv"
+                        file_name = os.path.join(directory_path, f"data_{current_date.strftime('%Y-%m-%d')}.csv")
                         df.to_csv(file_name, index=False)
                         df_list.append(df)
-                        print(f"Data extracted from {current_date.strftime('%Y/%m/%d')}")
+                        print(f"Data extracted and saved to {file_name}")
                     else:
                         print(f"Market closed on {current_date.strftime('%Y/%m/%d')}")
 
@@ -102,3 +103,5 @@ def format_df(df, current_date):
     df.insert(0, "Date", current_date.strftime("%Y-%m-%d"))
     return df
 
+if __name__ == "__main__":
+    selenium_web(days=15)

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import re
 from nepse.data_fetcher import selenium_web
-def process_csv_files(input_folder=r'C:\Users\sachi\OneDrive\Documents\BOTS\nnfx_bot\nepse\data',
+def process_csv_files(input_folder=r'C:\Users\sachi\OneDrive\Documents\BOTS\nnfx_bot\nepse\datas',
                       output_folder=r'C:\Users\sachi\OneDrive\Documents\BOTS\nnfx_bot\nepse\data_check'):
     # List all files in the input folder
     files = os.listdir(input_folder)
@@ -59,8 +59,7 @@ def process_csv_files(input_folder=r'C:\Users\sachi\OneDrive\Documents\BOTS\nnfx
             print(f"Error saving file for symbol {symbol}: {e}")
 
 
+
 if __name__ == "__main__":
-    df = selenium_web(days=5)
-    print(df)
     process_csv_files()
 
