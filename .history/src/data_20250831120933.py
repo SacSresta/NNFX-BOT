@@ -10,7 +10,7 @@ import pandas as pd
 import time
 
 accountID = "101-011-24509333-004"
-access_token = "520b515d891e87cf8f27d830de49234a-47d2ad80965b378dd3da71ee085a5bd0"
+access_token = "5c2da6fbe43ec464a3816fc74229f496-e6769428284068cfcf8dca4a32febf83"
 
 class ForexData:
     def __init__(self, accountID=accountID, access_token=access_token):

@@ -1,7 +1,5 @@
 from src.data import ForexData
 import pandas as pd
-import numpy as np
-np.NaN = np.nan
 import pandas_ta as ta
 import plotly.graph_objects as go
 import numpy as np

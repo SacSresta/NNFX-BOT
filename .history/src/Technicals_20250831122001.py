@@ -1,7 +1,5 @@
 from src.data import ForexData
 import pandas as pd
-import numpy as np
-np.NaN = np.nan
 import pandas_ta as ta
 import plotly.graph_objects as go
 import numpy as np
@@ -33,7 +31,7 @@ class Indicator:
 
 
     def ATR(self, data, timeperiod=14):
-        data['ATR'] = data.ta.atr(high='High', low='Low', close='Close', length=timeperiod)
+        data['ATR'] = talib.ATR(data['High'].values, data['Low'].values, data['Close'].values, timeperiod=timeperiod)
         data['atrup'] = data['Close'] + data['ATR']
         data['atrdown'] = data['Close'] - data['ATR']
 
@@ -45,8 +43,7 @@ class Indicator:
     
     def WAE(self, df, sensitivity=150, fastLength=20, slowLength=40, channelLength=20, mult=2.0):
         df['Close'] = df['Close'].astype(float)
-        macd = df.ta.macd(close='Close', fast=fastLength, slow=slowLength, signal=9)
-        df['macd'] = macd['MACD_' + str(fastLength) + '_' + str(slowLength) + '_9']
+        df['macd'], _, _ = talib.MACD(df['Close'], fastperiod=fastLength, slowperiod=slowLength, signalperiod=9)
 
         # Manual Bollinger Bands calculation
         df['std'] = df['Close'].rolling(window=channelLength).std()
