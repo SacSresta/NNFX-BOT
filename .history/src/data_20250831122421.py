@@ -8,12 +8,9 @@ from oandapyV20.exceptions import V20Error
 import oandapyV20.endpoints.positions as position
 import pandas as pd
 import time
-import os
-from dotenv import load_dotenv
-load_dotenv()
 
-accountID = os.getenv("OANDA_ACCOUNT_ID")
-access_token = os.getenv("OANDA_ACCESS_KEY")
+accountID = "101-011-24509333-004"
+access_token = "520b515d891e87cf8f27d830de49234a-47d2ad80965b378dd3da71ee085a5bd0"
 
 class ForexData:
     def __init__(self, accountID=accountID, access_token=access_token):

@@ -8,7 +8,6 @@ from oandapyV20.exceptions import V20Error
 import oandapyV20.endpoints.positions as position
 import pandas as pd
 import time
-import os
 from dotenv import load_dotenv
 load_dotenv()
 
